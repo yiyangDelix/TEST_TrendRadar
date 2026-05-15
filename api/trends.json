@@ -1,411 +1,11 @@
 {
-  "generated_at": "2026-05-16T01:45:04.423356+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-05-16T03:22:55.990831+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 35,
-      "titles": [
-        {
-          "title": "习近平主席今年秋季访美",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E4%BB%8A%E5%B9%B4%E7%A7%8B%E5%AD%A3%E8%AE%BF%E7%BE%8E",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33181994",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "高市早苗赶忙和特朗普通电话",
-          "url": "https://news.ifeng.com/c/8t9bt9Na6ev",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "习主席今秋访美",
-          "url": "https://www.douyin.com/hot/2500671",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "特朗普结束对中国的国事访问，乘专机离开北京，如何评价此次来访？",
-          "url": "https://www.zhihu.com/question/2038626152567281104",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普在中南海小范围会晤",
-          "url": "https://wallstreetcn.com/articles/3772334",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "特朗普说能待得惯可能都不想走了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%83%BD%E5%BE%85%E5%BE%97%E6%83%AF%E5%8F%AF%E8%83%BD%E9%83%BD%E4%B8%8D%E6%83%B3%E8%B5%B0%E4%BA%86%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "详讯丨习近平为美国总统特朗普举行欢迎宴会",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33178453",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "特朗普结束访华离开北京",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E%E7%A6%BB%E5%BC%80%E5%8C%97%E4%BA%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "特朗普称中方同意购买200架波音飞机，外交部回应",
-          "url": "https://news.ifeng.com/c/8t9GTpf4N3w",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
-          "url": "https://www.cls.cn/detail/2372433",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "特朗普离开这一幕中国军人尽显英姿",
-          "url": "https://www.toutiao.com/trending/7639049468456992787/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "澎湃读报丨特朗普到访后中美元首密集互动，各大报头版聚焦",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33181024",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "特朗普：待惯了的话 可能都舍不得走",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%85%E6%83%AF%E4%BA%86%E7%9A%84%E8%AF%9D+%E5%8F%AF%E8%83%BD%E9%83%BD%E8%88%8D%E4%B8%8D%E5%BE%97%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "特朗普结束访华 乘专机离开北京",
-          "url": "https://www.douyin.com/hot/2499944",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33182143",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "美国总统特朗普结束访华",
-          "url": "https://wallstreetcn.com/articles/3772343",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33181476",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "特朗普：热情期待在华盛顿接待习主席",
-          "url": "https://www.toutiao.com/trending/7638941233318104619/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "媒体报道称俄罗斯总统普京即将访华，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2038367718697431356",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "美国总统特朗普结束访华离京",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33182040",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "第一轮投票无人胜出，秘鲁总统选举将举行第二轮投票",
-          "url": "https://wallstreetcn.com/livenews/3104572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "特朗普结束访华 登空军一号挥手告别",
-          "url": "https://www.toutiao.com/trending/7639187811891904539/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：已对哈马斯武装派别实际领导人实施了空袭。",
-          "url": "https://flash.jin10.com/detail/20260516011427781800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：以色列国防军目前正在阿兹·阿尔展开追杀，此人是哈马斯军事分支的领导人。",
-          "url": "https://flash.jin10.com/detail/20260516011134360800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "外交部就特朗普访华情况答记者问",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "证监会主席吴清最新发声",
-          "url": "https://www.toutiao.com/trending/7640049707406442550/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "外交部介绍美国总统特朗普访华情况，称「两国元首达成一系列新共识」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2038577207740715513",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
-          "title": "特朗普结束访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
-        },
-        {
-          "title": "中方回应特朗普社媒言论",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A4%BE%E5%AA%92%E8%A8%80%E8%AE%BA%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
-        },
-        {
-          "title": "特朗普离京 王毅机场送行",
-          "url": "https://www.toutiao.com/trending/7640008667797917211/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 01时45分]"
-        },
-        {
-          "title": "据沙特媒体Alhadath：以色列方面表示，为可能与伊朗恢复战斗做好准备。恢复对伊朗的战争决定仍然取决于特朗普总统。",
-          "url": "https://flash.jin10.com/detail/20260516010528421800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "印度总理莫迪：有关酝酿外国旅游税的报道“失实”。",
-          "url": "https://wallstreetcn.com/livenews/3104560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "外交部发言人就美国总统特朗普访华情况答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33181420",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "特朗普团队拟重塑加沙“钱途” 巴勒斯坦税收恐被挪用",
-          "url": "https://flash.jin10.com/detail/20260516002931658800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美国 伊朗",
-      "match_count": 31,
+      "match_count": 48,
       "titles": [
         {
           "title": "美国中央情报局局长跑去古巴，想干啥？",
@@ -415,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
         },
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -427,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
         },
         {
           "title": "美国能源部长赖特：美国能“轻松”将天然气出口量翻一番",
@@ -448,9 +48,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "黎巴嫩驻美国大使：三方谈判为黎巴嫩带来了显著的外交进展。",
+          "url": "https://flash.jin10.com/detail/20260516030945914800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "美国10年期国债收益率日内上涨10个基点，至4.58%。",
@@ -462,6 +73,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "以色列驻美国大使：与黎巴嫩的谈判成功机会很大。",
+          "url": "https://flash.jin10.com/detail/20260516025916462800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "以色列驻美国大使：与黎巴嫩的和平谈判是坦诚和富有成效的。",
+          "url": "https://flash.jin10.com/detail/20260516025814782800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "TankerTrackers：伊朗石油运输减少主因可能是泄漏事故，而非美国封锁",
+          "url": "https://wallstreetcn.com/livenews/3104590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "伊朗战争冲击供应 美国炼油厂加速满负荷生产",
@@ -486,17 +130,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "美国5月15日当周天然气钻井数 128，前值 129。",
-          "url": "https://wallstreetcn.com/livenews/3104570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
           "title": "阿联酋发表声明，明确拒绝伊朗在金砖国家会议期间提出的指控，以及其试图为针对阿联酋的袭击行为进行辩护的企图。",
           "url": "https://flash.jin10.com/detail/20260515232148401800",
           "source": "金十数据",
@@ -508,15 +141,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "美国5月15日当周石油钻井数 415，前值 410。",
-          "url": "https://wallstreetcn.com/livenews/3104569",
+          "title": "美国法官辩论是否因能源紧急状态维持煤电厂运营",
+          "url": "https://wallstreetcn.com/livenews/3104586",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "03时22分"
         },
         {
           "title": "美国10年期国债收益率涨10个基点，报4.58%。",
@@ -530,15 +163,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "美国5月15日当周总钻井数 551，前值 548。",
-          "url": "https://wallstreetcn.com/livenews/3104568",
+          "title": "美国务院：以色列与黎巴嫩之间的停火协议将延长45天",
+          "url": "https://wallstreetcn.com/livenews/3104585",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时45分"
+          "time_info": "03时22分"
         },
         {
           "title": "美银策略师Hartnett：美国CPI恐将在中期选举之前就突破5%这个“马奇诺防线”",
@@ -560,8 +193,55 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "美国5月15日当周天然气钻井数 128，前值 129。",
+          "url": "https://wallstreetcn.com/livenews/3104570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 03时22分]"
+        },
+        {
+          "title": "美国5月15日当周石油钻井数 415，前值 410。",
+          "url": "https://wallstreetcn.com/livenews/3104569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 03时22分]"
+        },
+        {
+          "title": "美国5月15日当周总钻井数 551，前值 548。",
+          "url": "https://wallstreetcn.com/livenews/3104568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 03时22分]"
+        },
+        {
+          "title": "美国证交会文件显示：老虎环球将所持Spotify(SPOT.N)股份增加25.3%，升至160万股。",
+          "url": "https://flash.jin10.com/detail/20260516022735855800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "美国能源部长赖特：美国每月从委内瑞拉的石油出口中收取约20-30亿美元，并将这些收入转用于委内瑞拉政府的支出。",
@@ -575,15 +255,48 @@
           "time_info": "00时02分"
         },
         {
+          "title": "以官员：以色列正在为重启对伊朗军事行动做准备",
+          "url": "https://flash.jin10.com/detail/20260516021834227800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
           "title": "美国至5月15日当周天然气钻井总数 128口，前值129口。",
           "url": "https://flash.jin10.com/detail/20260516010107740800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "美国证交会文件显示：老虎环球将所持博通(AVGO.O)股份增加24.7%，升至360万股。",
+          "url": "https://flash.jin10.com/detail/20260516021748736800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国30年期国债收益率涨10个基点，报5.13%。",
+          "url": "https://wallstreetcn.com/livenews/3104582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "美国7年期国债收益率日内上涨10个基点，至4.41%。",
@@ -603,7 +316,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         },
@@ -625,9 +338,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "美国证交会文件显示：老虎环球将所持台积电(TSM.N)股份增加49.4%，升至560万单位存托凭证。",
+          "url": "https://flash.jin10.com/detail/20260516021659226800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "现代汽车美国首席游说官在任职一年后离职",
@@ -636,7 +360,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         },
@@ -658,7 +382,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         },
@@ -669,9 +393,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "美国务院：以色列与黎巴嫩之间的停火协议将延长45天",
+          "url": "https://flash.jin10.com/detail/20260516021017445800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "美国国家气象局表示，厄尔尼诺现象很可能在5-7月间出现，并将在2026年底至2027年初期间持续影响北半球。",
@@ -685,13 +420,57 @@
           "time_info": "00时02分"
         },
         {
+          "title": "美国联邦航空管理局正针对性地削减空中交通管制员的人员配置水平，同时承诺推进排班制度现代化。",
+          "url": "https://flash.jin10.com/detail/20260516020927320800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "市场消息：以色列与黎巴嫩的谈判在美国国务院结束。",
+          "url": "https://flash.jin10.com/detail/20260516020650964800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "巴基斯坦外长：20名被美国军方扣押的伊朗人已被送回国。",
+          "url": "https://flash.jin10.com/detail/20260516020531535800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "惠誉：美国房价高估状况总体保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260516020024595800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
           "title": "伊朗革命卫队：在西北部阿尔达比勒省破获一个隶属于摩萨德的间谍网络，并逮捕了其中一名主要成员。",
           "url": "https://flash.jin10.com/detail/20260516002146408800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         },
@@ -749,12 +528,471 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "伊朗驻联合国大使：巴勒斯坦的未来应由巴勒斯坦人民自己决定。",
+          "url": "https://flash.jin10.com/detail/20260516014504278800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普 总统 主席 总理",
+      "match_count": 39,
+      "titles": [
+        {
+          "title": "习近平主席今年秋季访美",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E4%BB%8A%E5%B9%B4%E7%A7%8B%E5%AD%A3%E8%AE%BF%E7%BE%8E",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "详讯丨习近平同美国总统特朗普在中南海小范围会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181994",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "高市早苗赶忙和特朗普通电话",
+          "url": "https://news.ifeng.com/c/8t9bt9Na6ev",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "习主席今秋访美",
+          "url": "https://www.douyin.com/hot/2500671",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普结束对中国的国事访问，乘专机离开北京，如何评价此次来访？",
+          "url": "https://www.zhihu.com/question/2038626152567281104",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普在中南海小范围会晤",
+          "url": "https://wallstreetcn.com/articles/3772334",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普说能待得惯可能都不想走了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%83%BD%E5%BE%85%E5%BE%97%E6%83%AF%E5%8F%AF%E8%83%BD%E9%83%BD%E4%B8%8D%E6%83%B3%E8%B5%B0%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "详讯丨习近平为美国总统特朗普举行欢迎宴会",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33178453",
+          "source": "澎湃新闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普结束访华离开北京",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E%E7%A6%BB%E5%BC%80%E5%8C%97%E4%BA%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普称中方同意购买200架波音飞机，外交部回应",
+          "url": "https://news.ifeng.com/c/8t9GTpf4N3w",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
+          "url": "https://www.cls.cn/detail/2372433",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普离开这一幕中国军人尽显英姿",
+          "url": "https://www.toutiao.com/trending/7639049468456992787/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "澎湃读报丨特朗普到访后中美元首密集互动，各大报头版聚焦",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181024",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普：待惯了的话 可能都舍不得走",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%BE%85%E6%83%AF%E4%BA%86%E7%9A%84%E8%AF%9D+%E5%8F%AF%E8%83%BD%E9%83%BD%E8%88%8D%E4%B8%8D%E5%BE%97%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普结束访华 乘专机离开北京",
+          "url": "https://www.douyin.com/hot/2499944",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普称中方同意购买200架波音飞机，外交部：中美经贸关系本质是互利共赢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182143",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "美国总统特朗普结束访华",
+          "url": "https://wallstreetcn.com/articles/3772343",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "直播丨美国总统特朗普结束访华，乘专机离开北京",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181476",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普：热情期待在华盛顿接待习主席",
+          "url": "https://www.toutiao.com/trending/7638941233318104619/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "媒体报道称俄罗斯总统普京即将访华，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2038367718697431356",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "美国总统特朗普结束访华离京",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33182040",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普结束访华 登空军一号挥手告别",
+          "url": "https://www.toutiao.com/trending/7639187811891904539/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "市场消息：特朗普政府正推动加快阿拉斯加的石油许可。",
+          "url": "https://flash.jin10.com/detail/20260516023552194800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：已对哈马斯武装派别实际领导人实施了空袭。",
+          "url": "https://flash.jin10.com/detail/20260516011427781800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "【以军：以色列正在为重启对伊朗军事行动做准备】当地时间15日晚，总台记者获悉，一位以色列高级官员称，以色列正在为即将重启针对伊朗的军事行动做准备，军事行动可能将“持续数天甚至数周”。这位官员表示：“美国人明白与伊朗的谈判毫无进展”。他补充道：“我们正在为持续数天甚至数周的战斗做准备，并等待特朗普总统的最终决定。未来24小时内我们将了解更多情况”。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3104587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：以色列国防军目前正在阿兹·阿尔展开追杀，此人是哈马斯军事分支的领导人。",
+          "url": "https://flash.jin10.com/detail/20260516011134360800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "第一轮投票无人胜出，秘鲁总统选举将举行第二轮投票",
+          "url": "https://wallstreetcn.com/livenews/3104572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 03时22分]"
+        },
+        {
+          "title": "外交部就特朗普访华情况答记者问",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%83%85%E5%86%B5%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "证监会主席吴清最新发声",
+          "url": "https://www.toutiao.com/trending/7640049707406442550/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "外交部介绍美国总统特朗普访华情况，称「两国元首达成一系列新共识」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2038577207740715513",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普离京 王毅机场送行",
+          "url": "https://www.toutiao.com/trending/7640008667797917211/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普结束访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%93%E6%9D%9F%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 01时45分]"
+        },
+        {
+          "title": "中方回应特朗普社媒言论",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A4%BE%E5%AA%92%E8%A8%80%E8%AE%BA%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 01时45分]"
+        },
+        {
+          "title": "据沙特媒体Alhadath：以色列方面表示，为可能与伊朗恢复战斗做好准备。恢复对伊朗的战争决定仍然取决于特朗普总统。",
+          "url": "https://flash.jin10.com/detail/20260516010528421800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "默茨与特朗普通电话，似有意修补德美关系",
+          "url": "https://wallstreetcn.com/livenews/3104583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "印度总理莫迪：有关酝酿外国旅游税的报道“失实”。",
+          "url": "https://wallstreetcn.com/livenews/3104560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "外交部发言人就美国总统特朗普访华情况答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33181420",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "证监会主席吴清最新发声",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E4%B8%BB%E5%B8%AD%E5%90%B4%E6%B8%85%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "特朗普团队拟重塑加沙“钱途” 巴勒斯坦税收恐被挪用",
+          "url": "https://flash.jin10.com/detail/20260516002931658800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
         }
       ]
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI全员娘化,豆包变呆瓜",
@@ -764,8 +1002,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
         },
         {
           "title": "AI热潮催生2026最大IPO！“英伟达挑战者”Cerebras首秀盘中翻倍高涨",
@@ -776,8 +1014,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
         },
         {
           "title": "OpenAI与Plaid构建合作伙伴关系，将利用ChatGPT提供个性化金融顾问服务。",
@@ -814,6 +1052,19 @@
           "time_info": "[00时02分 ~ 01时45分]"
         },
         {
+          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
+          "url": "https://www.zhihu.com/question/2035685308566610183",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
           "title": "汽车与AI提振美国制造业产量，战争引发的供应短缺隐忧浮现",
           "url": "https://wallstreetcn.com/livenews/3104546",
           "source": "华尔街见闻-快讯",
@@ -826,16 +1077,15 @@
           "time_info": "[00时02分 ~ 01时45分]"
         },
         {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也没好好抓住？",
-          "url": "https://www.zhihu.com/question/2035685308566610183",
-          "source": "知乎",
+          "title": "云南小伙用AI制作短片爆红",
+          "url": "https://www.douyin.com/hot/2499805",
+          "source": "抖音",
           "ranks": [
-            19,
-            17
+            13
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
@@ -844,9 +1094,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "市场消息：OpenAI告知员工将启动重组，整合全线业务产品。",
+          "url": "https://flash.jin10.com/detail/20260516014944429800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "英国政府：企业应采取措施限制前沿AI模型的风险",
@@ -863,7 +1124,7 @@
     },
     {
       "keyword_group": "美股 道琼斯 纳斯达克 标普500",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "全球长债收益率飙升，美股走低，纳指跌2%，英伟达跌4%，白银大跌9%，黄金跌3%",
@@ -878,6 +1139,29 @@
           "time_info": "[00时02分 ~ 01时45分]"
         },
         {
+          "title": "原油大涨掀债市抛售潮，美股回落，盘中纳指跌2%，加息预期升温，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3772341",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2372862",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        },
+        {
           "title": "美银策略师：6月初将是美股获利了结的良机",
           "url": "https://wallstreetcn.com/livenews/3104548",
           "source": "华尔街见闻-快讯",
@@ -890,27 +1174,16 @@
           "time_info": "[00时02分 ~ 01时45分]"
         },
         {
-          "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2372862",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
-        },
-        {
           "title": "数字货币市场周五走低，比特币在美股开盘时加速下跌",
           "url": "https://wallstreetcn.com/livenews/3104567",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 03时22分]"
         },
         {
           "title": "美股软件股上涨，Workday(WDAY.O)涨3.9%，Salesforce(CRM.N)涨3.5%，Adobe(ADBE.O)涨3.2%，Zscaler涨3%。",
@@ -941,7 +1214,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         },
@@ -963,7 +1236,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
         }
@@ -971,7 +1244,7 @@
     },
     {
       "keyword_group": "特斯拉 微软 Meta 英伟达 亚马逊",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普Q1交易：大幅减持亚马逊、Meta和微软，买入英伟达、博通和苹果，抄底甲骨文、Adobe等软件股",
@@ -981,8 +1254,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
         },
         {
           "title": "对冲基金经理比尔·阿克曼：我们出售了谷歌(GOOG.O)，购买了微软(MSFT.O)。",
@@ -1003,8 +1276,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
         },
         {
           "title": "对冲基金潘兴广场创始人兼经理比尔·阿克曼：我们卖出谷歌，买入微软。",
@@ -1016,6 +1289,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "美国证交会文件显示：老虎环球将所持英伟达(NVDA.O)股份增加9.1%，升至1200万股。",
+          "url": "https://flash.jin10.com/detail/20260516021729149800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        },
+        {
+          "title": "美国证交会文件显示：老虎环球将所持Meta股份增加12.2%，升至310万股A类股票。",
+          "url": "https://flash.jin10.com/detail/20260516021714256800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         }
       ]
     },
@@ -1032,8 +1327,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
         },
         {
           "title": "一批上市公司将告别A股",
@@ -1089,8 +1384,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
         },
         {
           "title": "证监会：将更好支持包括服务和消费领域在内的各类实体经济企业发展壮大",
@@ -1101,8 +1396,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
         }
       ]
     },
@@ -1119,8 +1414,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
         },
         {
           "title": "法兴银行警告：美债收益率现失控迹象，沃什任初面临“大考”！",
@@ -1147,8 +1442,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
         }
       ]
     },
@@ -1165,8 +1460,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
         }
       ]
     },
@@ -1183,8 +1478,42 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "恒生 恒生科技",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒生指数主连夜盘收跌0.29%，报25733点。 恒生科技指数主连夜盘收跌0.59%，报4895点。",
+          "url": "https://wallstreetcn.com/livenews/3104595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 腾讯 拼多多 小米 美团 泡泡玛特 兆易创新",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯天美七年投入数十亿，《王者荣耀世界》却公测数据惨淡，为什么会这样？",
+          "url": "https://www.zhihu.com/question/2037922321579630864",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         }
       ]
     }
