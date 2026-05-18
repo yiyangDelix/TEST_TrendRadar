@@ -1,11 +1,668 @@
 {
-  "generated_at": "2026-05-18T10:41:37.750446+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-05-18T14:51:45.644832+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普 总统 主席 总理",
+      "match_count": 56,
+      "titles": [
+        {
+          "title": "【早报】俄罗斯总统普京将访华；商务部公布中美经贸磋商初步成果",
+          "url": "https://www.cls.cn/detail/2373253",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 07时53分]"
+        },
+        {
+          "title": "“千里之行，始于足下”，哈萨克斯坦总统用中文感谢中国",
+          "url": "https://news.ifeng.com/c/8tCHtXG6RXQ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 07时53分]"
+        },
+        {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 10时41分]"
+        },
+        {
+          "title": "特朗普访华后续观察",
+          "url": "https://www.douyin.com/hot/2502108",
+          "source": "抖音",
+          "ranks": [
+            11,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时51分 ~ 05时49分]"
+        },
+        {
+          "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
+          "url": "https://www.zhihu.com/question/2039007666429583394",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20,
+            18,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时47分]"
+        },
+        {
+          "title": "特朗普威胁伊朗，又开始倒计时了",
+          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 14时51分]"
+        },
+        {
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 14时51分]"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://www.toutiao.com/trending/7641033902121058340/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 14时51分]"
+        },
+        {
+          "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
+          "url": "https://wallstreetcn.com/livenews/3104904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时06分 ~ 07时53分]"
+        },
+        {
+          "title": "欧盟委员会执行副主席东布罗夫斯基斯：将向七国集团更新关于近期900亿欧元的乌克兰贷款计划，其中首笔拨款可能在6月进行。",
+          "url": "https://flash.jin10.com/detail/20260518143813384800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "特朗普向伊朗发出武力威胁，周二或讨论军事行动选项；英国政局动荡升级，斯塔默打算辞去英国首相职务。当前现货金银多头占比维持高位，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260518103149296800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "加拿大总理卡尼：加拿大与国际原子能机构一道，谴责今日针对阿联酋巴拉卡核电站发动的无人机袭击。以和平核能设施为攻击目标，将对人类生命及环境构成严重风险。加拿大坚定地与阿联酋的朋友们站在一起，并重申该地区当前迫切需要保持克制与缓和局势。",
+          "url": "https://flash.jin10.com/detail/20260518035447088800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时06分 ~ 06时47分]"
+        },
+        {
+          "title": "如何看待特朗普访华和战争威胁？伊朗民众回应",
+          "url": "https://news.ifeng.com/c/8tDhN597aTX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "据AXIOS：两名美国官员透露，美国总统特朗普预计将于周二在战情室与他的高级国家安全团队举行会议，讨论（伊朗）军事行动的选项。",
+          "url": "https://flash.jin10.com/detail/20260518011814397800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：很高兴能与瑞典首相及印度总理莫迪一同相聚哥德堡。我们达成的协议预示着双方关系迈入了一个崭新的时代。",
+          "url": "https://flash.jin10.com/detail/20260518011218870800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "欧盟委员会执行副主席东布罗夫斯基斯重申尽快开放霍尔木兹海峡的必要性。",
+          "url": "https://flash.jin10.com/detail/20260518143451084800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "欧盟委员会执行副主席东布罗夫斯基斯：七国集团将讨论乌克兰和伊朗的战争。",
+          "url": "https://flash.jin10.com/detail/20260518143424612800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "以媒：内塔尼亚胡与特朗普通话，讨论重启对伊战事可能性",
+          "url": "https://wallstreetcn.com/livenews/3104905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时06分 ~ 07时53分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯（Alhadath）：特朗普对以色列媒体表示，‘伊朗应当感到恐惧，并对我保持警惕。’",
+          "url": "https://flash.jin10.com/detail/20260518010104759800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "“新债王”、DoubleLine Capital的CEOJeffrey Gundlach：在美国通胀率高于美联储政策利率之际，美联储（候任）主席凯文·沃什处境艰难。 美联储下一次行动可能会加息。 预计美国下一次披露的CPI通胀率将高于4.0%（但不到5.0%）。 看好大宗商品，对黄金持中性看法。 我肯定担心私人信用市场（的现状）。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3104901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时06分 ~ 06时47分]"
+        },
+        {
+          "title": "特朗普称仍相信伊朗有意达成协议",
+          "url": "https://flash.jin10.com/detail/20260518055636442800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗副总统表示，伊朗将不再允许敌方的军事装备通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260518023048693800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 05时49分]"
+        },
+        {
+          "title": "特朗普涉台“四不”示警“台独”",
+          "url": "https://news.ifeng.com/c/8tDfE3dO9u7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗总统佩泽希齐扬表示，美国和以色列政权正企图推行分裂性计划并制造不信任，以挑拨穆斯林国家相互对抗。",
+          "url": "https://flash.jin10.com/detail/20260517235350901800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "阿联酋总统外交顾问表示，针对巴拉卡核电站的袭击，无论是由“主要肇事者”直接实施，还是通过其“代理人之一”进行，均构成危险的局势升级。",
+          "url": "https://flash.jin10.com/detail/20260518005707071800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "特朗普的格陵兰岛特使抵达当地首府努克",
+          "url": "https://flash.jin10.com/detail/20260518022203493800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时00分 ~ 05时49分]"
+        },
+        {
+          "title": "卡塔尔外交部发表声明称，卡塔尔首相与巴基斯坦总理谢赫巴兹·谢里夫通电话，讨论巴基斯坦在伊朗战争中的调解努力。卡塔尔首相重申卡塔尔全力支持巴基斯坦为通过和平手段结束危机而进行的调解努力。",
+          "url": "https://flash.jin10.com/detail/20260518001615603800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时54分]"
+        },
+        {
+          "title": "吉尔吉斯总统呼吁支持该国成为安理会非常任理事国",
+          "url": "https://flash.jin10.com/detail/20260518043941064800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时47分]"
+        },
+        {
+          "title": "美国参议员格雷厄姆敦促特朗普恢复对伊朗的打击",
+          "url": "https://flash.jin10.com/detail/20260518001435288800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时51分 ~ 01时54分]"
+        },
+        {
+          "title": "特朗普会晤国安高层后发文警告伊朗快点行动，否则将一无所有",
+          "url": "https://flash.jin10.com/detail/20260518041826426800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时49分 ~ 06时47分]"
+        },
+        {
+          "title": "德国前总理默克尔：我们并未通过将其从宪法中移除的方式来彻底废除征兵制，我们只是将其暂停了。这意味着，如今只需获得简单多数票，即可对其进行再次修改。",
+          "url": "https://flash.jin10.com/detail/20260518005650896800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "美总统涉台“四不”示警“台独”",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%80%BB%E7%BB%9F%E6%B6%89%E5%8F%B0%E2%80%9C%E5%9B%9B%E4%B8%8D%E2%80%9D%E7%A4%BA%E8%AD%A6%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 14时51分]"
+        },
+        {
+          "title": "特朗普称仍相信伊朗有意达成协议",
+          "url": "https://wallstreetcn.com/livenews/3104917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
+          "url": "https://www.zhihu.com/question/2038636185115779503",
+          "source": "知乎",
+          "ranks": [
+            19,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时49分 ~ 07时53分]"
+        },
+        {
+          "title": "据AXIOS网站：美国总统特朗普表示，他仍然认为伊朗希望达成协议，并表示他正在等待伊朗提出更新的方案，希望新方案能比几天前提出的方案更好。他拒绝给出与伊朗谈判的具体期限。",
+          "url": "https://flash.jin10.com/detail/20260518021439286800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时00分 ~ 04时06分]"
+        },
+        {
+          "title": "美国总统特朗普的格陵兰岛特使兰德里抵达努克。",
+          "url": "https://flash.jin10.com/detail/20260518021311306800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时00分 ~ 04时06分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：我们还讨论了乌克兰的欧洲一体化进程。我们已做好准备启动相关谈判组别的开放工作，我们就此事的具体时间表及必要的沟通安排进行了探讨。",
+          "url": "https://flash.jin10.com/detail/20260518020043159800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时00分 ~ 04时06分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：我向他通报了我们近期与欧洲各国领导人以及美方进行的接触情况。我们一致认为，欧洲必须参与到谈判之中。",
+          "url": "https://flash.jin10.com/detail/20260518020015610800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时00分 ~ 04时06分]"
+        },
+        {
+          "title": "据伊朗Press TV：伊拉克总理已向该国海关当局下达直接指令，要求允许伊朗货物经由伊拉克领土进行过境和转运。",
+          "url": "https://flash.jin10.com/detail/20260518030722552800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 05时49分]"
+        },
+        {
+          "title": "据AXIOS网站：美国总统特朗普周六与万斯、威特科夫及鲁比奥见面，商讨伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260518024439981800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时06分 ~ 05时49分]"
+        },
+        {
+          "title": "德国前总理默克尔：他们之前指出，在欧洲内部，我们已不再面临需要通过军事手段进行自卫的问题。德国在这一思维上并非特例——现实情况确实已经发生了变化。",
+          "url": "https://flash.jin10.com/detail/20260518005632388800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "特朗普称「伊斯兰国」二号头目被「清除」，可信度如何？可能带来什么影响？",
+          "url": "https://www.zhihu.com/question/2038948707844846917",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "德国前总理默克尔：（谈征兵制）我理解人们如今为何再次想要调整军事征兵制度。但在当时，曾有专门的委员会力主暂停这一制度。",
+          "url": "https://flash.jin10.com/detail/20260518005605922800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "泰媒：泰国总理召集商界领袖讨论经济对策",
+          "url": "https://wallstreetcn.com/livenews/3104926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "特朗普威胁伊朗：时间在流逝 赶快行动",
+          "url": "https://flash.jin10.com/detail/20260518005103401800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：和欧洲理事会主席科斯塔进行了交谈。我们详细探讨了旨在为乌克兰及整个欧洲实现和平的谈判进程的前景。",
+          "url": "https://flash.jin10.com/detail/20260518015959779800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "据AXIOS：以色列官员透露，特朗普已与以色列总理内塔尼亚胡通电话，并讨论了伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260517233453161800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：今天，我们正在对莫斯科展开大规模行动。这次目标距离超过500公里。战争不出所料地又回到了它的“发源地”，这清楚地表明，任何人都不应该招惹乌克兰。",
+          "url": "https://flash.jin10.com/detail/20260518004513498800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "美国总统特朗普：对伊朗来说，时间在流逝，他们最好迅速行动，否则将一无所剩。",
+          "url": "https://flash.jin10.com/detail/20260518004343934800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "特朗普与内塔尼亚胡通话：讨论重启对伊朗军事打击！美以联合空袭风险骤增",
+          "url": "https://flash.jin10.com/detail/20260518064310354800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：我们的远程打击能力正显著改变战局——更广泛而言，也在改变世界对这场战争的认知。如今，许多合作伙伴已发出信号，表明他们看清了正在发生的一切，也看清了局势的彻底转变——无论是在对这场战争的态度上，还是在对俄罗斯境内目标的可打击范围上。",
+          "url": "https://flash.jin10.com/detail/20260518014811129800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "以媒：内塔尼亚胡与特朗普通话 讨论重启对伊战事可能性",
+          "url": "https://flash.jin10.com/detail/20260518013926547800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "要么放弃宽松，要么失控！鹰派的沃什，反而能让特朗普赢？",
+          "url": "https://flash.jin10.com/detail/20260518101006327800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "以色列广播局援引官方消息称，若特朗普批准恢复（伊朗）战事，将发起联合攻击。",
+          "url": "https://flash.jin10.com/detail/20260518012843928800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "特朗普向伊朗发出武力威胁 下周二讨论军事行动选项",
+          "url": "https://flash.jin10.com/detail/20260518012607481800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时00分"
+        },
+        {
+          "title": "【中国证监会副主席李超：以更大力度推进北京证券交易所深化改革】中国证监会副主席李超5月18日在2026北京上市公司高质量发展大会暨投融资并购对接会上表示，将全力稳定和增强资本市场信心，并提出三点举措：以更大力度支持科技创新和产业创新深度融合、以更大力度推进北京证券交易所深化改革、以更大力度夯实上市公司高质量发展基础。（新华财经）",
+          "url": "https://wallstreetcn.com/livenews/3105009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美国 伊朗",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "报道：美方在回应伊朗提议时列出5个关键条件",
@@ -16,8 +673,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 10时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 14时51分]"
         },
         {
           "title": "伊媒：美对伊朗提出5个关键条件",
@@ -65,6 +722,20 @@
           "time_info": "[00时51分 ~ 05时49分]"
         },
         {
+          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 14时51分]"
+        },
+        {
           "title": "27年前捐5000美元植树的美国人找到了",
           "url": "https://www.baidu.com/s?wd=27%E5%B9%B4%E5%89%8D%E6%8D%905000%E7%BE%8E%E5%85%83%E6%A4%8D%E6%A0%91%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%89%BE%E5%88%B0%E4%BA%86",
           "source": "百度热搜",
@@ -80,19 +751,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时51分 ~ 07时53分]"
-        },
-        {
-          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 10时41分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -139,18 +797,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "美国两架战机空中相撞坠毁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E6%9E%B6%E6%88%98%E6%9C%BA%E7%A9%BA%E4%B8%AD%E7%9B%B8%E6%92%9E%E5%9D%A0%E6%AF%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -161,9 +808,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "美情报称古巴或攻击美国基地和城市，古外长回应",
+          "url": "https://news.ifeng.com/c/8tDwx9QvJNU",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "古巴：美国捏造虚假文件 为制裁和侵略找借口",
@@ -210,6 +868,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "美国天然气期货日内涨幅扩大至3.00%，现报3.049美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260518143215592800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐在与韩国外长的通话中指出，该地区所遭受的不安全状况及其引发的全球性后果，均源于美国及犹太复国主义政权针对伊朗采取的侵略行径。国际社会必须追究其违反国际法及所犯罪行的责任。",
           "url": "https://flash.jin10.com/detail/20260518033524325800",
           "source": "金十数据",
@@ -245,6 +914,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时06分 ~ 06时47分]"
+        },
+        {
+          "title": "美国两架战机空中相撞坠毁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E6%9E%B6%E6%88%98%E6%9C%BA%E7%A9%BA%E4%B8%AD%E7%9B%B8%E6%92%9E%E5%9D%A0%E6%AF%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 14时51分]"
         },
         {
           "title": "当地发言人证实，美国爱达荷州芒廷霍姆空军基地发生飞机事故，调查正在进行中。",
@@ -322,6 +1003,19 @@
           "time_info": "[05时49分 ~ 06时47分]"
         },
         {
+          "title": "27年前捐款5000美元植树的美国人被找到了，他说想回中国看看这些树",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190835",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时47分 ~ 14时51分]"
+        },
+        {
           "title": "伊朗国防部：伊朗完全准备好应对任何新的侵略。",
           "url": "https://flash.jin10.com/detail/20260518021341985800",
           "source": "金十数据",
@@ -368,18 +1062,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时49分 ~ 06时47分]"
-        },
-        {
-          "title": "27年前捐款5000美元植树的美国人被找到了，他说想回中国看看这些树",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33190835",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 10时41分]"
         },
         {
           "title": "伊朗外交部：美以用“维护能源稳定”作借口 为对伊战争辩护",
@@ -534,7 +1216,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -629,607 +1311,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 51,
-      "titles": [
-        {
-          "title": "【早报】俄罗斯总统普京将访华；商务部公布中美经贸磋商初步成果",
-          "url": "https://www.cls.cn/detail/2373253",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 07时53分]"
-        },
-        {
-          "title": "“千里之行，始于足下”，哈萨克斯坦总统用中文感谢中国",
-          "url": "https://news.ifeng.com/c/8tCHtXG6RXQ",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 07时53分]"
-        },
-        {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 10时41分]"
-        },
-        {
-          "title": "特朗普访华后续观察",
-          "url": "https://www.douyin.com/hot/2502108",
-          "source": "抖音",
-          "ranks": [
-            11,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 05时49分]"
-        },
-        {
-          "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
-          "url": "https://www.zhihu.com/question/2039007666429583394",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20,
-            18,
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 06时47分]"
-        },
-        {
-          "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
-          "url": "https://wallstreetcn.com/livenews/3104904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时06分 ~ 07时53分]"
-        },
-        {
-          "title": "特朗普威胁伊朗，又开始倒计时了",
-          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "特朗普向伊朗发出武力威胁，周二或讨论军事行动选项；英国政局动荡升级，斯塔默打算辞去英国首相职务。当前现货金银多头占比维持高位，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260518103149296800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "加拿大总理卡尼：加拿大与国际原子能机构一道，谴责今日针对阿联酋巴拉卡核电站发动的无人机袭击。以和平核能设施为攻击目标，将对人类生命及环境构成严重风险。加拿大坚定地与阿联酋的朋友们站在一起，并重申该地区当前迫切需要保持克制与缓和局势。",
-          "url": "https://flash.jin10.com/detail/20260518035447088800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时06分 ~ 06时47分]"
-        },
-        {
-          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
-          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "据AXIOS：两名美国官员透露，美国总统特朗普预计将于周二在战情室与他的高级国家安全团队举行会议，讨论（伊朗）军事行动的选项。",
-          "url": "https://flash.jin10.com/detail/20260518011814397800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "欧盟委员会主席冯德莱恩：很高兴能与瑞典首相及印度总理莫迪一同相聚哥德堡。我们达成的协议预示着双方关系迈入了一个崭新的时代。",
-          "url": "https://flash.jin10.com/detail/20260518011218870800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "特朗普涉台“四不”示警“台独”",
-          "url": "https://www.toutiao.com/trending/7641033902121058340/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "以媒：内塔尼亚胡与特朗普通话，讨论重启对伊战事可能性",
-          "url": "https://wallstreetcn.com/livenews/3104905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时06分 ~ 07时53分]"
-        },
-        {
-          "title": "据沙特媒体哈达斯（Alhadath）：特朗普对以色列媒体表示，‘伊朗应当感到恐惧，并对我保持警惕。’",
-          "url": "https://flash.jin10.com/detail/20260518010104759800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "“新债王”、DoubleLine Capital的CEOJeffrey Gundlach：在美国通胀率高于美联储政策利率之际，美联储（候任）主席凯文·沃什处境艰难。 美联储下一次行动可能会加息。 预计美国下一次披露的CPI通胀率将高于4.0%（但不到5.0%）。 看好大宗商品，对黄金持中性看法。 我肯定担心私人信用市场（的现状）。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3104901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时06分 ~ 06时47分]"
-        },
-        {
-          "title": "特朗普称仍相信伊朗有意达成协议",
-          "url": "https://flash.jin10.com/detail/20260518055636442800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时47分"
-        },
-        {
-          "title": "据伊朗Press TV：伊朗副总统表示，伊朗将不再允许敌方的军事装备通过霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260518023048693800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时00分 ~ 05时49分]"
-        },
-        {
-          "title": "据伊朗Press TV：伊朗总统佩泽希齐扬表示，美国和以色列政权正企图推行分裂性计划并制造不信任，以挑拨穆斯林国家相互对抗。",
-          "url": "https://flash.jin10.com/detail/20260517235350901800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "阿联酋总统外交顾问表示，针对巴拉卡核电站的袭击，无论是由“主要肇事者”直接实施，还是通过其“代理人之一”进行，均构成危险的局势升级。",
-          "url": "https://flash.jin10.com/detail/20260518005707071800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "特朗普的格陵兰岛特使抵达当地首府努克",
-          "url": "https://flash.jin10.com/detail/20260518022203493800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时00分 ~ 05时49分]"
-        },
-        {
-          "title": "卡塔尔外交部发表声明称，卡塔尔首相与巴基斯坦总理谢赫巴兹·谢里夫通电话，讨论巴基斯坦在伊朗战争中的调解努力。卡塔尔首相重申卡塔尔全力支持巴基斯坦为通过和平手段结束危机而进行的调解努力。",
-          "url": "https://flash.jin10.com/detail/20260518001615603800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时54分]"
-        },
-        {
-          "title": "吉尔吉斯总统呼吁支持该国成为安理会非常任理事国",
-          "url": "https://flash.jin10.com/detail/20260518043941064800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时47分]"
-        },
-        {
-          "title": "美国参议员格雷厄姆敦促特朗普恢复对伊朗的打击",
-          "url": "https://flash.jin10.com/detail/20260518001435288800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时54分]"
-        },
-        {
-          "title": "特朗普会晤国安高层后发文警告伊朗快点行动，否则将一无所有",
-          "url": "https://flash.jin10.com/detail/20260518041826426800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时49分 ~ 06时47分]"
-        },
-        {
-          "title": "德国前总理默克尔：我们并未通过将其从宪法中移除的方式来彻底废除征兵制，我们只是将其暂停了。这意味着，如今只需获得简单多数票，即可对其进行再次修改。",
-          "url": "https://flash.jin10.com/detail/20260518005650896800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "特朗普称仍相信伊朗有意达成协议",
-          "url": "https://wallstreetcn.com/livenews/3104917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 07时53分]"
-        },
-        {
-          "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
-          "url": "https://www.zhihu.com/question/2038636185115779503",
-          "source": "知乎",
-          "ranks": [
-            19,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时49分 ~ 07时53分]"
-        },
-        {
-          "title": "据AXIOS网站：美国总统特朗普表示，他仍然认为伊朗希望达成协议，并表示他正在等待伊朗提出更新的方案，希望新方案能比几天前提出的方案更好。他拒绝给出与伊朗谈判的具体期限。",
-          "url": "https://flash.jin10.com/detail/20260518021439286800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 04时06分]"
-        },
-        {
-          "title": "美国总统特朗普的格陵兰岛特使兰德里抵达努克。",
-          "url": "https://flash.jin10.com/detail/20260518021311306800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 04时06分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：我们还讨论了乌克兰的欧洲一体化进程。我们已做好准备启动相关谈判组别的开放工作，我们就此事的具体时间表及必要的沟通安排进行了探讨。",
-          "url": "https://flash.jin10.com/detail/20260518020043159800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 04时06分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：我向他通报了我们近期与欧洲各国领导人以及美方进行的接触情况。我们一致认为，欧洲必须参与到谈判之中。",
-          "url": "https://flash.jin10.com/detail/20260518020015610800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时00分 ~ 04时06分]"
-        },
-        {
-          "title": "据伊朗Press TV：伊拉克总理已向该国海关当局下达直接指令，要求允许伊朗货物经由伊拉克领土进行过境和转运。",
-          "url": "https://flash.jin10.com/detail/20260518030722552800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时06分 ~ 05时49分]"
-        },
-        {
-          "title": "据AXIOS网站：美国总统特朗普周六与万斯、威特科夫及鲁比奥见面，商讨伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260518024439981800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时06分 ~ 05时49分]"
-        },
-        {
-          "title": "德国前总理默克尔：他们之前指出，在欧洲内部，我们已不再面临需要通过军事手段进行自卫的问题。德国在这一思维上并非特例——现实情况确实已经发生了变化。",
-          "url": "https://flash.jin10.com/detail/20260518005632388800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "特朗普称「伊斯兰国」二号头目被「清除」，可信度如何？可能带来什么影响？",
-          "url": "https://www.zhihu.com/question/2038948707844846917",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "德国前总理默克尔：（谈征兵制）我理解人们如今为何再次想要调整军事征兵制度。但在当时，曾有专门的委员会力主暂停这一制度。",
-          "url": "https://flash.jin10.com/detail/20260518005605922800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "泰媒：泰国总理召集商界领袖讨论经济对策",
-          "url": "https://wallstreetcn.com/livenews/3104926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "特朗普威胁伊朗：时间在流逝 赶快行动",
-          "url": "https://flash.jin10.com/detail/20260518005103401800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：和欧洲理事会主席科斯塔进行了交谈。我们详细探讨了旨在为乌克兰及整个欧洲实现和平的谈判进程的前景。",
-          "url": "https://flash.jin10.com/detail/20260518015959779800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "据AXIOS：以色列官员透露，特朗普已与以色列总理内塔尼亚胡通电话，并讨论了伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260517233453161800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：今天，我们正在对莫斯科展开大规模行动。这次目标距离超过500公里。战争不出所料地又回到了它的“发源地”，这清楚地表明，任何人都不应该招惹乌克兰。",
-          "url": "https://flash.jin10.com/detail/20260518004513498800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "美国总统特朗普：对伊朗来说，时间在流逝，他们最好迅速行动，否则将一无所剩。",
-          "url": "https://flash.jin10.com/detail/20260518004343934800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "特朗普与内塔尼亚胡通话：讨论重启对伊朗军事打击！美以联合空袭风险骤增",
-          "url": "https://flash.jin10.com/detail/20260518064310354800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：我们的远程打击能力正显著改变战局——更广泛而言，也在改变世界对这场战争的认知。如今，许多合作伙伴已发出信号，表明他们看清了正在发生的一切，也看清了局势的彻底转变——无论是在对这场战争的态度上，还是在对俄罗斯境内目标的可打击范围上。",
-          "url": "https://flash.jin10.com/detail/20260518014811129800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "以媒：内塔尼亚胡与特朗普通话 讨论重启对伊战事可能性",
-          "url": "https://flash.jin10.com/detail/20260518013926547800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "美总统涉台“四不”示警“台独”",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%80%BB%E7%BB%9F%E6%B6%89%E5%8F%B0%E2%80%9C%E5%9B%9B%E4%B8%8D%E2%80%9D%E7%A4%BA%E8%AD%A6%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "要么放弃宽松，要么失控！鹰派的沃什，反而能让特朗普赢？",
-          "url": "https://flash.jin10.com/detail/20260518101006327800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "以色列广播局援引官方消息称，若特朗普批准恢复（伊朗）战事，将发起联合攻击。",
-          "url": "https://flash.jin10.com/detail/20260518012843928800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "特朗普向伊朗发出武力威胁 下周二讨论军事行动选项",
-          "url": "https://flash.jin10.com/detail/20260518012607481800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时00分"
-        },
-        {
-          "title": "【中国证监会副主席李超：以更大力度推进北京证券交易所深化改革】中国证监会副主席李超5月18日在2026北京上市公司高质量发展大会暨投融资并购对接会上表示，将全力稳定和增强资本市场信心，并提出三点举措：以更大力度支持科技创新和产业创新深度融合、以更大力度推进北京证券交易所深化改革、以更大力度夯实上市公司高质量发展基础。（新华财经）",
-          "url": "https://wallstreetcn.com/livenews/3105009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能 AI",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
         {
           "title": "还想比肩中国？“AI时代，印度正成为最大输家之一”",
@@ -1240,8 +1323,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 10时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 14时51分]"
         },
         {
           "title": "“AI内存芯片繁荣正在埋下崩盘种子”！这次危险藏在需求端",
@@ -1284,11 +1367,12 @@
           "source": "贴吧",
           "ranks": [
             25,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时51分 ~ 10时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 14时51分]"
         },
         {
           "title": "以色列交通部表示，以色列官员在阿布扎比会见了阿布扎比港口集团（AD Ports）和阿联酋铁路公司（Etihad Rail）的CEO，就促进港口、物流和铁路领域的合作进行了讨论。",
@@ -1328,6 +1412,17 @@
           "time_info": "07时53分"
         },
         {
+          "title": "不光存储！光通信成AI交易热门主题 标普500今年十大牛股占三席",
+          "url": "https://www.cls.cn/detail/2373700",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "博主：中国AI算力产业链正在全面腾飞",
           "url": "https://www.toutiao.com/trending/7640853095961857599/",
           "source": "今日头条",
@@ -1339,6 +1434,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时51分 ~ 05时49分]"
+        },
+        {
+          "title": "诺贝尔经济学奖得主迈克尔・斯宾塞：AI有望提升劳动生产率，给全球经济带来积极影响",
+          "url": "https://wallstreetcn.com/livenews/3105159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "中国人民银行原副行长朱民：需要形成适当的政策来引领AI使用",
+          "url": "https://wallstreetcn.com/livenews/3105157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "AI芯片热潮反噬 中国代工厂成赢家",
@@ -1363,13 +1480,24 @@
           "time_info": "07时53分"
         },
         {
+          "title": "中国人民银行原副行长朱民：需要形成适当的政策来引领AI使用",
+          "url": "https://flash.jin10.com/detail/20260518142251596800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
           "title": "GAI新专Real G完整锐评",
           "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E4%B8%93Real%20G%E5%AE%8C%E6%95%B4%E9%94%90%E8%AF%84",
           "source": "bilibili 热搜",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -1394,12 +1522,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "红果短剧辟谣AI仿真人剧本“零元购”",
+          "url": "https://wallstreetcn.com/livenews/3105135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "法国财长Lescure：未来如有需要，七国集团将再次释放石油储备。 欧洲经济展现出相当强的韧性，欧洲经济正在放缓，但并未陷入衰退。 欧洲经济并未处于高通胀状态。 法国经济应该会在第二季度反弹。 欧洲必须将人工智能视为机遇。",
+          "url": "https://wallstreetcn.com/livenews/3105131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证 深证 创业板 科创",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "龙头6天4板 本周披露并购重组进展的A股名单一览",
@@ -1414,24 +1564,25 @@
           "time_info": "[00时51分 ~ 07时53分]"
         },
         {
+          "title": "提前盈利！长鑫科技更新科创板IPO招股书 存储行情推动Q1业绩“狂飙”",
+          "url": "https://www.cls.cn/detail/2373552",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 14时51分]"
+        },
+        {
           "title": "A股商业航天概念震荡拉升，信维通信大涨超15%，索辰科技、海格通信、派克新材、东方钽业等多股涨停，西部材料、通宇通讯、霍莱沃、中环海陆等涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3105058",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "提前盈利！长鑫科技更新科创板IPO招股书 存储行情推动Q1业绩“狂飙”",
-          "url": "https://www.cls.cn/detail/2373552",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -1442,7 +1593,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -1453,9 +1604,53 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "A股",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "创业板指跌超1%，沪指跌0.55%，深成指跌0.78%，体育、猪肉、汽车整车、工程机械等方向跌幅居前，沪深京三市下跌个股超3600只。",
+          "url": "https://wallstreetcn.com/livenews/3105145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "A股三大运营商异动拉升，中国电信涨超6%，中国联通涨超5%，中国移动涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3105140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "A股稀土概念股午后持续下挫，中国稀土跌超5%，华宏科技、包钢股份、北方稀土等股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260518141223422800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "A股三大指数集体翻红，半导体、存储芯片、CPO、电力电网等方向涨幅居前，沪深京三市上涨个股超2000只。",
@@ -1464,7 +1659,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -1475,7 +1670,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -1486,7 +1681,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -1497,7 +1692,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -1511,6 +1706,125 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
+          "url": "https://www.cls.cn/detail/2373057",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 06时47分]"
+        },
+        {
+          "title": "关于荔枝的消费提示",
+          "url": "https://www.toutiao.com/trending/7640354100320813065/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 04时06分]"
+        },
+        {
+          "title": "为破解净值困局 部分“消费”基金转投科技",
+          "url": "https://wallstreetcn.com/livenews/3104941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "维也纳、希尔顿欢朋等多家知名酒店被曝床单、枕套等未落实一客一换，有哪些健康风险？消费者能要求哪些赔偿？",
+          "url": "https://www.zhihu.com/question/2039043927185912802",
+          "source": "知乎",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 14时51分]"
+        },
+        {
+          "title": "国家统计局：4月份，社会消费品零售总额37247亿元，同比增长0.2%。其中，除汽车以外的消费品零售额34218亿元，增长1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3105045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "日均信息量约243.7万条 中消协发布“五一”消费维权舆情分析报告",
+          "url": "https://wallstreetcn.com/livenews/3105154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "集邦咨询：高端需求扩张、消费类渠道囤购升温，有望催化MLCC价格反转",
+          "url": "https://wallstreetcn.com/livenews/3105152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        },
+        {
+          "title": "中国1至4月社会消费品零售总额同比 1.9%，前值 2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3105033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "中国4月社会消费品零售总额同比 0.2%，前值 1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3105031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "提醒：北京时间10:00将公布中国1-4月规模以上工业增加值、社会消费品零售总额、城镇固定投资、房地产开发投资、失业率等月度经济数据。",
+          "url": "https://wallstreetcn.com/livenews/3105024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         }
       ]
     },
@@ -1562,7 +1876,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -1585,7 +1899,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -1625,105 +1939,8 @@
       ]
     },
     {
-      "keyword_group": "消费",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
-          "url": "https://www.cls.cn/detail/2373057",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时51分 ~ 06时47分]"
-        },
-        {
-          "title": "关于荔枝的消费提示",
-          "url": "https://www.toutiao.com/trending/7640354100320813065/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时54分 ~ 04时06分]"
-        },
-        {
-          "title": "为破解净值困局 部分“消费”基金转投科技",
-          "url": "https://wallstreetcn.com/livenews/3104941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "维也纳、希尔顿欢朋等多家知名酒店被曝床单、枕套等未落实一客一换，有哪些健康风险？消费者能要求哪些赔偿？",
-          "url": "https://www.zhihu.com/question/2039043927185912802",
-          "source": "知乎",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 10时41分]"
-        },
-        {
-          "title": "国家统计局：4月份，社会消费品零售总额37247亿元，同比增长0.2%。其中，除汽车以外的消费品零售额34218亿元，增长1.8%。",
-          "url": "https://wallstreetcn.com/livenews/3105045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "中国1至4月社会消费品零售总额同比 1.9%，前值 2.4%。",
-          "url": "https://wallstreetcn.com/livenews/3105033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "中国4月社会消费品零售总额同比 0.2%，前值 1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3105031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "提醒：北京时间10:00将公布中国1-4月规模以上工业增加值、社会消费品零售总额、城镇固定投资、房地产开发投资、失业率等月度经济数据。",
-          "url": "https://wallstreetcn.com/livenews/3105024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 道琼斯 纳斯达克 标普500",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
@@ -1748,6 +1965,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "美股不祥信号浮现？美债收益率狂飙 一文解析背后三大推手",
+          "url": "https://www.cls.cn/detail/2373864",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
         },
         {
           "title": "周一亚市早盘，布伦特原油期货高开0.6%。 标普500指数期货、纳斯达克100指数期货低开0.2%。",
@@ -1798,7 +2026,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -1823,7 +2051,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -1834,7 +2062,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         },
@@ -1843,17 +2071,18 @@
           "url": "https://www.zhihu.com/question/2038622939864461547",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 14时51分]"
         }
       ]
     },
     {
       "keyword_group": "特斯拉 微软 Meta 英伟达 亚马逊",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
@@ -1873,9 +2102,20 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 14时51分]"
+        },
+        {
+          "title": "英伟达财报本周重磅来袭！黄仁勋将面临三大拷问",
+          "url": "https://www.cls.cn/detail/2373905",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时41分"
+          "time_info": "14时51分"
         },
         {
           "title": "本周重要事件与数据预告：LPR、国内成品油调价、英伟达财报",
@@ -1891,47 +2131,8 @@
       ]
     },
     {
-      "keyword_group": "恒生 恒生科技",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "恒生科技指数跌超2%，理想汽车跌超11%，零跑汽车跌近10%。",
-          "url": "https://wallstreetcn.com/livenews/3105053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "恒生科技指数盘中走弱跌超2%，理想汽车(02015.HK)跌超10%领跌成分股，恒指现跌1.37%。",
-          "url": "https://flash.jin10.com/detail/20260518101040657800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "恒指日内跌幅扩大至1%，恒生科技指数跌1.6%。零跑汽车、理想汽车跌超8%。",
-          "url": "https://wallstreetcn.com/livenews/3105007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
@@ -1953,8 +2154,58 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 10时41分]"
+          "appearance_count": 4,
+          "time_info": "[06时47分 ~ 14时51分]"
+        },
+        {
+          "title": "高盛：伊朗冲突持续与供应冲击，削弱美债分散风险能力",
+          "url": "https://flash.jin10.com/detail/20260518140732556800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "恒生 恒生科技",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "恒生科技指数跌超2%，理想汽车跌超11%，零跑汽车跌近10%。",
+          "url": "https://wallstreetcn.com/livenews/3105053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "恒生科技指数盘中走弱跌超2%，理想汽车(02015.HK)跌超10%领跌成分股，恒指现跌1.37%。",
+          "url": "https://flash.jin10.com/detail/20260518101040657800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "恒指日内跌幅扩大至1%，恒生科技指数跌1.6%。零跑汽车、理想汽车跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3105007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
         }
       ]
     },
@@ -1976,6 +2227,23 @@
       ]
     },
     {
+      "keyword_group": "机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "机器人有了国家级训练场 这一具身智能应用中试基地揭牌",
+          "url": "https://www.cls.cn/detail/2373468",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "锂 锂矿 电池 三元 磷酸铁锂",
       "match_count": 1,
       "titles": [
@@ -1986,7 +2254,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
         }
