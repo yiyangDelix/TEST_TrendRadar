@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T06:53:11.828492+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-05-23T08:01:42.353004+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         },
         {
           "title": "美联储声明：联邦公开市场委员会（FOMC）一致选举凯文·沃什为FOMC主席。",
@@ -26,8 +26,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时05分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时05分 ~ 08时01分]"
+        },
+        {
+          "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
+          "url": "https://www.zhihu.com/question/2040769816697558038",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         },
         {
           "title": "新任美联储主席：将领导一个以改革为导向的美联储",
@@ -39,18 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
-          "url": "https://www.zhihu.com/question/2040769816697558038",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
         },
         {
           "title": "根据Datafolha的民调，巴西总统卢拉在巴西总统选举第一轮中支持率为40%，弗拉维奥·博尔索纳罗为31%。",
@@ -84,17 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "塞内加尔总统罢免总理。（塞内加尔国家电视台）",
-          "url": "https://wallstreetcn.com/livenews/3108266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
         },
         {
           "title": "美国财长贝森特：美联储主席沃什应对通胀和经济增长负责任地采取行动。",
@@ -139,6 +128,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "新任美联储主席沃什已完成宣誓仪式并结束发言。",
@@ -197,6 +197,18 @@
           "time_info": "[05时05分 ~ 06时53分]"
         },
         {
+          "title": "塞内加尔总统罢免总理。（塞内加尔国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3108266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 08时01分]"
+        },
+        {
           "title": "报道：特朗普周五会见了伊朗问题高级顾问",
           "url": "https://wallstreetcn.com/livenews/3108238",
           "source": "华尔街见闻-快讯",
@@ -231,6 +243,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时05分 ~ 06时53分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
+          "url": "https://wallstreetcn.com/livenews/3108245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 08时01分]"
         },
         {
           "title": "美联储主席沃什：将引领以改革为导向的美联储。",
@@ -486,17 +510,6 @@
           "time_info": "05时05分"
         },
         {
-          "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
-          "url": "https://wallstreetcn.com/livenews/3108245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
           "title": "特朗普：将缺席儿子的婚礼",
           "url": "https://wallstreetcn.com/livenews/3108183",
           "source": "华尔街见闻-快讯",
@@ -521,8 +534,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         },
         {
           "title": "美国还要至少10年，中国又挖到新的了",
@@ -532,8 +545,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         },
         {
           "title": "伊朗“最大内鬼”，原来是他？",
@@ -543,8 +556,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         },
         {
           "title": "伊朗官员：结束战争、解除封锁以及确保霍尔木兹海峡稳定是优先事项",
@@ -554,8 +567,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时05分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时05分 ~ 08时01分]"
         },
         {
           "title": "美国至5月22日当周石油钻井总数将于十分钟后公布。",
@@ -664,11 +677,12 @@
           "url": "https://wallstreetcn.com/livenews/3108259",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 08时01分]"
         },
         {
           "title": "伊媒：知情人士称伊朗谈判仍在继续 所有争议问题形成共识前不会达成协议",
@@ -678,8 +692,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时05分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时05分 ~ 08时01分]"
         },
         {
           "title": "美国家情报总监加巴德辞职 美媒披露隐情",
@@ -689,8 +703,32 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时05分 ~ 08时01分]"
+        },
+        {
+          "title": "报道：伊朗军方准备好应对美方任何行动",
+          "url": "https://wallstreetcn.com/livenews/3108258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时05分 ~ 06时53分]"
+          "time_info": "[06时53分 ~ 08时01分]"
+        },
+        {
+          "title": "美国卫生部（HHS）寻求禁止美国绿卡持有者与埃博拉疫情地区相关的旅行。",
+          "url": "https://wallstreetcn.com/livenews/3108255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 08时01分]"
         },
         {
           "title": "美国18岁少女遭生父性侵后自杀",
@@ -713,28 +751,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
-        },
-        {
-          "title": "报道：伊朗军方准备好应对美方任何行动",
-          "url": "https://wallstreetcn.com/livenews/3108258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
-          "title": "美国卫生部（HHS）寻求禁止美国绿卡持有者与埃博拉疫情地区相关的旅行。",
-          "url": "https://wallstreetcn.com/livenews/3108255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
         },
         {
           "title": "伊朗外交部发言人：当前伊美谈判不涉及核问题",
@@ -960,7 +976,7 @@
     },
     {
       "keyword_group": "美股 道琼斯 纳斯达克 标普500",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "美联储迎来新掌门 标普500指数冲击周线8连涨 | 今夜看点",
@@ -971,8 +987,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         },
         {
           "title": "道琼斯工业平均指数收于50,579.70点，创下历史新高，超过2月10日的前次最高收盘纪录。",
@@ -982,8 +998,41 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时05分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时05分 ~ 08时01分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
+          "url": "https://wallstreetcn.com/livenews/3108276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
+        {
+          "title": "周五（5月22日），美股降息赢家指数涨0.59%，报80.30点，美联储理事沃勒讲话之际回吐涨幅、美联储主席沃什宣誓就职之后再北京时间01:28显著拉升，本周累计上涨4.96%。 周三至周五持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3108274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "标普500指数有望连续第八周上涨",
@@ -995,6 +1044,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
+          "url": "https://www.cls.cn/detail/2379649",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "美股行业ETF几乎全线收涨，半导体ETF涨约1.5%",
@@ -1016,8 +1076,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时05分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时05分 ~ 08时01分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股收盘）",
@@ -1027,8 +1087,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时05分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时05分 ~ 08时01分]"
         },
         {
           "title": "道琼斯指数5月22日（周五）收盘上涨294.04点，涨幅0.58%，报50579.70点；<br/>标普500指数5月22日（周五）收盘上涨27.73点，涨幅0.37%，报7473.45点；<br/>纳斯达克综合指数5月22日（周五）收盘上涨50.87点，涨幅0.19%，报26343.97点。",
@@ -1038,8 +1098,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时05分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时05分 ~ 08时01分]"
         },
         {
           "title": "标普500指数连续第八周上涨，是自2023年12月结束的九周连涨以来的最长纪录。",
@@ -1049,8 +1109,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时05分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时05分 ~ 08时01分]"
         },
         {
           "title": "美股收盘：三大股指收涨 高通涨超11%",
@@ -1060,8 +1120,20 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时05分 ~ 08时01分]"
+        },
+        {
+          "title": "周五（5月22日）纽约尾盘，标普500股指期货最终涨0.29%，道指期货涨0.51%，纳斯达克100股指期货涨0.30%。 罗素2000股指期货涨0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3108252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时05分 ~ 06时53分]"
+          "time_info": "[06时53分 ~ 08时01分]"
         },
         {
           "title": "标普500指数的11个板块多数收涨，医疗保健板块涨1.19%，公用事业、工业、信息技术/科技、能源板块至少涨0.44%，电信板块跌0.68%。",
@@ -1106,17 +1178,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "周五（5月22日）纽约尾盘，标普500股指期货最终涨0.29%，道指期货涨0.51%，纳斯达克100股指期货涨0.30%。 罗素2000股指期货涨0.69%。",
-          "url": "https://wallstreetcn.com/livenews/3108252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌2.2%，本周累跌4.8%。 热门中概股里，蔚来初步收跌6.8%，美团跌4.3%，拼多多跌3.3%，网易涨2%，日月光半导体涨6.8%。",
@@ -1164,11 +1225,12 @@
           "source": "微博",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时04分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[05时04分 ~ 08时01分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
@@ -1179,8 +1241,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         },
         {
           "title": "AI还原祖国人注射V1后的战斗力",
@@ -1193,8 +1255,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         },
         {
           "title": "郝哥李广奇回应AI买瓜",
@@ -1203,11 +1265,12 @@
           "ranks": [
             14,
             17,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
@@ -1219,8 +1282,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         },
         {
           "title": "夏奇拉来批daidai作业啦",
@@ -1229,22 +1292,24 @@
           "ranks": [
             27,
             22,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时27分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[03时27分 ~ 08时01分]"
         },
         {
           "title": "美国批准向多个间谍部门的90亿美元拨款，用于利用人工智能（AI）技术。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3108254",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 08时01分]"
         },
         {
           "title": "标普500成分股有望创五年来最强财报季，增长势头从AI向其他行业扩展",
@@ -1268,11 +1333,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33206353",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         },
         {
           "title": "苹果谷歌英伟达，集体松了口气",
@@ -1282,8 +1348,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         },
         {
           "title": "台当局称正调查3人将英伟达芯片走私到大陆，外交部回应",
@@ -1293,8 +1359,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         },
         {
           "title": "英伟达财报这么亮眼为何市场不满意",
@@ -1314,7 +1380,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         }
@@ -1371,11 +1437,12 @@
             17,
             15,
             13,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         },
         {
           "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
@@ -1385,8 +1452,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         },
         {
           "title": "阿里利润几乎“清零” 马云为何不慌",
@@ -1396,8 +1463,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时04分 ~ 05时05分]"
+          "appearance_count": 3,
+          "time_info": "[05时04分 ~ 08时01分]"
         }
       ]
     },
@@ -1414,8 +1481,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         },
         {
           "title": "A股反弹是不是牛市信号",
@@ -1451,11 +1518,12 @@
           "url": "https://wallstreetcn.com/livenews/3108253",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 08时01分]"
         }
       ]
     },
@@ -1485,11 +1553,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33205118",
           "source": "澎湃新闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         }
       ]
     },
@@ -1506,8 +1575,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时04分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时04分 ~ 08时01分]"
         }
       ]
     },
