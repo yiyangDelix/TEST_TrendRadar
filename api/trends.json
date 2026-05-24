@@ -1,24 +1,12 @@
 {
-  "generated_at": "2026-05-25T01:56:00.582059+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-05-25T03:08:04.940780+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 伊朗",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
-        {
-          "title": "美国政府宣布在美外国人申请绿卡须返回原籍国，此举将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2041479338491732945",
-          "source": "知乎",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
-        },
         {
           "title": "美国务卿：有关霍尔木兹海峡，未来几小时可能会有好消息",
           "url": "https://news.ifeng.com/c/8tOBZzsRYUd",
@@ -27,20 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
-        },
-        {
-          "title": "内塔尼亚胡：以色列与美国在伊朗核问题上保持一致",
-          "url": "https://wallstreetcn.com/livenews/3108527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
@@ -51,8 +27,46 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
+        },
+        {
+          "title": "美国政府宣布在美外国人申请绿卡须返回原籍国，此举将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2041479338491732945",
+          "source": "知乎",
+          "ranks": [
+            3,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问：管控霍尔木兹海峡是“合法权利”",
+          "url": "https://wallstreetcn.com/livenews/3108533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时08分]"
+        },
+        {
+          "title": "内塔尼亚胡：以色列与美国在伊朗核问题上保持一致",
+          "url": "https://wallstreetcn.com/livenews/3108527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "阿曼与伊朗官员举行会晤，依据国际法讨论了霍尔木兹海峡航行自由的管辖原则。",
@@ -60,22 +74,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
-          "title": "伊朗最高领袖顾问：管控霍尔木兹海峡是“合法权利”",
-          "url": "https://wallstreetcn.com/livenews/3108533",
-          "source": "华尔街见闻-快讯",
+          "title": "据沙特媒体哈达斯（alhadath）：美国消息人士谈及黎巴嫩时表示，美伊协议包含与5月15日停火条款相同的内容。美伊协议草案包括在黎巴嫩结束敌对行动的承诺。",
+          "url": "https://flash.jin10.com/detail/20260525021604678800",
+          "source": "金十数据",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "03时08分"
         },
         {
           "title": "美国官员：今天不会签订伊朗协议",
@@ -83,33 +98,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            8
+            8,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时56分]"
-        },
-        {
-          "title": "美官员：解冻伊朗资金取决于开放霍尔木兹及履行核承诺",
-          "url": "https://flash.jin10.com/detail/20260525013116309800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "据以色列时报：以色列国防军制定黎巴嫩计划，担忧伊朗协议可能限制与真主党的冲突。",
-          "url": "https://flash.jin10.com/detail/20260525012731579800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "伊朗与阿曼举行会议商讨霍尔木兹海峡通行原则",
@@ -134,15 +128,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "据伊朗英语新闻电视台PressTV：伊朗在霍尔木兹甘省击落以色列间谍无人机。",
-          "url": "https://flash.jin10.com/detail/20260525011316138800",
-          "source": "金十数据",
+          "title": "阿曼与伊朗讨论霍尔木兹海峡通航问题",
+          "url": "https://wallstreetcn.com/livenews/3108536",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "03时08分"
         },
         {
           "title": "白宫：伊朗和平协议或需数日达成",
@@ -156,16 +150,53 @@
           "time_info": "00时02分"
         },
         {
+          "title": "美官员：解冻伊朗资金取决于开放霍尔木兹及履行核承诺",
+          "url": "https://flash.jin10.com/detail/20260525013116309800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时08分]"
+        },
+        {
+          "title": "据以色列时报：以色列国防军制定黎巴嫩计划，担忧伊朗协议可能限制与真主党的冲突。",
+          "url": "https://flash.jin10.com/detail/20260525012731579800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时08分]"
+        },
+        {
+          "title": "据伊朗英语新闻电视台PressTV：伊朗在霍尔木兹甘省击落以色列间谍无人机。",
+          "url": "https://flash.jin10.com/detail/20260525011316138800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时08分]"
+        },
+        {
           "title": "伊朗最高领袖的顾问：管理霍尔木兹海峡是伊朗确保国家安全的“合法权利”。 伊朗对霍尔木兹海峡的管辖结束了波斯湾长达50年的不安全状态。（伊朗媒体Tasnim）",
           "url": "https://wallstreetcn.com/livenews/3108517",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "债券策略师警告，即便伊朗战争结束，收益率仍将维持高位",
@@ -173,11 +204,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "伊朗称过去24小时33艘船通过霍尔木兹海峡",
@@ -185,11 +217,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：应当将伊朗协议交由国会山审议。（CNN）",
@@ -197,11 +230,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            17
+            17,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "美军对伊朗港口封锁未见松动",
@@ -209,11 +243,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：获得伊朗许可之后，33艘船只在过去24小时通过霍尔木兹海峡。（伊朗媒体FARS）",
@@ -221,11 +256,60 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时08分]"
+        },
+        {
+          "title": "波兰外长：如果伊朗试图通过控制霍尔木兹海峡来改变全球秩序，我们将采取立场。",
+          "url": "https://flash.jin10.com/detail/20260525005729007800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时08分]"
+        },
+        {
+          "title": "伊朗消息人士谈美伊潜在协议：“负面氛围已开始浮现”",
+          "url": "https://flash.jin10.com/detail/20260525005653277800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时08分]"
+        },
+        {
+          "title": "波兰外长：我们拒绝伊朗拥有核弹，并支持重新开放霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260525005341993800",
+          "source": "金十数据",
+          "ranks": [
+            14,
             22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "time_info": "[01时56分 ~ 03时08分]"
+        },
+        {
+          "title": "波兰外长：美国在欧洲大陆的军队部署变化并不新鲜。",
+          "url": "https://flash.jin10.com/detail/20260525005330715800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时08分]"
         },
         {
           "title": "据大宗商品数据分析公司Kpler的预测数据，印度在5月份从美国进口的液化石油气（LPG）和液化天然气（LNG）数量预计将创下历史新高，这进一步突显了美国对印度能源安全的关键意义。（彭博）",
@@ -274,17 +358,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "波兰外长：如果伊朗试图通过控制霍尔木兹海峡来改变全球秩序，我们将采取立场。",
-          "url": "https://flash.jin10.com/detail/20260525005729007800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
           "title": "据Axios援引一位美国官员的话称：对我们来说有一些重要的表述，对伊朗来说也有一些重要的措辞。",
           "url": "https://flash.jin10.com/detail/20260524230354122800",
           "source": "金十数据",
@@ -296,17 +369,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "伊朗消息人士谈美伊潜在协议：“负面氛围已开始浮现”",
-          "url": "https://flash.jin10.com/detail/20260525005653277800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
           "title": "据Axios援引一位美国官员的话称，伊朗最高领袖已批准协议的总体框架。",
           "url": "https://flash.jin10.com/detail/20260524230317704800",
           "source": "金十数据",
@@ -316,28 +378,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
-        },
-        {
-          "title": "波兰外长：我们拒绝伊朗拥有核弹，并支持重新开放霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260525005341993800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
-        },
-        {
-          "title": "波兰外长：美国在欧洲大陆的军队部署变化并不新鲜。",
-          "url": "https://flash.jin10.com/detail/20260525005330715800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
         },
         {
           "title": "据阿曼通讯社：阿曼与伊朗官员举行会议，讨论依据国际法规范霍尔木兹海峡航行自由的原则。",
@@ -379,7 +419,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -401,7 +441,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -423,7 +463,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -445,7 +485,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -464,7 +504,7 @@
     },
     {
       "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -474,8 +514,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
@@ -485,8 +525,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "特朗普访华让印度有点傻眼了，鲁比奥“收拾烂摊子”",
@@ -496,8 +536,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
@@ -507,8 +547,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
@@ -519,8 +559,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "塞尔维亚总统武契奇抵京，开启对中国的首次国事访问，这次访问将讨论哪些议题？",
@@ -531,20 +571,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
-        },
-        {
-          "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
-          "url": "https://wallstreetcn.com/livenews/3108525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
@@ -554,19 +582,44 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "据卡塔尔通讯社：约旦国王与法国总统通电话讨论地区局势发展。",
           "url": "https://flash.jin10.com/detail/20260525013552793800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时08分]"
+        },
+        {
+          "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
+          "url": "https://wallstreetcn.com/livenews/3108525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时08分]"
+        },
+        {
+          "title": "特朗普：若与伊朗达成协议，将是“良好且正当的”",
+          "url": "https://flash.jin10.com/detail/20260525021837160800",
+          "source": "金十数据",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "03时08分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我与美国总统特朗普都认为，与伊朗达成的任何协议必须包含消除核威胁。 这意味着必须拆除伊朗的核浓缩设施，并将其领土内的所有已浓缩核材料全部运出。 特朗普重申，以色列拥有在所有战线（包括在黎巴嫩）捍卫自身安全、抵御威胁的合法权利。 我的政策与特朗普总统的政策一样，保持坚定不移，伊朗绝不能拥有核武器。",
@@ -574,22 +627,57 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
-          "title": "据以色列第13频道：以色列总理内塔尼亚胡在私下谈话中承认，难以对特朗普施加压力。",
-          "url": "https://flash.jin10.com/detail/20260525010916654800",
+          "title": "挪威政府已与乌克兰总统泽连斯基和乌克兰总理取得联系，表达我们的支持。",
+          "url": "https://flash.jin10.com/detail/20260525015637755800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "视频丨塞尔维亚总统武契奇抵京，开启首次对华国事访问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33222836",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
+        },
+        {
+          "title": "据以色列第13频道：内塔尼亚胡在安全会议中表示“对美国总统特朗普的影响力有限”。",
+          "url": "https://flash.jin10.com/detail/20260525014506415800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "03时08分"
+        },
+        {
+          "title": "据以色列第13频道：以色列总理内塔尼亚胡正在召开小型安全会议，讨论协议。",
+          "url": "https://flash.jin10.com/detail/20260525014246956800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
         },
         {
           "title": "以色列总理内塔尼亚胡：以色列与美国之间的伙伴关系从未像现在这样强大。",
@@ -608,11 +696,36 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            11
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 03时08分]"
+        },
+        {
+          "title": "特朗普一季度做了3711笔证券交易",
+          "url": "https://www.toutiao.com/trending/7643303101427879430/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 03时08分]"
+        },
+        {
+          "title": "据以色列第13频道：以色列总理内塔尼亚胡在私下谈话中承认，难以对特朗普施加压力。",
+          "url": "https://flash.jin10.com/detail/20260525010916654800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "time_info": "[01时56分 ~ 03时08分]"
         },
         {
           "title": "巴基斯坦总理夏巴兹抵达北京",
@@ -625,29 +738,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时02分 ~ 01时56分]"
-        },
-        {
-          "title": "视频丨塞尔维亚总统武契奇抵京，开启首次对华国事访问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33222836",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
-        },
-        {
-          "title": "特朗普一季度做了3711笔证券交易",
-          "url": "https://www.toutiao.com/trending/7643303101427879430/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
         },
         {
           "title": "以媒：特朗普向以方保证与伊朗协议将解除其核计划",
@@ -721,7 +811,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -731,41 +821,55 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
+        },
+        {
+          "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3108534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时08分"
         },
         {
           "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
           "url": "https://flash.jin10.com/detail/20260525012651977800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时08分]"
         },
         {
           "title": "欧洲央行将在周二的会议上敦促银行加快保护其信息技术系统的工作，讨论最新人工智能模型所暴露的网络安全风险。",
           "url": "https://flash.jin10.com/detail/20260525010427079800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时08分]"
         },
         {
           "title": "据英国《金融时报》：欧洲央行召集银行要求其修补最新人工智能模型暴露出的缺陷。",
           "url": "https://flash.jin10.com/detail/20260525010206221800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 03时08分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -805,20 +909,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
-        },
-        {
-          "title": "腾讯宣布放弃并解除在线音频内容版权独家授权，如何看待这一做法？音频行业竞争格局会迎来重构吗？",
-          "url": "https://www.zhihu.com/question/2041201809620985040",
-          "source": "知乎",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "腾讯官宣:放弃音频独家版权",
@@ -828,8 +920,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
+        },
+        {
+          "title": "腾讯宣布放弃并解除在线音频内容版权独家授权，如何看待这一做法？音频行业竞争格局会迎来重构吗？",
+          "url": "https://www.zhihu.com/question/2041201809620985040",
+          "source": "知乎",
+          "ranks": [
+            4,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "巴基斯坦与阿里宣布达成多项合作",
@@ -837,11 +942,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美国4月核心PCE数据将公布；小米、理想、拼多多等财报来袭",
@@ -865,23 +971,12 @@
           "url": "https://www.douyin.com/hot/2510898",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
-        },
-        {
-          "title": "华为半导体首席科学家廖恒：芯片到软件深度协同配合发挥超节点系统能力",
-          "url": "https://wallstreetcn.com/livenews/3108521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "7只半导体热门股拟套现近127亿",
@@ -889,11 +984,25 @@
           "source": "微博",
           "ranks": [
             10,
-            27
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
+        },
+        {
+          "title": "华为半导体首席科学家廖恒：芯片到软件深度协同配合发挥超节点系统能力",
+          "url": "https://wallstreetcn.com/livenews/3108521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            9,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "促进全国算力资源优化配置，我国加快制定全国一体化算力网技术标准",
@@ -922,8 +1031,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "港股、美股周一休市 金银油交易将提前结束",
@@ -950,19 +1059,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "比尔 · 盖茨基金会清空了其仅剩的 770 万股微软股票，对此你怎么看，科技股到顶了么？",
           "url": "https://www.zhihu.com/question/2039273480357684027",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 03时08分]"
         }
       ]
     },
@@ -979,8 +1089,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         },
         {
           "title": "四家沪市ST公司同日“谢幕”，A股退市常态化持续深化",
@@ -991,8 +1101,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         }
       ]
     },
@@ -1009,8 +1119,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         }
       ]
     },
@@ -1026,8 +1136,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时08分]"
         }
       ]
     }
