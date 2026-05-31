@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T01:02:10.680848+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-01T02:08:15.163820+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
@@ -15,63 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "法国总统马克龙：法国将继续支持黎巴嫩当局恢复国家主权和维护领土完整的努力。",
           "url": "https://flash.jin10.com/detail/20260601005050711800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "法国总统马克龙：目前黎巴嫩南部发生的局势严重升级是毫无理由的。",
-          "url": "https://flash.jin10.com/detail/20260601005042755800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "法国总统马克龙：至于地区稳定，应当首先从黎巴嫩开始。当前最紧迫的是让所有武器彻底停止发声，并且永久停火。",
-          "url": "https://flash.jin10.com/detail/20260601005017614800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "多名艺人辞演后特朗普决定自己上台",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E8%89%BA%E4%BA%BA%E8%BE%9E%E6%BC%94%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%B3%E5%AE%9A%E8%87%AA%E5%B7%B1%E4%B8%8A%E5%8F%B0%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
+            1,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "法国总统马克龙：随后，各方应继续展开讨论，就其他议题达成一项全面且稳固的协议，尤其是在核计划、弹道导弹计划以及地区稳定问题上。",
-          "url": "https://flash.jin10.com/detail/20260601004937107800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "[01时02分 ~ 02时08分]"
         },
         {
           "title": "特朗普将伊拉克纳入特使汤姆·巴拉克治叙职能范围",
@@ -80,31 +37,104 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
         },
         {
-          "title": "法国总统马克龙：当前的首要任务应当是达成停火协议，并在不附加任何条件、且符合国际法的前提下，立即重新开放霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260601004925997800",
+          "title": "法国总统马克龙：目前黎巴嫩南部发生的局势严重升级是毫无理由的。",
+          "url": "https://flash.jin10.com/detail/20260601005042755800",
           "source": "金十数据",
           "ranks": [
-            5
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
         },
         {
-          "title": "法国总统马克龙：与沙特王储、阿曼苏丹、阿联酋总统和埃及总统进行了交谈，我向他们传达了同一个信息——美国与伊朗之间尽快达成协议至关重要，必须把握机会。",
-          "url": "https://flash.jin10.com/detail/20260601004849485800",
+          "title": "法国总统马克龙：至于地区稳定，应当首先从黎巴嫩开始。当前最紧迫的是让所有武器彻底停止发声，并且永久停火。",
+          "url": "https://flash.jin10.com/detail/20260601005017614800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
+        },
+        {
+          "title": "法国总统马克龙：随后，各方应继续展开讨论，就其他议题达成一项全面且稳固的协议，尤其是在核计划、弹道导弹计划以及地区稳定问题上。",
+          "url": "https://flash.jin10.com/detail/20260601004937107800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
+        },
+        {
+          "title": "多名艺人辞演后特朗普决定自己上台",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E8%89%BA%E4%BA%BA%E8%BE%9E%E6%BC%94%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%B3%E5%AE%9A%E8%87%AA%E5%B7%B1%E4%B8%8A%E5%8F%B0%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
+        },
+        {
+          "title": "东帝汶总统：五常仅中国未卷入战争",
+          "url": "https://www.toutiao.com/trending/7645327229551001619/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
+        },
+        {
+          "title": "据以色列第12频道：内塔尼亚胡试图说服特朗普扩大军事行动范围，将贝鲁特纳入其中。",
+          "url": "https://flash.jin10.com/detail/20260601010048036800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "02时08分"
+        },
+        {
+          "title": "法国总统马克龙：当前的首要任务应当是达成停火协议，并在不附加任何条件、且符合国际法的前提下，立即重新开放霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260601004925997800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
+        },
+        {
+          "title": "法国总统马克龙：与沙特王储、阿曼苏丹、阿联酋总统和埃及总统进行了交谈，我向他们传达了同一个信息——美国与伊朗之间尽快达成协议至关重要，必须把握机会。",
+          "url": "https://flash.jin10.com/detail/20260601004849485800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
         },
         {
           "title": "体坛联播｜法国总统祝贺巴黎卫冕欧冠，高芙法网爆冷出局",
@@ -114,30 +144,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "特朗普肖像上250美元钞票有哪些难题",
           "url": "https://www.toutiao.com/trending/7646031446183792154/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "东帝汶总统：五常仅中国未卷入战争",
-          "url": "https://www.toutiao.com/trending/7645327229551001619/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "哥伦比亚总统选举开始投票",
@@ -146,9 +166,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
+        },
+        {
+          "title": "捷克总理：今年军费“恐无法达北约目标”",
+          "url": "https://wallstreetcn.com/livenews/3111948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
         },
         {
           "title": "乌克兰总统泽连斯基：我认为这种合作的潜力将是巨大的，有可能成为全球同类合作中最强大的项目。我们需要展开谈判，而不仅仅是停留在讨论层面。应当采取必要措施，并尽快推动这项合作落地。",
@@ -157,7 +188,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -168,18 +199,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "捷克总理：今年军费“恐无法达北约目标”",
-          "url": "https://wallstreetcn.com/livenews/3111948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -190,7 +210,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -201,7 +221,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         },
@@ -212,7 +232,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         }
@@ -220,29 +240,19 @@
     },
     {
       "keyword_group": "美国 伊朗",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "美国财长贝森特声称：加密货币领域的所有乱象（荒唐事）都发生离岸地区（境外）。",
-          "url": "https://wallstreetcn.com/livenews/3111964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
         {
           "title": "崔天凯问菲律宾为何做美国小弟",
           "url": "https://www.toutiao.com/trending/7645193705942519338/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "高举切·格瓦拉头像，阿根廷爆发集会谴责美国、声援古巴",
@@ -252,30 +262,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "美国财长贝森特宣称：市场看淡“暂时性的”通胀飙升现象。",
-          "url": "https://wallstreetcn.com/livenews/3111961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "美国博主来中国看街头电车破防了",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8D%9A%E4%B8%BB%E6%9D%A5%E4%B8%AD%E5%9B%BD%E7%9C%8B%E8%A1%97%E5%A4%B4%E7%94%B5%E8%BD%A6%E7%A0%B4%E9%98%B2%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "美国要从中东基地撤军？美防长回应",
@@ -285,8 +285,30 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
+        },
+        {
+          "title": "美国财长贝森特声称：加密货币领域的所有乱象（荒唐事）都发生离岸地区（境外）。",
+          "url": "https://wallstreetcn.com/livenews/3111964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "time_info": "[01时02分 ~ 02时08分]"
+        },
+        {
+          "title": "美国财长贝森特宣称：市场看淡“暂时性的”通胀飙升现象。",
+          "url": "https://wallstreetcn.com/livenews/3111961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
         },
         {
           "title": "美国财长贝森特：霍尔木兹海峡必须恢复至（美国和以色列挑起伊朗战争）之前的水平。 海峡关闭直接造成化肥价格上涨。",
@@ -295,9 +317,20 @@
           "ranks": [
             6
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
+        },
+        {
+          "title": "伊朗外交部长：我们不应该重视猜测。",
+          "url": "https://flash.jin10.com/detail/20260601012432623800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "02时08分"
         },
         {
           "title": "伊朗国家媒体：伊朗伊斯兰革命卫队对伊拉克北部的“分离主义组织”据点实施了打击。",
@@ -306,9 +339,20 @@
           "ranks": [
             7
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
+        },
+        {
+          "title": "伊朗外交部长：在达成明确结果之前，我们无法对谈判做出判断。",
+          "url": "https://flash.jin10.com/detail/20260601012031055800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "02时08分"
         },
         {
           "title": "伊朗国家安全与外交政策委员会成员科萨里表示，核问题已被排除在谈判桌之外；目前尚未达成最终协议。（伊朗学生通讯社）",
@@ -317,9 +361,31 @@
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
+        },
+        {
+          "title": "伊朗外交部长：与美国的会谈和信息交流仍在进行。",
+          "url": "https://flash.jin10.com/detail/20260601012015413800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "02时08分"
+        },
+        {
+          "title": "据以色列i24News：伊朗导弹基地已恢复使用。",
+          "url": "https://flash.jin10.com/detail/20260601011109644800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时08分"
         },
         {
           "title": "美联储理事沃勒：稳定币将扩大美国货币政策的影响范围",
@@ -328,9 +394,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
         },
         {
           "title": "普京：已将残骸交给美国鉴定",
@@ -340,63 +406,68 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "美国财长贝森特：对伊朗的经济围困是施压行动的基本组成部分。",
           "url": "https://flash.jin10.com/detail/20260531235759836800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
         },
         {
           "title": "美国财长贝森特：恢复霍尔木兹海峡的无费用航行将是伊朗承诺的首个指标。",
           "url": "https://flash.jin10.com/detail/20260531235740009800",
           "source": "金十数据",
           "ranks": [
-            15
+            15,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
         },
         {
           "title": "美国财长贝森特：开启霍尔木兹海峡并夺取伊朗的核库存是目标之一。",
           "url": "https://flash.jin10.com/detail/20260531235718965800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
         },
         {
           "title": "美国财长贝森特：伊朗在47年来首次做好了放弃其核计划的准备；我们不会接受无法确保阻止伊朗获得核武器的协议。",
           "url": "https://flash.jin10.com/detail/20260531235701308800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
         },
         {
           "title": "美国财长贝森特：对伊朗的围攻以及对哈尔科夫石油出口的阻止仍在继续。",
           "url": "https://flash.jin10.com/detail/20260531235613251800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
         }
       ]
     },
@@ -412,8 +483,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
@@ -423,8 +494,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -434,8 +505,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
@@ -445,8 +516,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
@@ -456,19 +527,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "如何看待哈佛最年轻华人正教授尹希，爆出入职 open AI？",
           "url": "https://www.zhihu.com/question/2044397085965955829",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
@@ -478,8 +550,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "乌克兰总统泽连斯基：美国企业拥有我们所不具备的先进人工智能技术。而反过来，由于我们积累了丰富的实战经验，我们也掌握着许多美国人所没有的能力和经验。",
@@ -488,7 +560,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
         }
@@ -506,8 +578,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "如何评价华为徐直军「感谢」美国制裁，称压力反而促成了中国半导体产业的成长？",
@@ -517,8 +589,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "MCU巨头意法半导体年内二次涨价",
@@ -527,20 +599,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
         },
         {
           "title": "小米自研芯片「玄戒 o3」六月量产，台积电 3nm 加持下性能会有多大提升？",
           "url": "https://www.zhihu.com/question/2043989303341142831",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "芯片三巨头齐聚！COMPUTEX下周揭幕 哪些亮点值得期待？",
@@ -550,8 +623,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "景顺长城全球芯片LOF将于2026年6月1日开市起至当日10:30停牌。",
@@ -560,9 +633,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
         }
       ]
     },
@@ -578,8 +651,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "【早报】中际旭创发布严正声明；MiniMax启动A股IPO",
@@ -589,8 +662,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "市值超2600亿港元！MiniMax再冲A股 港股“大模型双雄”即将又会师",
@@ -600,19 +673,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "A股新一轮抱团还能走多远",
           "url": "https://www.toutiao.com/trending/7646053365972995635/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "MINIMAX-W：截至本公告日期，本公司已聘请专业顾问就本公司符合在科创板上市的条件提供咨询，并已签订辅导协议。",
@@ -621,9 +695,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
         }
       ]
     },
@@ -636,11 +710,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%B2%E5%AE%9E%E6%88%98%E9%83%A8%E7%BD%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "美国年轻人街头暴揍机器人",
@@ -650,8 +725,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "美媒：美公司在乌克兰测试人形机器人，计划将技术引入美军",
@@ -660,9 +735,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
         }
       ]
     },
@@ -678,8 +753,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         },
         {
           "title": "中信证券：坚定看好特斯拉机器人以及供应链企业",
@@ -689,8 +764,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         }
       ]
     },
@@ -722,9 +797,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
         }
       ]
     },
@@ -756,9 +831,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时08分]"
         }
       ]
     },
@@ -774,8 +849,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 02时08分]"
         }
       ]
     }
