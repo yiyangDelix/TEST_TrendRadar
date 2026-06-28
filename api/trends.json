@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T05:58:24.667556+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-06-29T07:01:57.590444+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
@@ -50,41 +50,44 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
-        },
-        {
-          "title": "德国外长：我与阿联酋副总理就海湾地区的未来安全安排以及邻国伊朗带来的风险进行了富有成效的交流。我们一致认为，霍尔木兹海峡的航行自由绝不能受到损害，近期针对巴林和科威特的袭击行为是不可接受的。",
-          "url": "https://flash.jin10.com/detail/20260629053242125800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时58分"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "以总理与防长发表联合声明：以军将继续驻留在黎南部“安全区”",
-          "url": "https://flash.jin10.com/detail/20260629051339918800",
-          "source": "金十数据",
+          "url": "https://wallstreetcn.com/livenews/3125713",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时58分"
+          "time_info": "07时01分"
+        },
+        {
+          "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3125689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时01分]"
         },
         {
           "title": "韩国总统：世界杯出局太荒唐",
@@ -135,6 +138,18 @@
           "time_info": "[03时08分 ~ 04时56分]"
         },
         {
+          "title": "德国外长：我与阿联酋副总理就海湾地区的未来安全安排以及邻国伊朗带来的风险进行了富有成效的交流。我们一致认为，霍尔木兹海峡的航行自由绝不能受到损害，近期针对巴林和科威特的袭击行为是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260629053242125800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时01分]"
+        },
+        {
           "title": "俄罗斯总统普京：各地加油站前排起长队，民众所需的汽油有时供不应求。",
           "url": "https://flash.jin10.com/detail/20260629003823038800",
           "source": "金十数据",
@@ -171,6 +186,18 @@
           "time_info": "[01时03分 ~ 03时08分]"
         },
         {
+          "title": "以总理与防长发表联合声明：以军将继续驻留在黎南部“安全区”",
+          "url": "https://flash.jin10.com/detail/20260629051339918800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时01分]"
+        },
+        {
           "title": "俄罗斯总统普京：最大的炼油厂的产能正在被充分利用。",
           "url": "https://flash.jin10.com/detail/20260629003546431800",
           "source": "金十数据",
@@ -193,18 +220,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 05时58分]"
-        },
-        {
-          "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3125689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时58分]"
         },
         {
           "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
@@ -458,7 +473,7 @@
     },
     {
       "keyword_group": "美国 伊朗",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "“我们太依赖美国，结果被关税坑惨了”",
@@ -468,8 +483,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
@@ -477,11 +492,47 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
+        },
+        {
+          "title": "伊朗队队长怒斥：这届世界杯是场灾难",
+          "url": "https://news.ifeng.com/c/8uKJ5MNERg6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
+        },
+        {
+          "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
+          "url": "https://www.cls.cn/detail/2411069",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
+        },
+        {
+          "title": "阿根廷奥地利阿尔及利亚三队出线，伊朗被淘汰了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470581",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "伊朗锡里克地区传出爆炸声，美军称再对伊实施打击",
@@ -496,63 +547,18 @@
           "time_info": "[01时02分 ~ 05时58分]"
         },
         {
-          "title": "伊朗队队长怒斥：这届世界杯是场灾难",
-          "url": "https://news.ifeng.com/c/8uKJ5MNERg6",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
-        },
-        {
-          "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
-          "url": "https://www.cls.cn/detail/2411069",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
-        },
-        {
-          "title": "阿根廷奥地利阿尔及利亚三队出线，伊朗被淘汰了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470581",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
-        },
-        {
           "title": "美国股灾告诉你泡沫如何收割散户",
           "url": "https://www.toutiao.com/trending/7656455001794940458/",
           "source": "今日头条",
           "ranks": [
             8,
             5,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
-        },
-        {
-          "title": "伊拉克在反腐行动中拘留的官员包括负责分销事务的副石油部长，美以发动伊朗战争后曾制裁该官员",
-          "url": "https://wallstreetcn.com/livenews/3125697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "美国海军陆战队接收首批「无雷达」F-35，没有雷达在现代战争中意味着什么？",
@@ -561,22 +567,63 @@
           "ranks": [
             14,
             13,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
-          "title": "美国和伊朗即将举行的谈判已被取消。（以色列i24NEWS）",
-          "url": "https://wallstreetcn.com/livenews/3125699",
+          "title": "伊拉克在反腐行动中拘留的官员包括负责分销事务的副石油部长，美以发动伊朗战争后曾制裁该官员",
+          "url": "https://wallstreetcn.com/livenews/3125697",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            3,
+            9,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时01分]"
+        },
+        {
+          "title": "美国230斤男孩在家中去世父母被捕",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD230%E6%96%A4%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%AE%B6%E4%B8%AD%E5%8E%BB%E4%B8%96%E7%88%B6%E6%AF%8D%E8%A2%AB%E6%8D%95%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            14,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
+        },
+        {
+          "title": "伊朗补刀,韩国队命悬一线",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355692&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%A1%A5%E5%88%80%2C%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%91%BD%E6%82%AC%E4%B8%80%E7%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
+        },
+        {
+          "title": "伊朗最后时刻无缘淘汰赛，一图速览世界杯32强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470690",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "美国230斤男孩家中去世 父母被捕",
@@ -591,6 +638,19 @@
           "time_info": "[04时55分 ~ 05时58分]"
         },
         {
+          "title": "伊朗将从下周一恢复迪拜航班。（伊朗媒体IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3125691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时01分]"
+        },
+        {
           "title": "报道：美国和伊朗即将举行的谈判已被取消。",
           "url": "https://wallstreetcn.com/livenews/3125699",
           "source": "华尔街见闻-快讯",
@@ -602,41 +662,17 @@
           "time_info": "01时03分"
         },
         {
-          "title": "据AXIOS：美国官员透露，美国和伊朗同意停止袭击，并将在本周会晤。",
-          "url": "https://flash.jin10.com/detail/20260629042328972800",
-          "source": "金十数据",
+          "title": "美国纽约市长：初选结果表明选民渴望一种新型政治",
+          "url": "https://wallstreetcn.com/livenews/3125690",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            9
+            10,
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时58分]"
-        },
-        {
-          "title": "美国230斤男孩在家中去世父母被捕",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD230%E6%96%A4%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%AE%B6%E4%B8%AD%E5%8E%BB%E4%B8%96%E7%88%B6%E6%AF%8D%E8%A2%AB%E6%8D%95%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            14,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
-        },
-        {
-          "title": "伊朗补刀,韩国队命悬一线",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355692&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%A1%A5%E5%88%80%2C%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%91%BD%E6%82%AC%E4%B8%80%E7%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时01分]"
         },
         {
           "title": "伊朗队球员哭诉：这届世界杯是场灾难",
@@ -653,39 +689,29 @@
           "time_info": "[01时02分 ~ 05时58分]"
         },
         {
-          "title": "伊朗最后时刻无缘淘汰赛，一图速览世界杯32强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470690",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
-        },
-        {
-          "title": "伊朗将从下周一恢复迪拜航班。（伊朗媒体IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3125691",
+          "title": "美国和伊朗即将举行的谈判已被取消。（以色列i24NEWS）",
+          "url": "https://wallstreetcn.com/livenews/3125699",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 07时01分]"
+        },
+        {
+          "title": "据AXIOS：美国官员透露，美国和伊朗同意停止袭击，并将在本周会晤。",
+          "url": "https://flash.jin10.com/detail/20260629042328972800",
+          "source": "金十数据",
+          "ranks": [
+            4,
             9,
-            15
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时58分]"
-        },
-        {
-          "title": "美国纽约市长：初选结果表明选民渴望一种新型政治",
-          "url": "https://wallstreetcn.com/livenews/3125690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 3,
+          "time_info": "[04时56分 ~ 07时01分]"
         },
         {
           "title": "伊朗队队长怒斥国际足联",
@@ -817,6 +843,17 @@
           "time_info": "[01时02分 ~ 01时03分]"
         },
         {
+          "title": "伊朗官员：受遭袭事件影响，伊方缺席28日的美伊技术性谈判",
+          "url": "https://wallstreetcn.com/livenews/3125716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "黎巴嫩议长办公室：伊朗议会议长卡利巴夫保证，德黑兰方面将依据谅解备忘录，推动以色列停止对黎巴嫩发动战事。",
           "url": "https://flash.jin10.com/detail/20260628230833889800",
           "source": "金十数据",
@@ -834,7 +871,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
         },
@@ -875,7 +912,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -885,8 +922,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "人民日报评“AI脸看腻了”",
@@ -897,8 +934,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -908,8 +945,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
@@ -920,8 +957,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
@@ -931,8 +968,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -942,19 +979,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "轻量化AI设备需求激增，分析师：AI眼镜正加速迎来规模化拐点",
           "url": "https://wallstreetcn.com/livenews/3125707",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 05时58分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 07时01分]"
         },
         {
           "title": "AI初创公司Firmus携手英伟达在印尼建设数据中心",
@@ -962,11 +1000,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时01分]"
+        },
+        {
+          "title": "全球科技股同步回调，券商研报：AI主线地位不改但再平衡需求上升",
+          "url": "https://wallstreetcn.com/livenews/3125724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
@@ -1018,8 +1068,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "下周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
@@ -1029,8 +1079,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "半导体龙头集体加注 先进封装何以成为最具壁垒环节？",
@@ -1038,11 +1088,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "据The Information：百度芯片部门昆仑芯计划以500亿美元的估值赴港上市，IPO投资者必须承诺购买相当于其认购额3至7倍的芯片。",
@@ -1058,6 +1109,46 @@
       ]
     },
     {
+      "keyword_group": "美股 道琼斯 纳斯达克 标普500",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
+          "url": "https://wallstreetcn.com/articles/3775701",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
+        },
+        {
+          "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
+          "url": "https://flash.jin10.com/detail/20260629060352549800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "美股股指期货周一小幅低开，其中纳指期货跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20260629060021389800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特斯拉 微软 Meta 英伟达 亚马逊",
       "match_count": 3,
       "titles": [
@@ -1069,8 +1160,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "特斯拉 FSD 全面转向订阅制，国内港澳台地区买断版 6 月 30 日后下架，两种模式长期成本差距有多大？",
@@ -1082,8 +1173,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "预计特斯拉什么时候装回：超声波、毫米波雷达，甚至激光雷达。以解决纯视觉的长尾效应？",
@@ -1094,8 +1185,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时55分 ~ 05时58分]"
+          "appearance_count": 4,
+          "time_info": "[04时55分 ~ 07时01分]"
         }
       ]
     },
@@ -1112,8 +1203,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -1123,26 +1214,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时02分 ~ 07时01分]"
         }
       ]
     },
     {
-      "keyword_group": "美股 道琼斯 纳斯达克 标普500",
+      "keyword_group": "医药 医疗",
       "match_count": 1,
       "titles": [
         {
-          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
-          "url": "https://wallstreetcn.com/articles/3775701",
-          "source": "华尔街见闻",
+          "title": "退休化学教授帮医药研发人员制毒",
+          "url": "https://s.weibo.com/weibo?q=%E9%80%80%E4%BC%91%E5%8C%96%E5%AD%A6%E6%95%99%E6%8E%88%E5%B8%AE%E5%8C%BB%E8%8D%AF%E7%A0%94%E5%8F%91%E4%BA%BA%E5%91%98%E5%88%B6%E6%AF%92&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            4,
-            3
+            16
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 05时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     }
