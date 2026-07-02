@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T05:01:26.238641+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-07-03T06:05:55.948790+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 伊朗",
-      "match_count": 30,
+      "match_count": 36,
       "titles": [
         {
           "title": "美国6月非农新增就业5.7万人，仅为市场预期的一半，前值大幅下修，失业率意外降至一年来最低水平",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
         },
         {
           "title": "美国6月非农仅增5.7万人远逊预期 市场削减美联储加息押注",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
         },
         {
           "title": "中方回应“降低或取消对美国农产品关税”",
@@ -42,17 +42,6 @@
           "time_info": "[01时39分 ~ 01时40分]"
         },
         {
-          "title": "美国至6月26日当周外国央行持有美国国债 -110.64亿美元，前值56.56亿美元。",
-          "url": "https://flash.jin10.com/detail/20260703043316130800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
           "title": "美国巨额反华经费，出事了",
           "url": "https://news.ifeng.com/c/8uRWtmFm4ld",
           "source": "凤凰网",
@@ -60,8 +49,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 06时05分]"
+        },
+        {
+          "title": "美国电网运营巨头PJM互联公司（PJM Interconnection LLC）因为高温高热天气而发布二级电网紧急警报。",
+          "url": "https://wallstreetcn.com/livenews/3128243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "据CNN：美国计划加强工作场所移民执法力度。",
@@ -70,7 +70,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -84,17 +84,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
-        },
-        {
-          "title": "美国计划加强工作场所移民执法。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3128219",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
         },
         {
           "title": "美国7月3日当周石油钻井数 445，前值 440。",
@@ -130,6 +119,41 @@
           "time_info": "01时40分"
         },
         {
+          "title": "美国骑行博主在广西农村被请吃饭",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%AA%91%E8%A1%8C%E5%8D%9A%E4%B8%BB%E5%9C%A8%E5%B9%BF%E8%A5%BF%E5%86%9C%E6%9D%91%E8%A2%AB%E8%AF%B7%E5%90%83%E9%A5%AD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
+        },
+        {
+          "title": "美国淘汰波黑,东道主胜利会师",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355818&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%B7%98%E6%B1%B0%E6%B3%A2%E9%BB%91%2C%E4%B8%9C%E9%81%93%E4%B8%BB%E8%83%9C%E5%88%A9%E4%BC%9A%E5%B8%88",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
+        },
+        {
+          "title": "美国至6月26日当周外国央行持有美国国债 -110.64亿美元，前值56.56亿美元。",
+          "url": "https://flash.jin10.com/detail/20260703043316130800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时05分]"
+        },
+        {
           "title": "报道：美国政府和Anthropic并未讨论政府参股事宜",
           "url": "https://wallstreetcn.com/livenews/3128160",
           "source": "华尔街见闻-快讯",
@@ -141,26 +165,16 @@
           "time_info": "01时40分"
         },
         {
-          "title": "美国骑行博主在广西农村被请吃饭",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%AA%91%E8%A1%8C%E5%8D%9A%E4%B8%BB%E5%9C%A8%E5%B9%BF%E8%A5%BF%E5%86%9C%E6%9D%91%E8%A2%AB%E8%AF%B7%E5%90%83%E9%A5%AD",
-          "source": "百度热搜",
+          "title": "美国计划加强工作场所移民执法。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3128219",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            2,
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
-        },
-        {
-          "title": "美国淘汰波黑,东道主胜利会师",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355818&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%B7%98%E6%B1%B0%E6%B3%A2%E9%BB%91%2C%E4%B8%9C%E9%81%93%E4%B8%BB%E8%83%9C%E5%88%A9%E4%BC%9A%E5%B8%88",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时05分]"
         },
         {
           "title": "美国队接连改写世界杯队史纪录背后",
@@ -191,7 +205,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -213,7 +227,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -229,6 +243,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "高温席卷美国大部分地区，约1.63亿人受影响",
+          "url": "https://wallstreetcn.com/livenews/3128228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
           "title": "美国至7月3日当周总钻井总数 580口，前值573口。",
           "url": "https://flash.jin10.com/detail/20260703010258000800",
           "source": "金十数据",
@@ -238,6 +263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "周四（7月2日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7888元，较周三纽约尾盘涨59点，日内整体交投于6.7966-6.7836元区间，美国非农就业报告时显著反弹。",
+          "url": "https://wallstreetcn.com/livenews/3128227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "美国至7月3日当周石油钻井总数 445口，前值440口。",
@@ -262,6 +298,28 @@
           "time_info": "01时40分"
         },
         {
+          "title": "美国电网运营巨头PJM互联公司（PJM Interconnection LLC）更新炎热天气的运营情况。 针对7月3日发布“最大化发电警报”。 现阶段针对7月3日发布电网负荷管理警告。 针对炎热天气的（用电）警报有效期至少将持续至7月4日。",
+          "url": "https://wallstreetcn.com/livenews/3128225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "高温席卷美国大部分地区 约1.63亿人受影响",
+          "url": "https://flash.jin10.com/detail/20260703050849276800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
           "title": "在美国新英格兰地区，包括波士顿在内的马萨诸塞州东北部地区的峰值电价周四飙升244%，达到每兆瓦时424.64美元。 PJM基准枢纽（Western Hub）的峰值电价飙升150%，平均达到479.27美元/兆瓦时，为今年1月严重暴风雪以来的最高水平。",
           "url": "https://wallstreetcn.com/livenews/3128148",
           "source": "华尔街见闻-快讯",
@@ -284,6 +342,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "新兴市场外汇市场受美国疲软就业数据及美元走弱提振",
+          "url": "https://wallstreetcn.com/livenews/3128221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
           "title": "美国司法部调查所谓涉及Susquehanna的内幕交易。",
           "url": "https://wallstreetcn.com/livenews/3128144",
           "source": "华尔街见闻-快讯",
@@ -301,7 +370,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -323,7 +392,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -334,7 +403,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -342,7 +411,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
@@ -352,8 +421,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
+        },
+        {
+          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
+          "url": "https://wallstreetcn.com/articles/3776029",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
         },
         {
           "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
@@ -364,19 +445,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
-        },
-        {
-          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
-          "url": "https://wallstreetcn.com/articles/3776029",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
         },
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -386,8 +456,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
         },
         {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
@@ -406,11 +476,23 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
+        },
+        {
+          "title": "美国总统特朗普：不管人工智能是好是坏， 我们已经用上这项技术了。",
+          "url": "https://flash.jin10.com/detail/20260703053547693800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "AI演员已经能演出情绪变化了",
@@ -431,9 +513,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "美国总统特朗普被问及OpenAI股份时，提到了英特尔(INTC.O)股份（美国政府入股了英特尔）。",
+          "url": "https://flash.jin10.com/detail/20260703053218844800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普：美国必须在人工智能领域领先。",
+          "url": "https://flash.jin10.com/detail/20260703053041502800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "如何评价AI巨头之间的混战",
@@ -441,11 +545,45 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
+        },
+        {
+          "title": "美国总统特朗普被问及入股OpenAI，拿英特尔举例。",
+          "url": "https://wallstreetcn.com/livenews/3128237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普：无论好坏，我们都有AI。",
+          "url": "https://wallstreetcn.com/livenews/3128236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美银：Meta卖算力，意在讲好AI投资回报故事",
+          "url": "https://wallstreetcn.com/articles/3776055",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "美国AI三大巨头争抢哲学家",
@@ -457,6 +595,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时39分 ~ 01时40分]"
+        },
+        {
+          "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告",
+          "url": "https://www.cls.cn/detail/2415788",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "随着AI矿产热潮吸引投资关注，刚果（金）计划建立首个证券交易所。（彭博）",
@@ -476,7 +625,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -490,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "Meta回应鼠标追踪软件审查结果：员工数据未被用于AI训练",
+          "url": "https://flash.jin10.com/detail/20260703051247176800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "微软动员6000名员工，助客户采用AI技术",
@@ -509,7 +669,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -520,7 +680,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -531,7 +691,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -542,7 +702,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -564,7 +724,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -575,7 +735,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -586,7 +746,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -597,7 +757,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -619,178 +779,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 道琼斯 纳斯达克 标普500",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "美股大类资产类ETF涨跌各异，黄金ETF涨2%，新兴市场ETF跌约1.2%，纳指ETF跌超1.7%",
-          "url": "https://wallstreetcn.com/livenews/3128216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "北美科技软件股指数ETF涨0.25%，报93.57美元，整体高开低走。 Global X网络安全ETF涨0.38%，纳斯达克网络安全ETF跌0.48%，ETFMG网络安全ETF跌0.12%",
-          "url": "https://wallstreetcn.com/livenews/3128214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "标普500指数的11个板块多数上涨，保健板块收涨2.7%，日用消费品、公用事业、原材料板块至多涨2.41%，可选消费、电信板块至多收跌0.83%，信息技术/科技板块跌1.46%。",
-          "url": "https://wallstreetcn.com/livenews/3128213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "道琼斯指数7月2日（周四）收盘上涨594.18点，涨幅1.14%，报52899.42点；<br/>标普500指数7月2日（周四）收盘下跌0.49点，跌幅0.01%，报7482.74点；<br/>纳斯达克综合指数7月2日（周四）收盘下跌207.36点，跌幅0.80%，报25832.67点。",
-          "url": "https://flash.jin10.com/detail/20260703040607023800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
-          "url": "https://wallstreetcn.com/livenews/3128212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260703040606639800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "金十图示：2026年07月02日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260703040551550800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
-          "url": "https://wallstreetcn.com/livenews/3128157",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.77%，结束此前连续四个交易日反弹的趋势，报5912.23点，本周迄今累涨3.18%。 热门中概股里，百度初步收跌约4%，蔚来、小鹏跌超3%，日月光半导体跌2.7%，网易跌1.9%，腾讯跌1.8%，阿里跌1.5%，美团涨1.6%，小米涨2.7%，比亚迪涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.26%，本周迄今累跌0.37%； XtrackersHarvest中证50（ASHS）收跌4.31%，本周迄今累跌1.32%； 德银嘉实沪深300指数ETF（ASHR）收跌3.25%，本周迄今累跌1.96%，延续上周跌1.29%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.57%，本周迄今累跌3.07%，延续上周回撤5.39%的表现； 中概互联网指数ETF（KWEB）收跌0.52%，本周迄今反弹4.39%。",
-          "url": "https://wallstreetcn.com/livenews/3128207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "本周标普500指数上涨1.75%，纳斯达克指数上涨2.12%，道琼斯工业平均指数上涨1.97%。道指连续第四周上涨，创下自2024年10月以来的最长连涨纪录。",
-          "url": "https://flash.jin10.com/detail/20260703040240022800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "花旗数据显示交易员全力押注纳斯达克100指数，认为涨势还将继续",
-          "url": "https://wallstreetcn.com/livenews/3128156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "美股存储芯片指数初步收跌约11%，费城半导体指数跌约6%。 标普500指数初步大致收平，科技板块跌1.7%，电信板块跌0.8%，可选消费板块跌0.7%，公用事业、保健、日用消费品板块涨超2%。 纳斯达克100指数初步收跌1.6%，成分股中，闪迪初步收跌15.3%，泰瑞达、科磊、迈威尔科技/美满电子、拉姆研究、希捷科技、西部数据至少跌约10%，特斯拉重挫8%，Adobe涨3.9%，苹果涨4.7%，汤森路透涨5.7%，Strategy涨7.9%。",
-          "url": "https://wallstreetcn.com/livenews/3128205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "美股收盘：芯片股重挫 闪迪大跌14%",
-          "url": "https://flash.jin10.com/detail/20260703040150384800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3128154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "道指扩大涨幅至逾1%，标普500指数和纳指跌幅收窄，分别跌0.12%和0.89%。",
-          "url": "https://flash.jin10.com/detail/20260703035622684800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -798,7 +787,7 @@
     },
     {
       "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 13,
+      "match_count": 30,
       "titles": [
         {
           "title": "总统的女儿，成为“第一夫人”，又成为总统",
@@ -808,8 +797,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
+        },
+        {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
         },
         {
           "title": "以色列总理内塔尼亚胡迎来劲敌",
@@ -823,27 +823,50 @@
           "time_info": "[01时39分 ~ 05时01分]"
         },
         {
-          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
-        },
-        {
           "title": "佛得角总统预测1比0击败阿根廷",
           "url": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%BE%97%E8%A7%92%E6%80%BB%E7%BB%9F%E9%A2%84%E6%B5%8B1%E6%AF%940%E5%87%BB%E8%B4%A5%E9%98%BF%E6%A0%B9%E5%BB%B7",
           "source": "百度热搜",
           "ranks": [
             8,
-            27
+            27,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于住房法案）没问题。",
+          "url": "https://flash.jin10.com/detail/20260703053454150800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "特朗普谈伊朗：这是无核化，我认为这是政权更迭",
+          "url": "https://wallstreetcn.com/livenews/3128242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普：我在做同样的关税，但形势更加严峻了。",
+          "url": "https://wallstreetcn.com/livenews/3128241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "德国总理默茨：改革方案可能使德国2027年GDP至少增长1%。",
@@ -855,6 +878,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "特朗普：将通过“打赢官司”继续推动解雇美联储理事库克",
+          "url": "https://flash.jin10.com/detail/20260703053345539800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普被问及国会山已经表决通过的住房立法草案（但他本人迟迟没有签字生效为法律），称：情况不错。 其中存在大量由民主党议员们提出的观点。 在国会山通过选民身份问题之前，我不想签署住房草案。",
+          "url": "https://wallstreetcn.com/livenews/3128240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "加拿大总理卡尼：国家在港口物流方面“远远落后”。",
@@ -879,6 +924,30 @@
           "time_info": "01时40分"
         },
         {
+          "title": "佛得角总统称能1:0击败阿根廷",
+          "url": "https://www.douyin.com/hot/2555618",
+          "source": "抖音",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
+        },
+        {
+          "title": "特朗普参加活动后直接拿走剪刀",
+          "url": "https://www.toutiao.com/trending/7656820359463518259/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
+        },
+        {
           "title": "加拿大总理卡尼：加拿大与不列颠哥伦比亚省达成协议，将维持联邦“北海岸油轮禁令”。同时，联邦政府将加快推进新液化天然气项目建设，目标是在未来十年内将液化天然气产量提高至原来的三倍。",
           "url": "https://flash.jin10.com/detail/20260703012240443800",
           "source": "金十数据",
@@ -890,38 +959,148 @@
           "time_info": "01时40分"
         },
         {
-          "title": "佛得角总统称能1:0击败阿根廷",
-          "url": "https://www.douyin.com/hot/2555618",
-          "source": "抖音",
+          "title": "美国总统特朗普：（被问及加密货币收益）我对此一无所知。",
+          "url": "https://flash.jin10.com/detail/20260703052841893800",
+          "source": "金十数据",
           "ranks": [
-            17,
-            16
+            8
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
-          "title": "特朗普参加活动后直接拿走剪刀",
-          "url": "https://www.toutiao.com/trending/7656820359463518259/",
-          "source": "今日头条",
+          "title": "美国总统特朗普：我在任职总统前就涉足加密货币领域。",
+          "url": "https://flash.jin10.com/detail/20260703052743163800",
+          "source": "金十数据",
           "ranks": [
-            26
+            9
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普谈家族加密货币生意，声称：在（再次）担任总统之前就有了。 我希望我们在加密货币领域是第一的，事实上也是如此。 我们必须在加密货币领域领先。 对于加密货币收益，我一无所知；这样的收益并不违法。",
+          "url": "https://wallstreetcn.com/livenews/3128235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普：我的生意都是我孩子在打理，我一点儿也不插手。",
+          "url": "https://flash.jin10.com/detail/20260703052511433800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "韩国迎来史上第二位女总理",
           "url": "https://www.toutiao.com/trending/7657763385777425983/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 06时05分]"
+        },
+        {
+          "title": "美国总统特朗普：我根本不参与我的生意。",
+          "url": "https://flash.jin10.com/detail/20260703052510223800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "特朗普：美联储主席沃什必须做他必须做的事",
+          "url": "https://wallstreetcn.com/livenews/3128233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普：（被问及财务状况时）盛赞股市。",
+          "url": "https://flash.jin10.com/detail/20260703052505649800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普赞赏股市上涨。 被问及财务状况时，再次赞赏股市。 “我的生意都是我孩子打理的，（担任总统期间）我不参与”。 “我让别人投资我的钱，我不知道他们是谁。”（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3128232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普：将开始启动将美联储理事库克从美联储“移除”的程序。",
+          "url": "https://flash.jin10.com/detail/20260703052127745800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普：（关于最高法院驳回解雇联储美联储理事库克的请求）我们可以通过赢得案件让她离开。",
+          "url": "https://flash.jin10.com/detail/20260703052048384800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普：美国GDP（增速）应在12%至13%之间。",
+          "url": "https://flash.jin10.com/detail/20260703052019481800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席沃什有一个稍显敌对的理事会。",
+          "url": "https://flash.jin10.com/detail/20260703051818744800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "加拿大总理：与不列颠哥伦比亚省达成的协议将维持西北海岸油轮禁令",
@@ -930,7 +1109,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -941,7 +1120,193 @@
           "ranks": [
             17
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 道琼斯 纳斯达克 标普500",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "周四（7月2日）纽约尾盘，标普500股指期货最终跌0.16%，道指期货涨1.04%，纳斯达克100股指期货跌1.69%。 罗素2000股指期货跌0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3128239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
+        {
+          "title": "道琼斯指数7月2日（周四）收盘上涨594.18点，涨幅1.14%，报52899.42点；<br/>标普500指数7月2日（周四）收盘下跌0.49点，跌幅0.01%，报7482.74点；<br/>纳斯达克综合指数7月2日（周四）收盘下跌207.36点，跌幅0.80%，报25832.67点。",
+          "url": "https://flash.jin10.com/detail/20260703040607023800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260703040606639800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "金十图示：2026年07月02日（周四）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260703040551550800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，黄金ETF涨2%，新兴市场ETF跌约1.2%，纳指ETF跌超1.7%",
+          "url": "https://wallstreetcn.com/livenews/3128216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时05分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨0.25%，报93.57美元，整体高开低走。 Global X网络安全ETF涨0.38%，纳斯达克网络安全ETF跌0.48%，ETFMG网络安全ETF跌0.12%",
+          "url": "https://wallstreetcn.com/livenews/3128214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时05分]"
+        },
+        {
+          "title": "标普500指数的11个板块多数上涨，保健板块收涨2.7%，日用消费品、公用事业、原材料板块至多涨2.41%，可选消费、电信板块至多收跌0.83%，信息技术/科技板块跌1.46%。",
+          "url": "https://wallstreetcn.com/livenews/3128213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时05分]"
+        },
+        {
+          "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
+          "url": "https://wallstreetcn.com/livenews/3128212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时05分]"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3128157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.77%，结束此前连续四个交易日反弹的趋势，报5912.23点，本周迄今累涨3.18%。 热门中概股里，百度初步收跌约4%，蔚来、小鹏跌超3%，日月光半导体跌2.7%，网易跌1.9%，腾讯跌1.8%，阿里跌1.5%，美团涨1.6%，小米涨2.7%，比亚迪涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.26%，本周迄今累跌0.37%； XtrackersHarvest中证50（ASHS）收跌4.31%，本周迄今累跌1.32%； 德银嘉实沪深300指数ETF（ASHR）收跌3.25%，本周迄今累跌1.96%，延续上周跌1.29%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.57%，本周迄今累跌3.07%，延续上周回撤5.39%的表现； 中概互联网指数ETF（KWEB）收跌0.52%，本周迄今反弹4.39%。",
+          "url": "https://wallstreetcn.com/livenews/3128207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "本周标普500指数上涨1.75%，纳斯达克指数上涨2.12%，道琼斯工业平均指数上涨1.97%。道指连续第四周上涨，创下自2024年10月以来的最长连涨纪录。",
+          "url": "https://flash.jin10.com/detail/20260703040240022800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "花旗数据显示交易员全力押注纳斯达克100指数，认为涨势还将继续",
+          "url": "https://wallstreetcn.com/livenews/3128156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "美股存储芯片指数初步收跌约11%，费城半导体指数跌约6%。 标普500指数初步大致收平，科技板块跌1.7%，电信板块跌0.8%，可选消费板块跌0.7%，公用事业、保健、日用消费品板块涨超2%。 纳斯达克100指数初步收跌1.6%，成分股中，闪迪初步收跌15.3%，泰瑞达、科磊、迈威尔科技/美满电子、拉姆研究、希捷科技、西部数据至少跌约10%，特斯拉重挫8%，Adobe涨3.9%，苹果涨4.7%，汤森路透涨5.7%，Strategy涨7.9%。",
+          "url": "https://wallstreetcn.com/livenews/3128205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美股收盘：芯片股重挫 闪迪大跌14%",
+          "url": "https://flash.jin10.com/detail/20260703040150384800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3128154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "道指扩大涨幅至逾1%，标普500指数和纳指跌幅收窄，分别跌0.12%和0.89%。",
+          "url": "https://flash.jin10.com/detail/20260703035622684800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
@@ -949,8 +1314,20 @@
     },
     {
       "keyword_group": "特斯拉 微软 Meta 英伟达 亚马逊",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
+          "url": "https://wallstreetcn.com/articles/3776018",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
+        },
         {
           "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%",
           "url": "https://wallstreetcn.com/articles/3776024",
@@ -974,26 +1351,28 @@
           "time_info": "[01时39分 ~ 05时01分]"
         },
         {
-          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
-          "url": "https://wallstreetcn.com/articles/3776018",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
-        },
-        {
           "title": "大跌只是表象，英伟达和Meta从两个方向走进了同一个战场",
           "url": "https://wallstreetcn.com/articles/3776071",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
+        },
+        {
+          "title": "Meta下场“卖算力”，是产能过剩信号还是巨头战略转身？",
+          "url": "https://www.cls.cn/detail/2415679",
+          "source": "财联社热门",
+          "ranks": [
+            11,
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
         },
         {
           "title": "摩根士丹利分析师Andrew Percoco：最新一个季度是特斯拉自2023年第三季度以来汽车业务最高增速。 储能业务好于摩根士丹利预期，并与市场一致预期相符。 预计储能需求将继续保持稳健。",
@@ -1013,9 +1392,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "美国总统特朗普：我在英伟达(NVDA.O)中持有非常少量的股票。",
+          "url": "https://flash.jin10.com/detail/20260703053013791800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "“特斯拉劲敌”Rivian收涨78.4%，创1月13日以来收盘新高。",
@@ -1024,20 +1414,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
         {
-          "title": "Meta下场“卖算力”，是产能过剩信号还是巨头战略转身？",
-          "url": "https://www.cls.cn/detail/2415679",
-          "source": "财联社热门",
+          "title": "美国总统特朗普：我持有一些英伟达股票，但我认为很少。 赞赏英伟达CEO黄仁勋。",
+          "url": "https://wallstreetcn.com/livenews/3128234",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "特斯拉收跌7.5%，创将近一年来最差单日表现。",
@@ -1046,7 +1436,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -1057,7 +1447,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         },
@@ -1068,9 +1458,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "Crusoe洽谈按大约300亿美元估值融资大约30亿美元。 该公司替Meta和甲骨文运营数据中心。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3128229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "Meta Platforms(META.O)CEO：认为长期趋势仍与部门重组的基本格局相契合。",
@@ -1079,77 +1480,15 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
       ]
     },
     {
-      "keyword_group": "阿里 腾讯 拼多多 小米 美团 泡泡玛特 兆易创新",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "月供五百开SU7?小米拿捏年轻人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355844&amp;topic_name=%E6%9C%88%E4%BE%9B%E4%BA%94%E7%99%BE%E5%BC%80SU7%3F%E5%B0%8F%E7%B1%B3%E6%8B%BF%E6%8D%8F%E5%B9%B4%E8%BD%BB%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
-        },
-        {
-          "title": "小米卢伟冰称「失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重」，如何看待这一言论？",
-          "url": "https://www.zhihu.com/question/2055964863189537048",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
-        },
-        {
-          "title": "拼多多免费送货入村以后，村里多了哪些「时髦」的东西？",
-          "url": "https://www.zhihu.com/question/2055715938553554608",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
-        },
-        {
-          "title": "宝马销售抹黑小米被罚40万",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
-        },
-        {
-          "title": "国家发改委赴小米集团开展工作调研",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%B9%E5%A7%94%E8%B5%B4%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E5%BC%80%E5%B1%95%E5%B7%A5%E4%BD%9C%E8%B0%83%E7%A0%94%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时39分 ~ 01时40分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
@@ -1157,11 +1496,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.05%，暂报2187.21点，整体持续震荡上行。 MarketVectorTM数字资产100中盘指数涨3.35%，报2532.09点。 MarketVector数字资产100指数涨3.33%，报12304.78点。 目前，Solana涨4.41%，狗狗币涨2.28%，XRP涨2.96%。 比特币涨2.59%，暂报61616.63美元，整体呈现出长尾W形走势；以太坊涨5.05%，暂报1699美元。",
@@ -1181,9 +1521,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "美元指数2日下跌",
+          "url": "https://flash.jin10.com/detail/20260703050814356800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
         },
         {
           "title": "周四（7月2日）纽约尾盘，彭博谷物分类指数涨0.04%，报29.5199点，亚太早盘维持微幅上涨状态，北京时间15:00过后持续扩大涨幅，21:42刷新日高至29.7725点，随后持续回吐涨幅并多次转跌。 CBOT玉米期货跌0.34%，报4.4075美元/蒲式耳。 CBOT小麦期货涨0.04%，报6.0025美元/蒲式耳。 CBOT大豆期货跌0.22%，报11.4675美元/蒲式耳，豆粕期货跌0.10%，豆油期货涨0.21%。",
@@ -1192,9 +1543,74 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "阿里 腾讯 拼多多 小米 美团 泡泡玛特 兆易创新",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "月供五百开SU7?小米拿捏年轻人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355844&amp;topic_name=%E6%9C%88%E4%BE%9B%E4%BA%94%E7%99%BE%E5%BC%80SU7%3F%E5%B0%8F%E7%B1%B3%E6%8B%BF%E6%8D%8F%E5%B9%B4%E8%BD%BB%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
+        },
+        {
+          "title": "小米卢伟冰称「失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重」，如何看待这一言论？",
+          "url": "https://www.zhihu.com/question/2055964863189537048",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
+        },
+        {
+          "title": "拼多多免费送货入村以后，村里多了哪些「时髦」的东西？",
+          "url": "https://www.zhihu.com/question/2055715938553554608",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
+        },
+        {
+          "title": "宝马销售抹黑小米被罚40万",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355803&amp;topic_name=%E5%AE%9D%E9%A9%AC%E9%94%80%E5%94%AE%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3%E8%A2%AB%E7%BD%9A40%E4%B8%87",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
+        },
+        {
+          "title": "国家发改委赴小米集团开展工作调研",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%B9%E5%A7%94%E8%B5%B4%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E5%BC%80%E5%B1%95%E5%B7%A5%E4%BD%9C%E8%B0%83%E7%A0%94%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 01时40分]"
         }
       ]
     },
@@ -1210,8 +1626,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
         },
         {
           "title": "【焦点复盘】科创50跌7.7%创年内单日最大跌幅，多只硬科技权重股遭遇跌停，贵金属板块逆势领涨",
@@ -1221,26 +1637,38 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
         },
         {
           "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
           "url": "https://wallstreetcn.com/articles/3776030",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
         }
       ]
     },
     {
       "keyword_group": "半导体 芯片 算力",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "非农提振昙花一现，芯片股两日累跌11%，纳指独跌，道指新高，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时05分"
+        },
         {
           "title": "半导体开启年内第二轮涨价",
           "url": "https://www.douyin.com/hot/2555058",
@@ -1264,11 +1692,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
         }
       ]
     },
@@ -1281,11 +1710,12 @@
           "url": "https://wallstreetcn.com/livenews/3128215",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时05分]"
         }
       ]
     },
@@ -1302,8 +1732,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时39分 ~ 05时01分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 06时05分]"
         }
       ]
     },
@@ -1318,7 +1748,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
         }
