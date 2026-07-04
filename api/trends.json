@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T07:59:23.157658+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2026-07-04T10:55:07.968910+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 伊朗",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
@@ -28,6 +28,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时57分 ~ 07时59分]"
+        },
+        {
+          "title": "美国糖尿病协会下调亚裔人群超重和肥胖 BMI 标准，为何要下调？BMI 正常就代表体重健康吗？",
+          "url": "https://www.zhihu.com/question/2056372314535453404",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 10时55分]"
         },
         {
           "title": "北约高级指挥官：欧洲已弥补了美国在北约内部削减的大部分份额。",
@@ -53,6 +65,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
+          "url": "https://wallstreetcn.com/livenews/3128877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "中国造的“老头乐”在美国杀疯了",
           "url": "https://www.toutiao.com/trending/7658075005603348522/",
           "source": "今日头条",
@@ -67,26 +90,48 @@
           "time_info": "[01时18分 ~ 07时59分]"
         },
         {
-          "title": "伊朗称将回应违反谅解备忘录的行为",
-          "url": "https://wallstreetcn.com/livenews/3128852",
+          "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
+          "url": "https://flash.jin10.com/detail/20260704103120519800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "美国独立日游行因极端高温在华盛顿特区取消。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3128876",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "10时55分"
         },
         {
-          "title": "美国糖尿病协会下调亚裔人群超重和肥胖 BMI 标准，为何要下调？BMI 正常就代表体重健康吗？",
-          "url": "https://www.zhihu.com/question/2056372314535453404",
-          "source": "知乎",
+          "title": "市场消息：因极端高温，在华盛顿特区举行的美国独立日游行取消。",
+          "url": "https://flash.jin10.com/detail/20260704102609141800",
+          "source": "金十数据",
           "ranks": [
-            7
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "10时55分"
+        },
+        {
+          "title": "美国极端高温天气打破最大电网的电力需求纪录",
+          "url": "https://flash.jin10.com/detail/20260704095901235800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "美联储：美国上周银行存款19.374万亿美元，之前一周19.304万亿美元。",
@@ -100,6 +145,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时57分 ~ 07时59分]"
+        },
+        {
+          "title": "伊朗称将回应违反谅解备忘录的行为",
+          "url": "https://wallstreetcn.com/livenews/3128852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 10时55分]"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国防部副部长表示，伊朗和巴基斯坦可以成为该地区新安全安排的基石。",
@@ -294,7 +351,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         }
@@ -302,7 +359,7 @@
     },
     {
       "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
@@ -312,8 +369,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 10时55分]"
         },
         {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
@@ -323,19 +380,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 10时55分]"
         },
         {
-          "title": "欧盟委员会主席冯德莱恩：欧洲正面临住房危机。我们计划成立“欧洲住房联盟”，并将召开一场欧洲住房问题高级别峰会。",
-          "url": "https://flash.jin10.com/detail/20260704040121911800",
-          "source": "金十数据",
+          "title": "伊朗总统在哈梅内伊告别仪式抹泪",
+          "url": "https://www.toutiao.com/trending/7658230002110119978/",
+          "source": "今日头条",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时57分 ~ 07时59分]"
+          "time_info": "[07时59分 ~ 10时55分]"
         },
         {
           "title": "据俄罗斯媒体：俄罗斯总统普京周五视察了联合部队的一个辅助指挥点。普京听取了总参谋长格拉西莫夫的汇报，后者评估了特别军事行动区域内的当前局势。",
@@ -374,6 +431,18 @@
           "time_info": "[03时08分 ~ 07时59分]"
         },
         {
+          "title": "欧盟委员会主席冯德莱恩：欧洲正面临住房危机。我们计划成立“欧洲住房联盟”，并将召开一场欧洲住房问题高级别峰会。",
+          "url": "https://flash.jin10.com/detail/20260704040121911800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时57分 ~ 10时55分]"
+        },
+        {
           "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
           "url": "https://flash.jin10.com/detail/20260704021129048800",
           "source": "金十数据",
@@ -384,17 +453,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时08分 ~ 07时59分]"
-        },
-        {
-          "title": "伊朗总统在哈梅内伊告别仪式抹泪",
-          "url": "https://www.toutiao.com/trending/7658230002110119978/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
         },
         {
           "title": "俄总统新闻秘书：普京宣布俄军“完全解放”卢甘斯克",
@@ -421,17 +479,6 @@
           "time_info": "03时08分"
         },
         {
-          "title": "巴西最高法院裁定延长前总统博索纳罗居家监禁",
-          "url": "https://wallstreetcn.com/livenews/3128847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
           "source": "澎湃新闻",
@@ -454,6 +501,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时57分 ~ 07时59分]"
+        },
+        {
+          "title": "巴西最高法院裁定延长前总统博索纳罗居家监禁",
+          "url": "https://wallstreetcn.com/livenews/3128847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 10时55分]"
         },
         {
           "title": "加拿大标普/TSX综合指数收涨0.88%，报35274.84点，投资者看好总理卡尼披露的西海岸新版管道输送项目，本周累计上涨0.84%。 小盘股指收涨1.73%，报1426.61点，本周累涨2.77%。 周五（7月3日）北美尾盘，加拿大10年期基准国债收益率跌0.4个基点，报3.443%，本周累涨5.7个基点。 两年期加债收益率跌0.5个基点，报2.756%，本周累涨1.1个基点。",
@@ -526,6 +585,39 @@
           "time_info": "[04时57分 ~ 06时02分]"
         },
         {
+          "title": "湖南省政协副主席张灼华接受国家监委监察调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33510118",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "美国年轻人对特朗普只有一句话",
+          "url": "https://www.toutiao.com/trending/7658466555507867689/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "特朗普：美国经济正强劲腾飞！",
+          "url": "https://flash.jin10.com/detail/20260704093740277800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
           "url": "https://flash.jin10.com/detail/20260704003454888800",
           "source": "金十数据",
@@ -535,6 +627,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "特朗普：将接受以公开交易股票形式进行的慈善捐款。",
+          "url": "https://wallstreetcn.com/livenews/3128858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "以总理办公室否认计划暗杀伊朗谈判代表",
@@ -548,13 +651,24 @@
           "time_info": "01时18分"
         },
         {
+          "title": "特朗普：财政部接受股票捐赠 以资助“特朗普账户”",
+          "url": "https://flash.jin10.com/detail/20260704081757313800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "法国总统：“戴高乐”号航母将返回母港",
           "url": "https://wallstreetcn.com/livenews/3128824",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         }
@@ -562,7 +676,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -589,6 +703,19 @@
           "time_info": "[01时18分 ~ 07时59分]"
         },
         {
+          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 10时55分]"
+        },
+        {
           "title": "4名大学生出题 AI考了0分",
           "url": "https://www.baidu.com/s?wd=4%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E9%A2%98+AI%E8%80%83%E4%BA%860%E5%88%86",
           "source": "百度热搜",
@@ -598,6 +725,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时18分 ~ 06时02分]"
+        },
+        {
+          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 10时55分]"
         },
         {
           "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
@@ -640,22 +779,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            9
+            9,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时59分]"
-        },
-        {
-          "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
-          "url": "https://wallstreetcn.com/articles/3776124",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
+          "appearance_count": 3,
+          "time_info": "[06时02分 ~ 10时55分]"
         },
         {
           "title": "AI焦虑暂退，全球股市反弹，欧股创历史新高，金铜拉涨，美元下跌",
@@ -669,16 +798,15 @@
           "time_info": "06时02分"
         },
         {
-          "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33493022",
-          "source": "澎湃新闻",
+          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
+          "url": "https://wallstreetcn.com/articles/3776134",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            13
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时59分]"
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
         },
         {
           "title": "韩国AI大跃进",
@@ -687,9 +815,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "常州市市长周伟调研人工智能上游产业",
+          "url": "https://flash.jin10.com/detail/20260704100159012800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "加拿大养老基金向EQT的AI基础设施建设投资17.5亿美元",
@@ -756,22 +895,82 @@
           "time_info": "[01时18分 ~ 07时59分]"
         },
         {
+          "title": "一周热榜精选：弱非农下加息押注退潮！大空头警告AI派对结束",
+          "url": "https://flash.jin10.com/detail/20260704095032353800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "如何看待AI模型蒸馏",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85AI%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "SemiAnalysis：AI数据中心内存支出占比2027年或突破40%",
+          "url": "https://flash.jin10.com/detail/20260704084017236800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         }
       ]
     },
     {
       "keyword_group": "阿里 腾讯 拼多多 小米 美团 泡泡玛特 兆易创新",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2056394331271999624",
+          "source": "知乎",
+          "ranks": [
+            14,
+            18,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 10时55分]"
+        },
+        {
+          "title": "月供五百开SU7?小米拿捏年轻人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355844&amp;topic_name=%E6%9C%88%E4%BE%9B%E4%BA%94%E7%99%BE%E5%BC%80SU7%3F%E5%B0%8F%E7%B1%B3%E6%8B%BF%E6%8D%8F%E5%B9%B4%E8%BD%BB%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 10时55分]"
+        },
+        {
+          "title": "腾讯游戏防沉迷系统升级",
+          "url": "https://www.douyin.com/hot/2557156",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        },
         {
           "title": "曝阿里7月10日起全面禁用Claude",
           "url": "https://www.toutiao.com/trending/7658254613019102783/",
@@ -794,31 +993,6 @@
             13,
             12,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时59分]"
-        },
-        {
-          "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
-          "url": "https://www.zhihu.com/question/2056394331271999624",
-          "source": "知乎",
-          "ranks": [
-            14,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时59分]"
-        },
-        {
-          "title": "月供五百开SU7?小米拿捏年轻人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355844&amp;topic_name=%E6%9C%88%E4%BE%9B%E4%BA%94%E7%99%BE%E5%BC%80SU7%3F%E5%B0%8F%E7%B1%B3%E6%8B%BF%E6%8D%8F%E5%B9%B4%E8%BD%BB%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            25
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -851,19 +1025,8 @@
     },
     {
       "keyword_group": "半导体 芯片 算力",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3776024",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 06时02分]"
-        },
         {
           "title": "【焦点复盘】市场全天现缩量震荡，超160家个股涨逾10%，大批芯片强势股遭遇补跌",
           "url": "https://www.cls.cn/detail/2416647",
@@ -874,8 +1037,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 10时55分]"
+        },
+        {
+          "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 06时02分]"
         },
         {
           "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
@@ -892,6 +1066,19 @@
           "time_info": "[01时18分 ~ 07时59分]"
         },
         {
+          "title": "一颗14克的芯片，拯救了葡萄牙和C罗",
+          "url": "https://wallstreetcn.com/articles/3776164",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时02分 ~ 10时55分]"
+        },
+        {
           "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
           "url": "https://www.cls.cn/detail/2416590",
           "source": "财联社热门",
@@ -905,16 +1092,67 @@
           "time_info": "[01时18分 ~ 07时59分]"
         },
         {
-          "title": "一颗14克的芯片，拯救了葡萄牙和C罗",
-          "url": "https://wallstreetcn.com/articles/3776164",
-          "source": "华尔街见闻",
+          "title": "存储芯片涨价",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            7
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时59分]"
+          "time_info": "[10时54分 ~ 10时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 微软 Meta 英伟达 亚马逊",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "2nm代工再爆单！三星拿下Meta巨额ASIC订单 积压订单冲刺50万亿韩元",
+          "url": "https://www.cls.cn/detail/2416703",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 10时55分]"
+        },
+        {
+          "title": "SemiAnalysis驳斥“算力过剩论”：Meta算力扩张远超想象，明年资本开支将“高得惊人”",
+          "url": "https://wallstreetcn.com/articles/3776123",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 07时59分]"
+        },
+        {
+          "title": "SemiAnalysis：在英伟达系统中的内存支出占比到2026年底将超过30%，并在2027年超过40%",
+          "url": "https://wallstreetcn.com/livenews/3128855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "三星Meta",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9FMeta%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
         }
       ]
     },
@@ -927,11 +1165,12 @@
           "url": "https://wallstreetcn.com/articles/3776152",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 10时55分]"
         },
         {
           "title": "智利两大矿企为锂合资项目增产70%规划路径",
@@ -952,7 +1191,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -970,48 +1209,8 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 微软 Meta 英伟达 亚马逊",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "2nm代工再爆单！三星拿下Meta巨额ASIC订单 积压订单冲刺50万亿韩元",
-          "url": "https://www.cls.cn/detail/2416703",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时59分]"
-        },
-        {
-          "title": "SemiAnalysis驳斥“算力过剩论”：Meta算力扩张远超想象，明年资本开支将“高得惊人”",
-          "url": "https://wallstreetcn.com/articles/3776123",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时59分]"
-        },
-        {
-          "title": "三星Meta",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9FMeta%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 道琼斯 纳斯达克 标普500",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -1020,11 +1219,23 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 10时55分]"
+        },
+        {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
         },
         {
           "title": "周五（7月3日）纽约尾盘，标普500股指期货最终涨0.31%，道指期货跌0.10%，纳斯达克100股指期货涨1.13%。 罗素2000股指期货涨0.29%。",
@@ -1042,7 +1253,7 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
@@ -1053,8 +1264,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 10时55分]"
+        },
+        {
+          "title": "售价十几万至九十九万的「机器人伴侣」订单破万，仅限成人购买，花高价买仿生陪伴机器人值得吗？",
+          "url": "https://www.zhihu.com/question/2055671696800143351",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
         },
         {
           "title": "优必选 CEO 称珍惜当牛马最后光阴，20 年后是机器人干活，如何看待这一发言？机器人上班会是趋势吗？",
@@ -1075,18 +1297,47 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板 科创",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【早报】证监会征求意见，事关上市公司再融资；A股存储龙头半年报净利最高预增740倍",
           "url": "https://www.cls.cn/detail/2417029",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 10时55分]"
+        },
+        {
+          "title": "没有涨跌幅的A股会怎样",
+          "url": "https://www.toutiao.com/trending/7658297327089618451/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家电影局发文鼓励将影院打造成集观影、社交、消费于一体的综合文化空间，你认为此举能否拯救低迷的电影院？",
+          "url": "https://www.zhihu.com/question/2056509067665700235",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
         }
       ]
     },
