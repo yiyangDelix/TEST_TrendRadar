@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T19:21:51.123719+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-07-04T21:08:06.257391+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 伊朗",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "美国糖尿病协会下调亚裔人群超重和肥胖 BMI 标准，为何要下调？BMI 正常就代表体重健康吗？",
@@ -34,6 +34,18 @@
           "time_info": "[14时14分 ~ 19时21分]"
         },
         {
+          "title": "WTT 美国大满贯混双决赛，王楚钦孙颖莎 2 比 3 林仲勋申裕斌，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2056730447258677382",
+          "source": "知乎",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 21时08分]"
+        },
+        {
           "title": "现场：伊朗为哈梅内伊举行公众告别悼念仪式",
           "url": "https://news.ifeng.com/c/8uTvqahB2zu",
           "source": "凤凰网",
@@ -56,6 +68,17 @@
           "time_info": "[01时18分 ~ 04时57分]"
         },
         {
+          "title": "福山：美国或衰落下去，最终将领导地位让给中国",
+          "url": "https://news.ifeng.com/c/8uU6rmzrg1n",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 21时08分]"
+        },
+        {
           "title": "格陵兰岛当局：美国仍在施压，但该岛“绝不出售”",
           "url": "https://flash.jin10.com/detail/20260704034413740800",
           "source": "金十数据",
@@ -65,17 +88,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时57分 ~ 07时59分]"
-        },
-        {
-          "title": "WTT 美国大满贯混双决赛，王楚钦孙颖莎 2 比 3 林仲勋申裕斌，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2056730447258677382",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 19时21分]"
         },
         {
           "title": "北约高级指挥官：欧洲已弥补了美国在北约内部削减的大部分份额。",
@@ -94,11 +106,24 @@
           "url": "https://wallstreetcn.com/livenews/3128938",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 21时08分]"
+        },
+        {
+          "title": "上千万伊朗人参与哈梅内伊告别仪式",
+          "url": "https://flash.jin10.com/detail/20260704184728055800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 21时08分]"
         },
         {
           "title": "美国电网运营巨头PJM Interconnection LLC：可能在7月2日出现创历史纪录新高的电力需求。",
@@ -126,15 +151,15 @@
           "time_info": "[01时18分 ~ 07时59分]"
         },
         {
-          "title": "上千万伊朗人参与哈梅内伊告别仪式",
-          "url": "https://flash.jin10.com/detail/20260704184728055800",
+          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
+          "url": "https://flash.jin10.com/detail/20260704200114603800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时21分"
+          "time_info": "21时08分"
         },
         {
           "title": "美国独立日游行因极端高温在华盛顿特区取消。（彭博）",
@@ -148,15 +173,27 @@
           "time_info": "10时55分"
         },
         {
-          "title": "福山：美国或衰落下去，最终将领导地位让给中国",
-          "url": "https://news.ifeng.com/c/8uU6rmzrg1n",
-          "source": "凤凰网",
+          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
+          "url": "https://wallstreetcn.com/livenews/3128943",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "伊朗民众泪别哈梅内伊",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%B0%91%E4%BC%97%E6%B3%AA%E5%88%AB%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[19时21分 ~ 21时08分]"
         },
         {
           "title": "伊朗民众泪别哈梅内伊",
@@ -164,11 +201,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 21时08分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260704161949297800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 21时08分]"
         },
         {
           "title": "美联储：美国上周银行存款19.374万亿美元，之前一周19.304万亿美元。",
@@ -241,18 +292,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：黎巴嫩消息人士称，以色列在萨迪金市附近进行了一次无人机袭击。",
-          "url": "https://flash.jin10.com/detail/20260704161949297800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 19时21分]"
         },
         {
           "title": "格陵兰岛当局：美国仍在施压，但该岛“绝不出售”",
@@ -374,6 +413,18 @@
           "time_info": "[06时02分 ~ 07时59分]"
         },
         {
+          "title": "美国地质调查局：印尼阿贝普拉西侧264公里处发生5.1级地震。",
+          "url": "https://flash.jin10.com/detail/20260704171737727800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 21时08分]"
+        },
+        {
           "title": "尽管汽油价格高企，美国人依然踏上独立日自驾之旅",
           "url": "https://wallstreetcn.com/livenews/3128795",
           "source": "华尔街见闻-快讯",
@@ -457,17 +508,6 @@
           "time_info": "[14时14分 ~ 14时15分]"
         },
         {
-          "title": "美国地质调查局：印尼阿贝普拉西侧264公里处发生5.1级地震。",
-          "url": "https://flash.jin10.com/detail/20260704171737727800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
           "title": "惠誉评级：重新评估全球企业部门面临的与伊朗相关的持续风险。",
           "url": "https://flash.jin10.com/detail/20260704004150306800",
           "source": "金十数据",
@@ -545,17 +585,6 @@
           "time_info": "01时18分"
         },
         {
-          "title": "伊朗民众泪别哈梅内伊",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%B0%91%E4%BC%97%E6%B3%AA%E5%88%AB%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
           "title": "WTT美国大满贯男双半决赛",
           "url": "https://s.weibo.com/weibo?q=WTT%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E7%94%B7%E5%8F%8C%E5%8D%8A%E5%86%B3%E8%B5%9B&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -581,7 +610,7 @@
     },
     {
       "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
@@ -617,6 +646,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时59分 ~ 14时15分]"
+        },
+        {
+          "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
+          "url": "https://news.ifeng.com/c/8uUUEfrnQmU",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
+          "url": "https://v.ifeng.com/c/8uU91uEdDMo",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
         },
         {
           "title": "据俄罗斯媒体：俄罗斯总统普京周五视察了联合部队的一个辅助指挥点。普京听取了总参谋长格拉西莫夫的汇报，后者评估了特别军事行动区域内的当前局势。",
@@ -678,6 +729,18 @@
           "time_info": "[17时17分 ~ 19时21分]"
         },
         {
+          "title": "德国总理默茨与乌克兰总统泽连斯基通电话，讨论俄罗斯对基辅及乌克兰其他地区的空袭。",
+          "url": "https://flash.jin10.com/detail/20260704185707648800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 21时08分]"
+        },
+        {
           "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
           "url": "https://flash.jin10.com/detail/20260704021129048800",
           "source": "金十数据",
@@ -690,15 +753,15 @@
           "time_info": "[03时08分 ~ 07时59分]"
         },
         {
-          "title": "德国总理默茨与乌克兰总统泽连斯基通电话，讨论俄罗斯对基辅及乌克兰其他地区的空袭。",
-          "url": "https://flash.jin10.com/detail/20260704185707648800",
-          "source": "金十数据",
+          "title": "美国250周年庆典变特朗普私人派对？",
+          "url": "https://news.ifeng.com/c/8uUV6js1fGQ",
+          "source": "凤凰网",
           "ranks": [
-            2
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
         },
         {
           "title": "俄总统新闻秘书：普京宣布俄军“完全解放”卢甘斯克",
@@ -725,6 +788,28 @@
           "time_info": "03时08分"
         },
         {
+          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
+          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
+          "title": "俄总统新闻秘书：普京宣布俄军“完全解放”卢甘斯克",
+          "url": "https://wallstreetcn.com/articles/3776183",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
           "title": "伊朗议长反击特朗普“缺粮”言论：美国数千万人靠食品券生活",
           "url": "https://flash.jin10.com/detail/20260704124044168800",
           "source": "金十数据",
@@ -734,17 +819,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-04）",
-          "url": "https://flash.jin10.com/detail/20260704182308917800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
         },
         {
           "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
@@ -758,27 +832,30 @@
           "time_info": "[01时18分 ~ 07时59分]"
         },
         {
-          "title": "欧盟委员会主席冯德莱恩：十个月前，欧盟委员会已提议暂停欧盟-以色列联系国协定项下的贸易优惠待遇。",
-          "url": "https://flash.jin10.com/detail/20260704181354372800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
           "title": "南非副总统：欢迎更多中国企业来南非投资兴业",
           "url": "https://wallstreetcn.com/livenews/3128921",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 21时08分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯：伊拉克总统表示，将武器控制在国家手中是新政府面临的最重要议题。",
+          "url": "https://flash.jin10.com/detail/20260704161211782800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 21时08分]"
         },
         {
           "title": "秘鲁全国选举委员会宣布藤森庆子当选总统",
@@ -794,16 +871,16 @@
           "time_info": "[04时57分 ~ 07时59分]"
         },
         {
-          "title": "据沙特媒体哈达斯：伊拉克总统表示，将武器控制在国家手中是新政府面临的最重要议题。",
-          "url": "https://flash.jin10.com/detail/20260704161211782800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-04）",
+          "url": "https://flash.jin10.com/detail/20260704182308917800",
           "source": "金十数据",
           "ranks": [
-            5,
-            20
+            6,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时17分 ~ 19时21分]"
+          "time_info": "[19时21分 ~ 21时08分]"
         },
         {
           "title": "巴西最高法院裁定延长前总统博索纳罗居家监禁",
@@ -828,6 +905,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时17分 ~ 19时21分]"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：十个月前，欧盟委员会已提议暂停欧盟-以色列联系国协定项下的贸易优惠待遇。",
+          "url": "https://flash.jin10.com/detail/20260704181354372800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 21时08分]"
         },
         {
           "title": "加拿大标普/TSX综合指数收涨0.88%，报35274.84点，投资者看好总理卡尼披露的西海岸新版管道输送项目，本周累计上涨0.84%。 小盘股指收涨1.73%，报1426.61点，本周累涨2.77%。 周五（7月3日）北美尾盘，加拿大10年期基准国债收益率跌0.4个基点，报3.443%，本周累涨5.7个基点。 两年期加债收益率跌0.5个基点，报2.756%，本周累涨1.1个基点。",
@@ -874,6 +963,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时57分 ~ 07时59分]"
+        },
+        {
+          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
+          "url": "https://wallstreetcn.com/livenews/3128926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 21时08分]"
         },
         {
           "title": "法国总统马克龙：霍尔木兹海峡局势“处于正面的发展之中”。 戴高乐号航空母舰（Charles de Gaulle）将重返母港。",
@@ -944,17 +1045,6 @@
           "time_info": "14时15分"
         },
         {
-          "title": "特朗普吹嘘美国“战绩” 称“我们很善良”",
-          "url": "https://wallstreetcn.com/livenews/3128926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
-        },
-        {
           "title": "特朗普：美国经济正强劲腾飞！",
           "url": "https://flash.jin10.com/detail/20260704093740277800",
           "source": "金十数据",
@@ -1005,7 +1095,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1057,7 +1147,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -1066,11 +1156,12 @@
           "ranks": [
             2,
             1,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时59分 ~ 19时21分]"
+          "appearance_count": 9,
+          "time_info": "[07时59分 ~ 21时08分]"
         },
         {
           "title": "AI填志愿实测：信息更新可能有偏差，决策还得考生自己做",
@@ -1169,6 +1260,17 @@
           "time_info": "[01时18分 ~ 04时57分]"
         },
         {
+          "title": "特斯拉限制员工AI使用开销 美国多家科技企业收紧AI支出",
+          "url": "https://wallstreetcn.com/livenews/3128944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
           "url": "https://wallstreetcn.com/livenews/3128844",
           "source": "华尔街见闻-快讯",
@@ -1191,6 +1293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
         },
         {
           "title": "韩国AI大跃进",
@@ -1292,13 +1405,24 @@
           "time_info": "[10时55分 ~ 14时15分]"
         },
         {
+          "title": "如何看待传统导演扎堆入局 AI 影视，是行业风口还是影视行业再也离不开 AI 了？",
+          "url": "https://www.zhihu.com/question/2056439444681515610",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
+        },
+        {
           "title": "曝摄像头AirPodsPro项目暂停",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%91%84%E5%83%8F%E5%A4%B4AirPodsPro%E9%A1%B9%E7%9B%AE%E6%9A%82%E5%81%9C%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -1491,7 +1615,7 @@
     },
     {
       "keyword_group": "阿里 腾讯 拼多多 小米 美团 泡泡玛特 兆易创新",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "阿里巴巴内部宣布全面禁用 A 社旗下产品，包括 Claude Code 、 Opus 等，这释放了哪些信号？",
@@ -1519,6 +1643,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 10时55分]"
+        },
+        {
+          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
+          "url": "https://wallstreetcn.com/livenews/3128945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "腾讯游戏防沉迷系统升级",
@@ -1688,11 +1823,12 @@
           "ranks": [
             14,
             17,
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时14分 ~ 19时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时14分 ~ 21时08分]"
         },
         {
           "title": "智利两大矿企为锂合资项目增产70%规划路径",
@@ -1735,6 +1871,20 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时54分 ~ 21时08分]"
+        },
+        {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
           "url": "https://wallstreetcn.com/articles/3776105",
           "source": "华尔街见闻",
@@ -1747,19 +1897,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 10时55分]"
-        },
-        {
-          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3776174",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时54分 ~ 19时21分]"
         },
         {
           "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
@@ -1840,7 +1977,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板 科创",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】证监会征求意见，事关上市公司再融资；A股存储龙头半年报净利最高预增740倍",
@@ -1852,8 +1989,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时59分 ~ 19时21分]"
+          "appearance_count": 9,
+          "time_info": "[07时59分 ~ 21时08分]"
         },
         {
           "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
@@ -1865,8 +2002,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时14分 ~ 19时21分]"
+          "appearance_count": 6,
+          "time_info": "[14时14分 ~ 21时08分]"
+        },
+        {
+          "title": "龙头四连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2417129",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 21时08分]"
         },
         {
           "title": "没有涨跌幅的A股会怎样",
@@ -1886,6 +2034,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "月薪 1.8 万，房租每月 6000，想住得舒服有错吗？朋友说我被「消费主义洗脑」，该怎么反驳？",
+          "url": "https://www.zhihu.com/question/2023007302307914124",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 21时08分]"
+        },
+        {
           "title": "国家电影局发文鼓励将影院打造成集观影、社交、消费于一体的综合文化空间，你认为此举能否拯救低迷的电影院？",
           "url": "https://www.zhihu.com/question/2056509067665700235",
           "source": "知乎",
@@ -1897,17 +2056,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时54分 ~ 19时21分]"
-        },
-        {
-          "title": "月薪 1.8 万，房租每月 6000，想住得舒服有错吗？朋友说我被「消费主义洗脑」，该怎么反驳？",
-          "url": "https://www.zhihu.com/question/2023007302307914124",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 19时21分]"
         },
         {
           "title": "消费者质疑平台自营卖翻新电脑：保修期两年前被激活，商家称是“全新”",
