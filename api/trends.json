@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T02:28:56.875686+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-07-14T04:09:29.349406+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 伊朗",
-      "match_count": 42,
+      "match_count": 65,
       "titles": [
         {
           "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "非要和中国比？印度在贸易谈判中对美国提要求",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "最高领袖誓言复仇，伊朗锁死霍尔木兹海峡，硬刚美国最后通牒",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "霍尔木兹海峡，伊朗不能承受之重",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "美国外卖小哥戴项圈抢银行",
@@ -60,19 +60,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "美军称对伊朗发起新一轮打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "美国中央司令部确认恢复对伊朗港口的封锁",
@@ -81,7 +82,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -92,9 +93,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "美国电网运营巨头PJM Interconnection LLC发布高温预警，担心100 F（38摄氏度）的炎热天气会持续至周五。",
+          "url": "https://wallstreetcn.com/livenews/3133065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "美军将于格林尼治时间14日20时起对伊朗实施海上封锁",
@@ -103,20 +115,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
         {
-          "title": "美国6月政府预算 -1203.05亿美元，前值 -2926亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3133035",
+          "title": "美国2/10年期国债收益率涨超5个基点",
+          "url": "https://wallstreetcn.com/livenews/3133064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "据伊朗国家电视台：截至目前，伊朗南部地区包括班达尔阿巴斯在内的多地暂无爆炸报告。",
+          "url": "https://flash.jin10.com/detail/20260714033243959800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "关税退款激增，美国联邦预算赤字本财年首次走阔",
+          "url": "https://wallstreetcn.com/livenews/3133063",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时28分"
+          "time_info": "04时09分"
         },
         {
           "title": "俄罗斯能源部长：正如伊朗伊斯兰共和国始终顶住外部压力和霸凌一样，俄罗斯也绝不会向以强权为基础的政策低头屈服。",
@@ -136,9 +170,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "美国国防部启动为期60天的网络安全成熟度模型认证审查，期间将继续执行NIST网络安全标准和《国防联邦采购条例补充条款》相关义务。",
+          "url": "https://flash.jin10.com/detail/20260714033153878800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "美国加州等州对派拉蒙与华纳兄弟探索的交易提起诉讼。",
@@ -152,15 +197,37 @@
           "time_info": "00时26分"
         },
         {
-          "title": "报道：美军将从周二开始全面封锁伊朗海岸线",
-          "url": "https://wallstreetcn.com/livenews/3133034",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国防部暂停实施网络安全成熟度模型认证第二阶段网络安全规则，理由是担忧该规定导致小企业退出相关国防供应链。",
+          "url": "https://flash.jin10.com/detail/20260714033053514800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时28分"
+          "time_info": "04时09分"
+        },
+        {
+          "title": "受二叠纪盆地增产及LNG出口流量下降影响，美国天然气跌至7周低点",
+          "url": "https://wallstreetcn.com/livenews/3133061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "伊朗科纳拉克周边地区遭袭",
+          "url": "https://flash.jin10.com/detail/20260714032633735800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "美国务院宣布发起行动“削弱国际刑事法院运作能力”",
@@ -169,7 +236,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -180,9 +247,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "据伊通社（IRNA）：4枚导弹已击中伊朗南部港口城市科纳拉克（Konarak）附近地区，一架美国飞机正在科纳拉克上空飞行。",
+          "url": "https://flash.jin10.com/detail/20260714031756855800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "伊朗塔斯尼姆通讯社（Tasnim）称，伊朗阿巴斯港（Bandar Abbas）的防空系统已启动。 截至目前，阿巴斯港及伊朗南部其他地区未报告发生爆炸。",
+          "url": "https://wallstreetcn.com/livenews/3133059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "美国6月政府预算 -1200亿美元，预期-1283亿美元，前值-2926.48亿美元。",
@@ -191,9 +280,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：打击了霍尔木兹海峡内多艘“违规”船只。",
+          "url": "https://flash.jin10.com/detail/20260714031603172800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "美国将从15日凌晨4点起封锁伊朗港口",
@@ -202,9 +302,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗恰巴哈尔和科纳拉克附近传出6次爆炸声。目前尚未确定这些爆炸的具体地点，安全部队正在对此展开调查。",
+          "url": "https://flash.jin10.com/detail/20260714031024555800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "英国拟将伊朗伊斯兰革命卫队列为“非法组织”",
@@ -218,6 +329,18 @@
           "time_info": "00时26分"
         },
         {
+          "title": "美国6月政府预算 -1203.05亿美元，前值 -2926亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3133035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 04时09分]"
+        },
+        {
           "title": "（美国针对伊朗潜在的）海上封锁的时间安排将于周一晚些时候公布。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3132998",
           "source": "华尔街见闻-快讯",
@@ -229,6 +352,18 @@
           "time_info": "00时26分"
         },
         {
+          "title": "报道：美军将从周二开始全面封锁伊朗海岸线",
+          "url": "https://wallstreetcn.com/livenews/3133034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 04时09分]"
+        },
+        {
           "title": "美国将恢复“针对伊朗的封锁”",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%81%A2%E5%A4%8D%E2%80%9C%E9%92%88%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E5%B0%81%E9%94%81%E2%80%9D",
           "source": "百度热搜",
@@ -237,8 +372,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
+        },
+        {
+          "title": "美国公布第四批 UFO 文件，一段迄今最清晰影像显示有飞行物酷似双层飞船，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2059327384772466175",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "美国海军主导的联合海事信息中心：人道主义物资运输将获准通行，但须接受检查。",
@@ -247,9 +393,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗阿巴斯港防空系统已启动。",
+          "url": "https://flash.jin10.com/detail/20260714030551930800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "伊朗外长与塞浦路斯外长讨论霍尔木兹海峡的冲突。",
+          "url": "https://wallstreetcn.com/livenews/3133055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "市场消息：加州及美国11个州的总检察长表示，正提起诉讼以阻止派拉蒙收购华纳兄弟。",
@@ -269,7 +437,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -283,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "伊朗南部沿海地带传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3133054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "伊朗官员：美国在违反规则方面“名列前茅”",
@@ -324,7 +503,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -335,9 +514,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "伊朗媒体：阿巴斯港东部传出4声爆炸",
+          "url": "https://flash.jin10.com/detail/20260714030103568800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "法国兴业银行建议买入2-5年期美国国债",
+          "url": "https://wallstreetcn.com/livenews/3133051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "美国海军主导的联合海事信息中心：美国实施的海上封锁适用于所有船舶，无论其悬挂何种国旗。",
@@ -346,9 +547,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "伊朗的阿巴斯港和科纳拉克传出爆炸声。 地处霍尔木兹海峡的伊朗LARAK ISLAND传出爆炸声。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3133050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "美国务院宣布发起行动“削弱国际刑事法院运作能力”",
@@ -357,7 +569,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -406,6 +618,39 @@
           "time_info": "00时26分"
         },
         {
+          "title": "美国原油期货收涨超9.4%",
+          "url": "https://wallstreetcn.com/livenews/3133045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "美国原油期货结算价为每桶78.14美元，上涨6.73美元，涨幅9.42%。",
+          "url": "https://flash.jin10.com/detail/20260714023113680800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "美军宣布于美东时间14日开始对伊朗实施海上封锁",
+          "url": "https://wallstreetcn.com/livenews/3133043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
           "title": "美官员：美军将稍后公布“封锁伊朗”的具体启动时间",
           "url": "https://flash.jin10.com/detail/20260713233315415800",
           "source": "金十数据",
@@ -423,9 +668,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "美军将于格林尼治时间14日20时起对伊朗实施海上封锁",
+          "url": "https://wallstreetcn.com/livenews/3133041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "美国至7月13日3个月国债竞拍-投标倍数 2.84，前值2.58。",
@@ -456,7 +712,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -475,18 +731,19 @@
     },
     {
       "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 18,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
           "url": "https://wallstreetcn.com/articles/3776814",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -496,8 +753,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "市场消息：匈牙利议会通过罢免总统的立法。",
@@ -511,6 +768,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "据MS NOW：美国总统特朗普在周四（北京时间周五上午）的讲话中将谈及2020年选举中的外国干预 。",
+          "url": "https://flash.jin10.com/detail/20260714034636545800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
           "title": "德国两年期国债收益率涨超7个基点，投资者关注特朗普对霍尔木兹海峡的最新态度",
           "url": "https://wallstreetcn.com/livenews/3133007",
           "source": "华尔街见闻-快讯",
@@ -520,6 +788,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "据CNN：美国总统特朗普将支持通过由已故参议员林赛·格雷厄姆牵头的两党对俄制裁方案 。",
+          "url": "https://flash.jin10.com/detail/20260714033602404800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：伊朗和俄罗斯不接受单边主义，也不接受将意志强加于其他国家。",
@@ -550,9 +829,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "美国官员声称，总统特朗普将支持（国会山）对俄罗斯制裁的立法草案。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3133060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "联合国航运机构发言人：联合国航运机构正在等待关于美国总统特朗普提到的美国将对通过霍尔木兹海峡的货物收取20%费用的进一步细节。",
@@ -572,7 +862,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -584,8 +874,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "特朗普称重新封锁伊朗",
@@ -597,6 +887,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时26分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰每月需要100个爱国者拦截器，冬季需要300个以阻止进一步的俄罗斯攻击。",
+          "url": "https://flash.jin10.com/detail/20260714030144578800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰的Freyja项目将于12个月内实施，旨在获得欧洲支持的弹道防御，但乌克兰现在急需防御措施。",
+          "url": "https://flash.jin10.com/detail/20260714030140620800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "市场消息：美国法官裁定特朗普与美国国税局达成的和解协议无效。法官将特朗普律师及司法部高级官员移交州律师协会处理。",
@@ -616,9 +928,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "特朗普将于周五早上9点发表全国讲话",
+          "url": "https://flash.jin10.com/detail/20260714024650282800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "特朗普已通知国会伊朗战事重新爆发",
+          "url": "https://wallstreetcn.com/livenews/3133047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "乌克兰议长称乌总理已提交辞呈",
@@ -627,7 +961,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -638,7 +972,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -649,9 +983,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        },
+        {
+          "title": "美媒：特朗普已通知国会伊朗战事重新爆发",
+          "url": "https://flash.jin10.com/detail/20260714024104744800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "英国两年期国债收益率涨超10个基点，刷新6月11日以来盘中高位至4.3465%，特朗普宣布在霍尔木兹海峡对货物收费20%之后，交易员推高对央行加息的预期。",
@@ -665,13 +1010,24 @@
           "time_info": "00时26分"
         },
         {
+          "title": "伊朗外长：特朗普对霍尔木兹海峡收费20%的比例“太过分了”。 伊朗一直是霍尔木兹海峡的守护者。",
+          "url": "https://wallstreetcn.com/livenews/3133037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
           "title": "匈牙利国会通过《基本法》修正案，提前终止总统任期",
           "url": "https://wallstreetcn.com/livenews/3133008",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         }
@@ -679,7 +1035,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -689,8 +1045,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "习近平将出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
@@ -700,8 +1056,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
@@ -711,8 +1067,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "解锁2026世界人工智能大会新亮点",
@@ -722,8 +1078,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
@@ -733,8 +1089,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "Meta持续加码AI基建 追加400亿美元投资其最大数据中心项目",
@@ -744,8 +1100,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "AI债务泡沫要破了？高盛首次公开承认：市场承接能力逼近极限",
@@ -755,8 +1111,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "中国自研AI芯片取得架构突破",
@@ -787,7 +1143,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -801,12 +1157,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "2026世界人工智能大会看点速览。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3133040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         }
       ]
     },
     {
       "keyword_group": "美股 道琼斯 纳斯达克 标普500",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股Q2财报季前瞻：非科技股盈利韧性凸显 科技股“答卷”超预期才能过关",
@@ -816,8 +1183,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "美股半导体大跌！闪迪跌超10%",
@@ -828,8 +1195,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
+        },
+        {
+          "title": "纳斯达克100指数指数跌幅扩大至2%，刷新日低，闪迪跌13.7%，Astera Labs跌13.2%，英特尔跌7.2%，CoreWeave跌6.2%。半导体指数跌5.2%，存储芯片指数维持7.8%的跌幅。标普500指数跌0.8%，纳指跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3133053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
         },
         {
           "title": "机构：标普500指数EPS动能有望继续强劲上行",
@@ -849,7 +1227,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         },
@@ -878,8 +1256,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "创业板跌超3%，科技齐跌，存储芯片重挫、兆易创新跌停，恒科指跌1%，半导体集体调整",
@@ -889,8 +1267,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "A股今日大跌原因",
@@ -907,6 +1285,35 @@
       ]
     },
     {
+      "keyword_group": "半导体 芯片 算力",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球首颗近存计算3D芯片发布",
+          "url": "https://www.douyin.com/hot/2569670",
+          "source": "抖音",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 04时09分]"
+        },
+        {
+          "title": "苹果开始测试中国企业长鑫存储内存芯片，背后有哪些战略考量？此举将带来哪些产业影响？",
+          "url": "https://www.zhihu.com/question/2058578162674397208",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "消费",
       "match_count": 2,
       "titles": [
@@ -918,8 +1325,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         },
         {
           "title": "国务院：让居民消费底气更足",
@@ -930,23 +1337,34 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时28分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时09分]"
         }
       ]
     },
     {
-      "keyword_group": "半导体 芯片 算力",
-      "match_count": 1,
+      "keyword_group": "美元",
+      "match_count": 2,
       "titles": [
         {
-          "title": "全球首颗近存计算3D芯片发布",
-          "url": "https://www.douyin.com/hot/2569670",
-          "source": "抖音",
+          "title": "美元指数涨0.3%，刷新日高",
+          "url": "https://wallstreetcn.com/livenews/3133062",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            4
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时09分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.18%，暂报2156.48点。 MarketVectorTM数字资产100中盘指数跌3.47%，报2580.37点。 MarketVector数字资产100指数跌2.95%，报12395.59点。 目前，Solana跌3.03%，狗狗币跌2.52%，XRP跌2.91%。 比特币跌3.04%，暂报62208.11美元；以太坊跌2.78%，暂报1769.52美元。",
+          "url": "https://wallstreetcn.com/livenews/3133014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
         }
@@ -970,19 +1388,19 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "恒生 恒生科技",
       "match_count": 1,
       "titles": [
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.18%，暂报2156.48点。 MarketVectorTM数字资产100中盘指数跌3.47%，报2580.37点。 MarketVector数字资产100指数跌2.95%，报12395.59点。 目前，Solana跌3.03%，狗狗币跌2.52%，XRP跌2.91%。 比特币跌3.04%，暂报62208.11美元；以太坊跌2.78%，暂报1769.52美元。",
-          "url": "https://wallstreetcn.com/livenews/3133014",
+          "title": "恒生指数主连夜盘收跌0.18%，报24158点。 恒生科技指数主连夜盘收跌0.26%，报4671点。",
+          "url": "https://wallstreetcn.com/livenews/3133049",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时28分"
+          "time_info": "04时09分"
         }
       ]
     }
