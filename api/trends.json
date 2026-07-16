@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T04:51:00.261690+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-07-17T05:59:26.247612+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 伊朗",
-      "match_count": 66,
+      "match_count": 84,
       "titles": [
         {
           "title": "美国议员警告：这么干，让中国赢了",
@@ -15,19 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
-        },
-        {
-          "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
-          "url": "https://www.cls.cn/detail/2428434",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
         },
         {
           "title": "美国对三星等7家公司启动337调查",
@@ -35,7 +24,19 @@
           "source": "抖音",
           "ranks": [
             11,
-            9
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
+        },
+        {
+          "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
+          "url": "https://www.cls.cn/detail/2428434",
+          "source": "财联社热门",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -50,8 +51,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
         },
         {
           "title": "据伊朗媒体Fars News：美国打击了伊朗港口城市哈米尔的一座桥梁。",
@@ -60,7 +61,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -74,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "数据中心公司Csquare Inc.（CSQR）美国IPO首日收跌1.57%，报20.67美元。",
-          "url": "https://wallstreetcn.com/livenews/3135271",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
         },
         {
           "title": "伊朗司法部门：暂无美国囚犯从伊朗监狱获释或交换。",
@@ -104,7 +94,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -118,6 +108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗布什尔地区传出12声爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260717054128239800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "伊朗重申与海湾邻国不存在敌对关系",
@@ -142,17 +143,6 @@
           "time_info": "03时20分"
         },
         {
-          "title": "美国打击“拉高出货”骗局，微型IPO遭重创",
-          "url": "https://wallstreetcn.com/livenews/3135269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
           "title": "伊朗阿巴斯港西部传出三次爆炸声",
           "url": "https://flash.jin10.com/detail/20260717023701527800",
           "source": "金十数据",
@@ -162,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "伊朗部分机场、桥梁和铁路枢纽遭美军袭击",
+          "url": "https://flash.jin10.com/detail/20260717053952754800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "美国财政部拍卖四周期国债，得标利率3.660，投标倍数2.57。 拍卖八周期国债，得标利率3.650%，投标倍数2.84。",
@@ -230,15 +231,26 @@
           "time_info": "03时20分"
         },
         {
-          "title": "美国铝业二季度销售39.7亿美元，分析师预期40.2亿美元。 维持全年铝产量预期在240万-260万吨不变。 维持全年铝发货量预期在260万-280万吨不变。 预计全年氧化铝产量为950万-960万公吨，此前预期为970万-990万公吨。 预计本财年氧化铝发货量为1150万-1160万公吨。",
-          "url": "https://wallstreetcn.com/livenews/3135266",
+          "title": "美国国家航空航天局（NASA）委托SpaceX从“猎户座”飞船传输“阿尔忒弥斯 3 号”的影像资料。 SpaceX将提供激光通信能力。",
+          "url": "https://wallstreetcn.com/livenews/3135292",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时51分"
+          "time_info": "05时59分"
+        },
+        {
+          "title": "伊朗迈赫尔通讯社发布了一张遭美方袭击的桥梁的图片。",
+          "url": "https://flash.jin10.com/detail/20260717052015059800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "SpaceX收跌3.1%，报131.11美元，美国IPO以来首次收盘破发。",
@@ -247,9 +259,32 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "数据中心公司Csquare Inc.（CSQR）美国IPO首日收跌1.57%，报20.67美元。",
+          "url": "https://wallstreetcn.com/livenews/3135271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时51分 ~ 05时59分]"
+        },
+        {
+          "title": "奈飞(NFLX.O)联席CEO：美国、墨西哥和西班牙地区的涨价效果良好。",
+          "url": "https://flash.jin10.com/detail/20260717051412143800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "美军开始对伊朗实施新一轮袭击。",
@@ -261,6 +296,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "美国打击“拉高出货”骗局，微型IPO遭重创",
+          "url": "https://wallstreetcn.com/livenews/3135269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时51分 ~ 05时59分]"
         },
         {
           "title": "房利美：美国30年期固定利率抵押贷款在7月16日当周平均为6.55%，为2025年8月28日以来的最高水平，较前一周的6.49%有所上升。",
@@ -285,6 +332,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "巴西外长：美国加征关税毫无理由 是“出于政治动机”",
+          "url": "https://flash.jin10.com/detail/20260717051304130800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
           "title": "燃料生产商Standard Nuclear（STDN）美国IPO首日开盘破发，报13.50美元，此前给出的IPO发行价为每股15美元。 核电概念股目前普跌，NNE跌10.69%，SMR跌9.63%，OKLO跌9.4%。",
           "url": "https://wallstreetcn.com/livenews/3135214",
           "source": "华尔街见闻-快讯",
@@ -307,6 +365,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 03时20分]"
+        },
+        {
+          "title": "美国铝业二季度销售39.7亿美元，分析师预期40.2亿美元。 维持全年铝产量预期在240万-260万吨不变。 维持全年铝发货量预期在260万-280万吨不变。 预计全年氧化铝产量为950万-960万公吨，此前预期为970万-990万公吨。 预计本财年氧化铝发货量为1150万-1160万公吨。",
+          "url": "https://wallstreetcn.com/livenews/3135266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时51分 ~ 05时59分]"
         },
         {
           "title": "美国连续第六晚打击伊朗",
@@ -386,13 +456,24 @@
           "time_info": "03时20分"
         },
         {
+          "title": "美国新墨西哥州拒绝为甲骨文数据中心颁发天然气管道许可",
+          "url": "https://wallstreetcn.com/livenews/3135284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
           "title": "巴西外长维埃拉：将对受美国关税影响的行业采取措施并予以公告。",
           "url": "https://flash.jin10.com/detail/20260717040003128800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -403,7 +484,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -414,9 +495,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "美军对伊朗阿巴斯港居民区的袭击已造成1人死亡、8人受伤。此外，位于伊朗南部霍尔木兹甘省哈米尔港的大桥当晚也遭到美军袭击。有消息称，一辆私家车的司机遇袭身亡。",
+          "url": "https://flash.jin10.com/detail/20260717045636977800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "社媒有未经证实的消息称，一位中东消息人士说，美国已更新针对伊朗的打击指令，将桥梁及交通连接设施等目标纳入其中，旨在进一步向伊朗施压。美国已付诸行动，兑现了打击伊朗民用设施的威胁。（此前伊朗媒体已报道伊朗境内部分机场、铁路枢纽和桥梁遇袭）",
+          "url": "https://flash.jin10.com/detail/20260717045624635800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "超百名美国民主党议员反对向以色列提供援助",
@@ -428,6 +531,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "美军袭击伊朗阿巴斯港居民区，已致多人死伤",
+          "url": "https://wallstreetcn.com/livenews/3135279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "巴西外长维埃拉：美国加征关税没有任何逻辑依据。",
@@ -447,7 +561,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -458,9 +572,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "据伊朗媒体：美军袭击了阿巴斯港铁路枢纽站，已造成2人受伤。",
+          "url": "https://wallstreetcn.com/livenews/3135278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "巴西外长维埃拉：美国要求巴西全面、单方面开放整个经济领域，但未提出任何对等措施。",
@@ -480,7 +605,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -513,7 +638,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -546,9 +671,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "据伊朗媒体：美军袭击了阿巴斯港铁路枢纽站，已造成2人受伤。",
+          "url": "https://flash.jin10.com/detail/20260717044848844800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "巴西外长维埃拉：巴西与美国政府的接触超过30次，自关税上调宣布前就已开始谈判。",
@@ -579,9 +715,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：伊朗班达尔哈米尔（Bandar-e Khamir）地区的一座桥梁疑似遭到美军袭击。袭击发生在当地时间晚上11点（北京时间今日凌晨03:30）。报道称，这座桥梁是连接阿巴斯港与拉尔市的重要交通枢纽。",
+          "url": "https://flash.jin10.com/detail/20260717044824911800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "美国参议院民主党成员Warren发函给美联储监督部门，要求调查美联储理事鲍曼。 此前，媒体在SVB（硅谷银行）评估方面提及鲍曼。 Warren质疑鲍曼聘请外部咨询公司一事。",
@@ -612,9 +759,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "巴西贸易部长罗莎：在稀土问题上，美国要求巴西限制“不遵守市场规则”国家的投资，但巴西不会接受这一要求。",
+          "url": "https://flash.jin10.com/detail/20260717043247802800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "敌人袭击伊朗Bandar Abbas周边区域。（伊朗媒体IRNA）",
@@ -626,6 +784,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "伊媒：美国袭击伊朗阿巴斯港致7人受伤",
+          "url": "https://wallstreetcn.com/livenews/3135273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "美国至7月16日8周国债竞拍-投标倍数 2.84，前值2.95。",
@@ -650,6 +819,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "美国至7月10日当周外国央行持有美国国债 6.39亿美元，前值-286.05亿美元。",
+          "url": "https://flash.jin10.com/detail/20260717043052458800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
           "title": "美国能源信息署（EIA）：美国上周EIA天然气库存增加410亿立方英尺，彭博用户预计增加370亿立方英尺、分析师预期增长407.8亿立方英尺，周环比增长1.37%（之前一周增长2.09%），至3.02万亿立方英尺。",
           "url": "https://wallstreetcn.com/livenews/3135151",
           "source": "华尔街见闻-快讯",
@@ -659,6 +839,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "巴西外长：美国加征关税毫无理由，是“出于政治动机”",
+          "url": "https://wallstreetcn.com/livenews/3135293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "美国至7月16日8周国债竞拍-得标利率配置百分比 46.6%，前值68.8%。",
@@ -678,7 +869,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -700,7 +891,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -711,9 +902,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "西媒：美国重返“公然的帝国主义”",
+          "url": "https://www.toutiao.com/trending/7663091524918591498/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "伊朗革命卫队：自宣布停火以来，美国战斗机没有一天离开霍尔木兹海峡区域，美方军事活动仍持续存在。",
@@ -722,7 +924,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -740,8 +942,344 @@
       ]
     },
     {
+      "keyword_group": "人工智能 AI",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "世界人工智能合作组织协定签署",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E5%8D%8F%E5%AE%9A%E7%AD%BE%E7%BD%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
+        },
+        {
+          "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
+          "url": "https://www.cls.cn/detail/2428746",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
+        },
+        {
+          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
+        },
+        {
+          "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600950",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 05时59分]"
+        },
+        {
+          "title": "超300款全球首发AI产品即将亮相",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85300%E6%AC%BE%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91AI%E4%BA%A7%E5%93%81%E5%8D%B3%E5%B0%86%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 05时59分]"
+        },
+        {
+          "title": "经纬度：在上海，WAIC见证人工智能改变未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583299",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
+        },
+        {
+          "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
+        },
+        {
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
+        },
+        {
+          "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时50分 ~ 05时59分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
+          "url": "https://flash.jin10.com/detail/20260717001129809800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Google Vids上线Gemini Omni和个人数字形象功能，面向Google AI Pro、AI Ultra订阅用户及Workspace企业客户开放。",
+          "url": "https://flash.jin10.com/detail/20260717001020905800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        },
+        {
+          "title": "美联储洛根：长期来看对人工智能带来的生产率提升非常乐观。但目前AI投资需求强劲且真实存在，短期内会带来通胀压力。",
+          "url": "https://flash.jin10.com/detail/20260717014855807800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "AirNow：美国纽约市空气质量现在“非常不健康”。",
+          "url": "https://wallstreetcn.com/livenews/3135294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "披着AI外衣的现实短片",
+          "url": "https://www.douyin.com/hot/2573340",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时19分 ~ 05时59分]"
+        },
+        {
+          "title": "奈飞(NFLX.O)：AI将让电影（质量）变得更好，但不会取代人类。",
+          "url": "https://flash.jin10.com/detail/20260717052254473800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "市场消息：英特尔(INTC.O)将整合先进的Gemini驱动的生成式人工智能，覆盖其全球员工。",
+          "url": "https://flash.jin10.com/detail/20260717000518313800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        },
+        {
+          "title": "市场消息：英特尔(INTC.O)与谷歌云(GOOG.O)合作推动英特尔企业人工智能转型。",
+          "url": "https://flash.jin10.com/detail/20260717000450810800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        },
+        {
+          "title": "奈飞：AI将让电影（质量）变得更好，但不会取代人类。",
+          "url": "https://wallstreetcn.com/livenews/3135289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：即使油价维持高位，天然气输送能力等限制因素也可能阻碍生产商提高产量。 石油出口的增加主要来自库存的释放，而非新增产量。 即使采用最保守的估算，数据中心需求带来的电价上涨也很可能成为另一个温和通胀压力的来源。 对人工智能带来的长期生产力提升持非常乐观的态度。 目前对人工智能的投资需求是巨大且真实的，并已在短期内产生了通胀效应。",
+          "url": "https://wallstreetcn.com/livenews/3135215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时20分]"
+        },
+        {
+          "title": "欧盟要求谷歌开放安卓AI功能并共享搜索数据",
+          "url": "https://wallstreetcn.com/livenews/3135211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时20分]"
+        },
+        {
+          "title": "泰国总理阿努廷抵达上海，出席2026世界人工智能大会暨人工智能全球治理高级别会议",
+          "url": "https://wallstreetcn.com/livenews/3135167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        },
+        {
+          "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
+          "url": "https://flash.jin10.com/detail/20260717022344954800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "SpaceX AI：Grok 4.5定价为每百万输入Token收费2美元，每百万输出Token收费6美元。",
+          "url": "https://flash.jin10.com/detail/20260717050306861800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "SpaceX AI：Grok 4.5已上线Grok Build、Cursor和SpaceX AI Console。",
+          "url": "https://flash.jin10.com/detail/20260717050215606800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "xAI在Gro推出自动化功能。",
+          "url": "https://wallstreetcn.com/livenews/3135280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "DeepMind提设国际AI模型审查机构 马斯克和奥尔特曼表支持",
+          "url": "https://flash.jin10.com/detail/20260717045325097800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "美联储洛根：人工智能生产率提升的规模和时间仍存在不确定性。",
+          "url": "https://flash.jin10.com/detail/20260717015506006800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://wallstreetcn.com/livenews/3135148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        },
+        {
+          "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
+          "url": "https://wallstreetcn.com/livenews/3135189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -751,8 +1289,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
         },
         {
           "title": "白宫：特朗普今晚（北京时间今早9点）发表讲话时将谈及伊朗问题。",
@@ -816,7 +1354,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -917,7 +1455,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -928,7 +1466,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -950,7 +1488,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -988,6 +1526,28 @@
           "time_info": "03时20分"
         },
         {
+          "title": "美国总统特朗普准备在（今天稍早的）演讲中谈论委内瑞拉大选。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3135274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "委内瑞拉临时总统罗德里格斯：委内瑞拉的石油产量预计在年底前达到140万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260717042935523800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普今晚将谈论选举诚信。 媒体应当播放特朗普今夜的讲话。 重申（特朗普）对沃尔玛的赞赏。 特朗普将前往世界杯决赛现场。",
           "url": "https://wallstreetcn.com/livenews/3135209",
           "source": "华尔街见闻-快讯",
@@ -1016,273 +1576,15 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         }
       ]
     },
     {
-      "keyword_group": "人工智能 AI",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "世界人工智能合作组织协定签署",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E5%8D%8F%E5%AE%9A%E7%AD%BE%E7%BD%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
-        },
-        {
-          "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
-          "url": "https://www.cls.cn/detail/2428746",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
-        },
-        {
-          "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
-        },
-        {
-          "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33600950",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 04时51分]"
-        },
-        {
-          "title": "超300款全球首发AI产品即将亮相",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85300%E6%AC%BE%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91AI%E4%BA%A7%E5%93%81%E5%8D%B3%E5%B0%86%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 04时51分]"
-        },
-        {
-          "title": "经纬度：在上海，WAIC见证人工智能改变未来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583299",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
-        },
-        {
-          "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
-        },
-        {
-          "title": "花钱就看这?功夫女足公开用AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
-          "url": "https://flash.jin10.com/detail/20260717001129809800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Google Vids上线Gemini Omni和个人数字形象功能，面向Google AI Pro、AI Ultra订阅用户及Workspace企业客户开放。",
-          "url": "https://flash.jin10.com/detail/20260717001020905800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "美联储洛根：长期来看对人工智能带来的生产率提升非常乐观。但目前AI投资需求强劲且真实存在，短期内会带来通胀压力。",
-          "url": "https://flash.jin10.com/detail/20260717014855807800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "台积电Q2净利润同比增长77.4%大超预期，毛利率达67.7%，AI芯片需求强劲势头持续 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3777092",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时50分 ~ 04时51分]"
-        },
-        {
-          "title": "市场消息：英特尔(INTC.O)将整合先进的Gemini驱动的生成式人工智能，覆盖其全球员工。",
-          "url": "https://flash.jin10.com/detail/20260717000518313800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "市场消息：英特尔(INTC.O)与谷歌云(GOOG.O)合作推动英特尔企业人工智能转型。",
-          "url": "https://flash.jin10.com/detail/20260717000450810800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：即使油价维持高位，天然气输送能力等限制因素也可能阻碍生产商提高产量。 石油出口的增加主要来自库存的释放，而非新增产量。 即使采用最保守的估算，数据中心需求带来的电价上涨也很可能成为另一个温和通胀压力的来源。 对人工智能带来的长期生产力提升持非常乐观的态度。 目前对人工智能的投资需求是巨大且真实的，并已在短期内产生了通胀效应。",
-          "url": "https://wallstreetcn.com/livenews/3135215",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 03时20分]"
-        },
-        {
-          "title": "披着AI外衣的现实短片",
-          "url": "https://www.douyin.com/hot/2573340",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时19分 ~ 04时51分]"
-        },
-        {
-          "title": "欧盟要求谷歌开放安卓AI功能并共享搜索数据",
-          "url": "https://wallstreetcn.com/livenews/3135211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 03时20分]"
-        },
-        {
-          "title": "泰国总理阿努廷抵达上海，出席2026世界人工智能大会暨人工智能全球治理高级别会议",
-          "url": "https://wallstreetcn.com/livenews/3135167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
-          "url": "https://flash.jin10.com/detail/20260717022344954800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美联储洛根：人工智能生产率提升的规模和时间仍存在不确定性。",
-          "url": "https://flash.jin10.com/detail/20260717015506006800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "玉渊谭天丨中国AI的发展逻辑",
-          "url": "https://wallstreetcn.com/livenews/3135148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
-          "url": "https://wallstreetcn.com/livenews/3135189",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股 道琼斯 纳斯达克 标普500",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -1292,8 +1594,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时59分]"
         },
         {
           "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
@@ -1303,8 +1605,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
         },
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -1314,8 +1616,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时59分]"
         },
         {
           "title": "百度申请香港、纳斯达克双重主要上市，有望赶上9月港股通调整窗口",
@@ -1325,19 +1627,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 04时51分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 05时59分]"
         },
         {
-          "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
-          "url": "https://wallstreetcn.com/livenews/3135268",
+          "title": "百胜餐饮集团美股盘后下跌4%，美国食品药品监督管理局（FDA）将就塔可钟（Taco Bell）的生菜问题发布警告。",
+          "url": "https://wallstreetcn.com/livenews/3135298",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时51分"
+          "time_info": "05时59分"
         },
         {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -1346,18 +1648,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "周四（7月16日），美股行业ETF多数收涨，区域银行ETF涨2.82%，日常消费品ETF、银行业ETF至少涨2.44%。 网络股指数ETF则收跌1.54%，科技行业ETF跌2.24%，全球科技股指数ETF跌2.47%，半导体ETF跌3.70%。",
-          "url": "https://wallstreetcn.com/livenews/3135267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -1368,7 +1659,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -1379,7 +1670,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -1390,7 +1681,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -1401,9 +1692,33 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "美股大类资产类ETF普遍下跌，新兴市场收跌2.1%，与黄金ETF、可转债ETF领跌",
+          "url": "https://wallstreetcn.com/livenews/3135268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时51分 ~ 05时59分]"
+        },
+        {
+          "title": "周四（7月16日），美股行业ETF多数收涨，区域银行ETF涨2.82%，日常消费品ETF、银行业ETF至少涨2.44%。 网络股指数ETF则收跌1.54%，科技行业ETF跌2.24%，全球科技股指数ETF跌2.47%，半导体ETF跌3.70%。",
+          "url": "https://wallstreetcn.com/livenews/3135267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时51分 ~ 05时59分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1.8%。 热门中概股里，小米初步收涨5.4%，比亚迪涨3.3%，美团涨3.2%，小鹏涨2.1%，百度涨1.2%，拼多多涨1.2%，阿里巴巴跌0.1%，腾讯跌0.4%，日月光半导体跌3.3%。",
@@ -1412,7 +1727,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -1423,9 +1738,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "周四（7月16日）纽约尾盘，标普500股指期货最终跌0.62%，道指期货跌0.30%，纳斯达克100股指期货跌1.77%。 罗素2000股指期货跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3135285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         },
         {
           "title": "美股收盘：三大股指收跌 SK海力士跌13%",
@@ -1434,7 +1760,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -1467,9 +1793,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "美股存储芯片指数收跌超8%",
+          "url": "https://wallstreetcn.com/livenews/3135275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         }
       ]
     },
@@ -1485,8 +1822,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
         },
         {
           "title": "沪指跌破3900点，科创50跌4%，存储芯片掀起跌停潮，医药逆势拉升，恒科指涨2%，科网股大反弹",
@@ -1497,8 +1834,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时59分]"
         },
         {
           "title": "A股哪些板块在逆势吸筹",
@@ -1537,8 +1874,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
         },
         {
           "title": "日产芯片超15亿块 什么概念",
@@ -1547,11 +1884,12 @@
           "ranks": [
             10,
             7,
-            16
+            16,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
         },
         {
           "title": "台积电法说会实录：今年资本支出加码至640亿美元 高端芯片紧缺还将延续几年",
@@ -1559,11 +1897,51 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.40%，暂报2197.47点，北京时间16:16曾刷新日低至2165.11点。 MarketVectorTM数字资产100中盘指数跌0.97%，报2578.78点。 MarketVector数字资产100指数跌1.16%，报12825.74点，16:00前后曾显著扩大跌幅。 目前，Solana跌1.30%，狗狗币跌0.60%，XRP持平。 比特币跌0.71%，暂报64418.58美元；以太坊跌2.49%，暂报1875.89美元。",
+          "url": "https://wallstreetcn.com/livenews/3135199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美元指数16日上涨",
+          "url": "https://flash.jin10.com/detail/20260717045050743800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "美元指数涨约0.3%",
+          "url": "https://wallstreetcn.com/livenews/3135248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         }
       ]
     },
@@ -1578,11 +1956,12 @@
           "ranks": [
             2,
             6,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
         },
         {
           "title": "甄子丹亮相人形机器人格斗揭幕赛",
@@ -1595,34 +1974,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时12分 ~ 02时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.40%，暂报2197.47点，北京时间16:16曾刷新日低至2165.11点。 MarketVectorTM数字资产100中盘指数跌0.97%，报2578.78点。 MarketVector数字资产100指数跌1.16%，报12825.74点，16:00前后曾显著扩大跌幅。 目前，Solana跌1.30%，狗狗币跌0.60%，XRP持平。 比特币跌0.71%，暂报64418.58美元；以太坊跌2.49%，暂报1875.89美元。",
-          "url": "https://wallstreetcn.com/livenews/3135199",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美元指数涨约0.3%",
-          "url": "https://wallstreetcn.com/livenews/3135248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
         }
       ]
     },
@@ -1655,8 +2006,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
         }
       ]
     },
@@ -1674,8 +2025,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 04时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 05时59分]"
         }
       ]
     },
@@ -1690,7 +2041,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         }
@@ -1707,7 +2058,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         }
