@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T10:01:55.525562+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2026-07-25T13:23:17.298855+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 伊朗",
-      "match_count": 59,
+      "match_count": 65,
       "titles": [
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -16,8 +16,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 10时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 13时23分]"
+        },
+        {
+          "title": "美国被曝考虑对第8国动武",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E5%AF%B9%E7%AC%AC8%E5%9B%BD%E5%8A%A8%E6%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 13时23分]"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -32,16 +45,16 @@
           "time_info": "[00时37分 ~ 10时01分]"
         },
         {
-          "title": "美国被曝考虑对第8国动武",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E5%AF%B9%E7%AC%AC8%E5%9B%BD%E5%8A%A8%E6%AD%A6",
-          "source": "百度热搜",
+          "title": "王小洪会见美国联邦调查局局长",
+          "url": "https://www.toutiao.com/trending/7666079821497630771/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            10
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 10时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 13时23分]"
         },
         {
           "title": "刚签核协议不到24小时，美国突然变卦",
@@ -55,16 +68,27 @@
           "time_info": "[00时37分 ~ 10时01分]"
         },
         {
-          "title": "王小洪会见美国联邦调查局局长",
-          "url": "https://www.toutiao.com/trending/7666079821497630771/",
-          "source": "今日头条",
+          "title": "伊朗外长：无需更多调解者，美应改变态度",
+          "url": "https://news.ifeng.com/c/8v2WgNsUn9F",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时37分 ~ 10时01分]"
+          "time_info": "[10时01分 ~ 13时23分]"
+        },
+        {
+          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 13时23分]"
         },
         {
           "title": "美著名“中国通”：面对中国，美国有一种心理上的失落",
@@ -76,17 +100,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时37分 ~ 10时01分]"
-        },
-        {
-          "title": "伊朗外长：无需更多调解者，美应改变态度",
-          "url": "https://news.ifeng.com/c/8v2WgNsUn9F",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
         },
         {
           "title": "据伊朗媒体Fars News：与也门航运管理部门有关联的消息人士称，几乎所有通过曼德海峡的商船都遵守也门海军部队的相关决定。",
@@ -190,6 +203,17 @@
           "time_info": "02时15分"
         },
         {
+          "title": "伊朗外长说不惧威胁不屈服于美国",
+          "url": "https://wallstreetcn.com/livenews/3139714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "美国与英国打算围绕霍尔木兹海峡问题举行国际会议。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3139566",
           "source": "华尔街见闻-快讯",
@@ -200,17 +224,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 02时15分]"
-        },
-        {
-          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
         },
         {
           "title": "美国7月24日当周石油钻井数 450，前值 452。",
@@ -307,6 +320,17 @@
           "time_info": "[07时03分 ~ 10时01分]"
         },
         {
+          "title": "中国女排主教练谈逆转美国进入四强",
+          "url": "https://www.toutiao.com/trending/7665816911199977478/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
           "title": "专家：撕开美国关税战真相",
           "url": "https://www.toutiao.com/trending/7666088172287168043/",
           "source": "今日头条",
@@ -317,6 +341,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时15分 ~ 04时15分]"
+        },
+        {
+          "title": "美国宣布对 60 个经济体加征 10%-12.5% 的 301 关税，但石油、天然气、食品得到豁免，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2063902919200711048",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
           "title": "美国7月24日当周天然气钻井数 127，前值 126。",
@@ -336,7 +371,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -413,7 +448,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -446,7 +481,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -539,6 +574,28 @@
           "time_info": "00时37分"
         },
         {
+          "title": "伊朗外长说不惧威胁不屈服于美国",
+          "url": "https://flash.jin10.com/detail/20260725113145513800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "伊朗军方称将对美军实施对等报复",
+          "url": "https://wallstreetcn.com/livenews/3139696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "加拿大开通通往底特律的大桥，美国官员被排除在仪式之外",
           "url": "https://wallstreetcn.com/livenews/3139603",
           "source": "华尔街见闻-快讯",
@@ -594,6 +651,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：继也门再次发动导弹袭击后，沙特境内再次传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260725111226216800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "伊朗战事扰乱供应链 印度健怡可乐涨价换包装",
           "url": "https://wallstreetcn.com/livenews/3139537",
           "source": "华尔街见闻-快讯",
@@ -611,7 +679,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -633,7 +701,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -674,7 +742,7 @@
     },
     {
       "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "中国证监会原党委委员、副主席方星海接受审查调查",
@@ -685,8 +753,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 10时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 13时23分]"
         },
         {
           "title": "证监会原副主席方星海被查",
@@ -698,8 +766,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 10时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 13时23分]"
+        },
+        {
+          "title": "加总理表态：若谈判破裂，会对美国采取反制措施",
+          "url": "https://news.ifeng.com/c/8v1fix6UY1m",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 13时23分]"
         },
         {
           "title": "证监会原副主席方星海被查",
@@ -723,17 +803,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时37分 ~ 07时03分]"
-        },
-        {
-          "title": "加总理表态：若谈判破裂，会对美国采取反制措施",
-          "url": "https://news.ifeng.com/c/8v1fix6UY1m",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 10时01分]"
         },
         {
           "title": "证监会原副主席方星海被查",
@@ -787,7 +856,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -814,13 +883,24 @@
           "time_info": "02时15分"
         },
         {
+          "title": "特朗普调侃白宫记者：等我卸任了，你们都得破产",
+          "url": "https://flash.jin10.com/detail/20260725122832263800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "特朗普暂停“废除H-1B签证费用命令”的上诉请求被驳回",
           "url": "https://wallstreetcn.com/livenews/3139683",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -871,6 +951,28 @@
           "time_info": "[07时03分 ~ 10时01分]"
         },
         {
+          "title": "特朗普称詹姆斯是种族主义者",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A9%B9%E5%A7%86%E6%96%AF%E6%98%AF%E7%A7%8D%E6%97%8F%E4%B8%BB%E4%B9%89%E8%80%85%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普拒答是否犯下战争罪行",
+          "url": "https://www.toutiao.com/trending/7666230332928507958/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
           "title": "美国总统特朗普：在签署沙特核协议之前，没有与美国能源部长赖特进行过交谈。",
           "url": "https://flash.jin10.com/detail/20260725035315410800",
           "source": "金十数据",
@@ -899,7 +1001,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -932,7 +1034,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -948,6 +1050,17 @@
           "time_info": "02时15分"
         },
         {
+          "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
+          "url": "https://wallstreetcn.com/livenews/3139705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "特朗普：尚未就对伊朗进行重大打击作出决定 认为伊朗更认真对待谈判了",
           "url": "https://flash.jin10.com/detail/20260725034745959800",
           "source": "金十数据",
@@ -957,6 +1070,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗现在正在与我们对话。 我认为现在还不是伊朗达成协议的时候，伊朗尚未准备好。 将出席明年的白宫记者协会晚宴。",
+          "url": "https://wallstreetcn.com/livenews/3139702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京说，他不会向伊朗出售武器。",
@@ -979,6 +1103,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "特朗普离开土耳其前紧急更换专机，幕后原因披露",
+          "url": "https://flash.jin10.com/detail/20260725113942463800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "美国总统特朗普周五围绕伊朗问题会见多个顶级顾问。 本次会议讨论是否加大对伊朗的袭击力度。（纽约时报）",
@@ -1116,7 +1251,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
@@ -1128,8 +1263,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 10时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 13时23分]"
         },
         {
           "title": "马斯克最新访谈：AI可能灭绝人类，但就像一枚20%概率会爆炸的火箭，我还是会坐上去享受旅程！",
@@ -1181,6 +1316,17 @@
           "time_info": "[00时37分 ~ 04时15分]"
         },
         {
+          "title": "中国AI反超,老美急眼下黑手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356490&amp;topic_name=%E4%B8%AD%E5%9B%BDAI%E5%8F%8D%E8%B6%85%2C%E8%80%81%E7%BE%8E%E6%80%A5%E7%9C%BC%E4%B8%8B%E9%BB%91%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3777819",
           "source": "华尔街见闻",
@@ -1198,9 +1344,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
+        },
+        {
+          "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+          "url": "https://wallstreetcn.com/articles/3777901",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
@@ -1225,6 +1382,17 @@
           "time_info": "02时15分"
         },
         {
+          "title": "据韩国媒体Newsis：韩国总统李在明与全球人工智能领袖举行“啤酒会”。",
+          "url": "https://flash.jin10.com/detail/20260725124217264800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "OpenAI的CEO Altman：希望美国在开源AI领域胜出，也希望在专有AI模型领域也取得胜利。 “乐见”英伟达CEO在社交媒体上（针对20多家美国科技公司联合发表公开信）的表态。",
           "url": "https://wallstreetcn.com/livenews/3139562",
           "source": "华尔街见闻-快讯",
@@ -1234,6 +1402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "据韩国媒体Newsis援引韩国总统顾问：韩国正推进SK电讯、英伟达等合作建设配备200万块GPU的AI数据中心。",
+          "url": "https://flash.jin10.com/detail/20260725123126272800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "Anthropic点评“OpenAI入侵事件”：各加公司需要“不断更新评估和安全系统",
@@ -1253,7 +1432,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -1279,6 +1458,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 02时15分]"
+        },
+        {
+          "title": "据韩联社：韩国互联网门户运营商Naver公司已获得英伟达和美国私募股权公司Brookfield总计100亿美元的投资承诺，用于资助其在韩国建设人工智能（AI）数据中心的计划。",
+          "url": "https://flash.jin10.com/detail/20260725122018676800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "大厂挤爆AI宠物赛道",
@@ -1313,7 +1503,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -1373,6 +1563,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "穆迪警告：“史无前例”的AI支出正威胁亚马逊、Meta、Alphabet等企业的信用质量",
+          "url": "https://wallstreetcn.com/livenews/3139701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
           "title": "APEC人工智能高级别论坛关于促进亚太地区人工智能发展的声明",
           "url": "https://wallstreetcn.com/livenews/3139538",
           "source": "华尔街见闻-快讯",
@@ -1424,6 +1625,29 @@
           "time_info": "[00时37分 ~ 07时03分]"
         },
         {
+          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 13时23分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 13时23分]"
+        },
+        {
           "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
@@ -1435,26 +1659,16 @@
           "time_info": "[07时02分 ~ 07时03分]"
         },
         {
-          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
+          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
+          "url": "https://www.cls.cn/detail/2436875",
           "source": "财联社热门",
           "ranks": [
-            2
+            6,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 13时23分]"
         },
         {
           "title": "彭博援引一封信函报道称，高通告诉客户们，无法再消化涨价问题，将按两位数百分比涨价。 高通跌幅收窄，英伟达涨1.2%刷新日高。 纳斯达克100指数转涨，美股早盘一度跌1.3%。",
@@ -1466,17 +1680,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
-        },
-        {
-          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
-          "url": "https://www.cls.cn/detail/2436875",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
         },
         {
           "title": "金十图示：2026年07月24日（周五）热门中概股行情一览（美股收盘）",
@@ -1653,8 +1856,30 @@
     },
     {
       "keyword_group": "特斯拉 微软 Meta 英伟达 亚马逊",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
+          "url": "https://www.cls.cn/detail/2436901",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
+        },
+        {
+          "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
+          "url": "https://wallstreetcn.com/livenews/3139717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
         {
           "title": "伊朗称袭击美国亚马逊公司一数据中心",
           "url": "https://www.toutiao.com/trending/7665519115210899499/",
@@ -1686,7 +1911,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -1697,7 +1922,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -1711,6 +1936,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "据韩联社：SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
+          "url": "https://flash.jin10.com/detail/20260725121405252800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "贝莱德启动123亿美元债券发售，为Meta数据中心项目融资",
@@ -1741,7 +1977,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -1763,7 +1999,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         },
@@ -1774,7 +2010,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         }
@@ -1782,7 +2018,7 @@
     },
     {
       "keyword_group": "半导体 芯片 算力",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -1796,8 +2032,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 10时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 13时23分]"
+        },
+        {
+          "title": "被SK海力士踢出局！“韩国芯片唱空专业户”大摩在韩快混不下去了",
+          "url": "https://wallstreetcn.com/articles/3777851",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时02分 ~ 13时23分]"
         },
         {
           "title": "英特尔电话会：产品需求前所未见，存储、逻辑芯片等短缺将持续存在，大幅上调今明两年资本开支",
@@ -1812,27 +2061,28 @@
           "time_info": "[00时37分 ~ 07时03分]"
         },
         {
-          "title": "被SK海力士踢出局！“韩国芯片唱空专业户”大摩在韩快混不下去了",
-          "url": "https://wallstreetcn.com/articles/3777851",
-          "source": "华尔街见闻",
+          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
+          "url": "https://www.cls.cn/detail/2436840",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            5
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时02分 ~ 10时01分]"
+          "time_info": "[10时01分 ~ 13时23分]"
         },
         {
           "title": "沪指跌超1%逼近3800点，全市场成交不足2万亿，半导体设备逆势爆发，恒指、恒科指均跌超1%，科网股低迷",
           "url": "https://wallstreetcn.com/articles/3777840",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 13时23分]"
         },
         {
           "title": "费城半导体指数跌5%，美光科技跌超8%，英特尔跌超7%，高通跌超3%。",
@@ -1846,17 +2096,6 @@
           "time_info": "04时15分"
         },
         {
-          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
-          "url": "https://www.cls.cn/detail/2436840",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
-        },
-        {
           "title": "3天3箭15星！多颗“算力卫星”入轨，商业航天迈入规模化商用新周期",
           "url": "https://www.cls.cn/detail/2436472",
           "source": "财联社热门",
@@ -1867,6 +2106,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时15分 ~ 07时03分]"
+        },
+        {
+          "title": "据韩国媒体Newsis援引韩国总统顾问的消息报道，三星电子和SK海力士将与美国大型科技公司推进规模达1375万亿韩元（约9500亿美元）的芯片合作项目。",
+          "url": "https://flash.jin10.com/detail/20260725121246416800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "市场消息:三星电子与博通签署谅解备忘录，达成一项为期五年、价值2000亿美元的先进存储芯片代工协议。（外媒更正：非200亿）",
+          "url": "https://flash.jin10.com/detail/20260725121039889800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "英特尔与蓝思科技将合作开发基于玻璃的半导体封装技术",
@@ -1901,11 +2162,12 @@
           "url": "https://www.cls.cn/detail/2436662",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 10时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 13时23分]"
         },
         {
           "title": "A股史上最大股票回购方案",
@@ -2031,11 +2293,12 @@
           "url": "https://www.zhihu.com/question/2063349995479234462",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 13时23分]"
         }
       ]
     },
@@ -2063,7 +2326,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
         }
@@ -2078,11 +2341,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356460&amp;topic_name=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%9C%B8%E6%A6%9C%2C%E6%97%A5%E6%9C%AC%E7%A0%B4%E9%98%B2",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 10时01分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 13时23分]"
         }
       ]
     },
