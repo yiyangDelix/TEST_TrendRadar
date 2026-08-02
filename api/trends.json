@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T10:04:45.683640+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-08-02T13:50:21.402056+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 伊朗",
-      "match_count": 47,
+      "match_count": 52,
       "titles": [
         {
           "title": "商务部就美国将中国企业列入所谓涉疆法案实体清单答问",
@@ -124,6 +124,18 @@
           "time_info": "[04时12分 ~ 07时52分]"
         },
         {
+          "title": "美国驻埃及、沙特阿拉伯、科威特等国大使馆发布安全警报",
+          "url": "https://news.ifeng.com/c/8vFT7vUQlC9",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时50分]"
+        },
+        {
           "title": "美国纽约州罗切斯特发生枪击事件 1人死亡",
           "url": "https://flash.jin10.com/detail/20260802035706660800",
           "source": "金十数据",
@@ -161,16 +173,27 @@
           "time_info": "[01时56分 ~ 05时48分]"
         },
         {
-          "title": "美计划本周末发动“猛烈轰炸”，伊朗：全面反击方案已就绪",
-          "url": "https://wallstreetcn.com/livenews/3143632",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗商品交易所单日白银入库数量创历史新高",
+          "url": "https://flash.jin10.com/detail/20260802132032906800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            10
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "太子集团“幕后大哥”胡小伟已离开日本，被遣送美国",
+          "url": "https://news.ifeng.com/c/8vExgI7KVzB",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时52分 ~ 10时04分]"
+          "time_info": "[10时04分 ~ 13时50分]"
         },
         {
           "title": "俄罗斯被曝首次打击美国防企业",
@@ -212,15 +235,17 @@
           "time_info": "[00时54分 ~ 06时47分]"
         },
         {
-          "title": "美国驻埃及、沙特阿拉伯、科威特等国大使馆发布安全警报",
-          "url": "https://news.ifeng.com/c/8vFT7vUQlC9",
-          "source": "凤凰网",
+          "title": "美计划本周末发动“猛烈轰炸”，伊朗：全面反击方案已就绪",
+          "url": "https://wallstreetcn.com/livenews/3143632",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1,
+            10,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 13时50分]"
         },
         {
           "title": "伊朗外长在分别与土耳其外长、巴基斯坦陆军司令通话时警告称，美国不得采取任何“冒险行动”。",
@@ -247,26 +272,26 @@
           "time_info": "[04时12分 ~ 07时52分]"
         },
         {
-          "title": "太子集团“幕后大哥”胡小伟已离开日本，被遣送美国",
-          "url": "https://news.ifeng.com/c/8vExgI7KVzB",
+          "title": "“近30年来首次”？美国、日本联手干预",
+          "url": "https://news.ifeng.com/c/8vG98xfYbUN",
           "source": "凤凰网",
           "ranks": [
-            6
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "13时50分"
         },
         {
-          "title": "美国华盛顿州山火蔓延，多地发布最高级别疏散令",
-          "url": "https://wallstreetcn.com/livenews/3143639",
-          "source": "华尔街见闻-快讯",
+          "title": "鲁比奥称美国的打击使伊朗更愿意谈判",
+          "url": "https://flash.jin10.com/detail/20260802123339825800",
+          "source": "金十数据",
           "ranks": [
-            6
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "13时50分"
         },
         {
           "title": "91岁老人隐姓埋名 曾击落美国侦察机",
@@ -283,13 +308,24 @@
           "time_info": "[02时59分 ~ 07时52分]"
         },
         {
+          "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
+          "url": "https://wallstreetcn.com/articles/3778501",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
           "title": "美国国务卿鲁比奥：（谈及委内瑞拉）你需要有完善的法律、法规和规章制度，以便来自美国和世界各地的投资者能够安全地进入并进行投资，创造繁荣。最终，你必须实现过渡。",
           "url": "https://flash.jin10.com/detail/20260802094350639800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -326,7 +362,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -337,7 +373,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -361,9 +397,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "美国西部遭遇高温热浪 多地山火风险加剧",
+          "url": "https://flash.jin10.com/detail/20260802121919078800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "美国国家飓风中心：热带风暴基尼维夫（Genevieve）正在逐渐减弱。",
@@ -390,6 +437,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时00分 ~ 05时48分]"
+        },
+        {
+          "title": "美国华盛顿州山火蔓延，多地发布最高级别疏散令",
+          "url": "https://wallstreetcn.com/livenews/3143639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时50分]"
         },
         {
           "title": "据沙特媒体哈达斯（alhadath）：约旦方面称，他们已通知伊拉克，如果亲伊朗的民兵攻击约旦，约旦将进行打击。",
@@ -440,13 +499,37 @@
           "time_info": "[00时54分 ~ 01时57分]"
         },
         {
+          "title": "阿拉格齐警告美方：伊朗将坚决回应任何侵犯行为",
+          "url": "https://wallstreetcn.com/livenews/3143633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时50分]"
+        },
+        {
+          "title": "伊朗外交部：将继续抵抗直至消除敌人威胁",
+          "url": "https://wallstreetcn.com/livenews/3143634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时50分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国移民和海关执法局骚乱、亲哈马斯抗议活动及其他激进运动，均属于一个包括古巴在内的协同网络的一部分。",
           "url": "https://flash.jin10.com/detail/20260802092929173800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -457,29 +540,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "阿拉格齐警告美方：伊朗将坚决回应任何侵犯行为",
-          "url": "https://wallstreetcn.com/livenews/3143633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "伊朗外交部：将继续抵抗直至消除敌人威胁",
-          "url": "https://wallstreetcn.com/livenews/3143634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -501,7 +562,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -512,7 +573,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -534,7 +595,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -556,7 +617,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -567,7 +628,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         }
@@ -575,7 +636,7 @@
     },
     {
       "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 26,
+      "match_count": 37,
       "titles": [
         {
           "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
@@ -645,8 +706,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 10时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 13时50分]"
         },
         {
           "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
@@ -696,6 +757,18 @@
           "time_info": "[06时47分 ~ 07时52分]"
         },
         {
+          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
+          "url": "https://wallstreetcn.com/articles/3778492",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 13时50分]"
+        },
+        {
           "title": "美国总统特朗普：我正在摧毁伊朗货币，伊朗面临严重通胀。",
           "url": "https://flash.jin10.com/detail/20260802022303381800",
           "source": "金十数据",
@@ -708,6 +781,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时00分 ~ 07时52分]"
+        },
+        {
+          "title": "TACO！特朗普“取消对伊朗打击”，此前沙特王储致电“敦促缓和局势”",
+          "url": "https://wallstreetcn.com/articles/3778504",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "特朗普：已同意取消对伊朗的打击",
+          "url": "https://v.ifeng.com/c/8vG3old8I3A",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "美国总统特朗普发表图片：第51个州（委内瑞拉）。",
@@ -738,16 +833,26 @@
           "time_info": "[03时00分 ~ 07时52分]"
         },
         {
-          "title": "俄对乌发动大规模袭击，摧毁美国公司无人机工厂！俄方：使用陆基、海基远程高精度武器和无人机！特朗普：尚未同意授权乌生产“爱国者”",
-          "url": "https://wallstreetcn.com/articles/3778492",
-          "source": "华尔街见闻",
+          "title": "伊朗军方：特朗普撒谎",
+          "url": "https://news.ifeng.com/c/8vG71UIAJN7",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 10时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
+          "url": "https://wallstreetcn.com/livenews/3143651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "乌克兰总统泽连斯基：我与阿联酋总统通了电话。我们讨论了阿联酋如何在欧洲，特别是在黑海地区向我们提供帮助。这涉及粮食安全、海上航线安全，以及提升我们保护生命的能力。我们还审议了双方在多个领域开展的合作项目。我们正在努力确保所有项目得到落实。",
@@ -769,7 +874,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -798,6 +903,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时12分 ~ 07时52分]"
+        },
+        {
+          "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
+          "url": "https://www.zhihu.com/question/2067198062456463879",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "特朗普称同意取消军事打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3143647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "美国代理国家情报总监普尔特：在与美国总统特朗普和杰伊·克莱顿讨论后，国家情报总监（DNI）的交接工作定于周一进行。",
@@ -864,6 +991,50 @@
           "time_info": "[01时57分 ~ 03时00分]"
         },
         {
+          "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
+          "url": "https://flash.jin10.com/detail/20260802115054329800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "特朗普同意取消对伊朗的打击",
+          "url": "https://www.douyin.com/hot/2594184",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "特朗普：同意取消对伊朗的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "伊朗革命卫队：伊朗军方官员表示，美国总统声称伊朗已要求停止袭击，这纯属无稽之谈，是企图勒索波斯湾统治者并向其施压的孤注一掷之举。无论他是继续侵略还是退缩，我们的部队都处于最高战备状态，并为任何可能性做好了准备。如果对抗不可避免，战场将决定一切，届时所有人都会明白谁掌握着权力，谁将拥有最终发言权。",
+          "url": "https://flash.jin10.com/detail/20260802112524436800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
           "title": "特朗普说伊朗确实挺硬气",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9E%E6%8C%BA%E7%A1%AC%E6%B0%94%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -875,13 +1046,24 @@
           "time_info": "00时54分"
         },
         {
+          "title": "特朗普称收到伊朗请求暂缓攻击，同意取消对伊打击以换取协议",
+          "url": "https://flash.jin10.com/detail/20260802100655421800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
           "title": "美媒：沙特王储对特朗普大规模打击伊朗的计划表示担忧，敦促其保持克制",
           "url": "https://flash.jin10.com/detail/20260802075912944800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -900,7 +1082,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "摩根士丹利邢自强：AI投资“半场休息”，下半场逻辑已变",
@@ -909,17 +1091,6 @@
           "ranks": [
             3,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 10时04分]"
-        },
-        {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -948,8 +1119,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 10时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 13时50分]"
+        },
+        {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 13时50分]"
         },
         {
           "title": "拯救AI交易？Citadel接盘“AI股神”持仓，投行策略师“终于搞明白大跌原因，现在可以往前看了”",
@@ -1000,8 +1183,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 10时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 13时50分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -1036,19 +1219,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 10时04分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 13时50分]"
         },
         {
           "title": "这届AI进化到开始玩心眼了",
           "url": "https://www.douyin.com/hot/2592773",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 10时04分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 13时50分]"
         },
         {
           "title": "OpenAI总裁兼联合创始人Brockman：ChatGPT是一种非常棒的思维放大器。",
@@ -1057,18 +1241,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "Visa(V.N)计划裁员2600人，因人工智能应用和成本削减推动重组。",
-          "url": "https://flash.jin10.com/detail/20260802094512188800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -1077,11 +1250,34 @@
           "url": "https://wallstreetcn.com/articles/3778495",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时50分]"
+        },
+        {
+          "title": "Visa(V.N)计划裁员2600人，因人工智能应用和成本削减推动重组。",
+          "url": "https://flash.jin10.com/detail/20260802094512188800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时04分"
+        },
+        {
+          "title": "怎么看待AI大回调，大摩120页研报深度解读",
+          "url": "https://wallstreetcn.com/articles/3778502",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "13时50分"
         },
         {
           "title": "科技巨头绩后股价冰火两重天，表明市场开始“惩罚”乱花钱的AI公司",
@@ -1094,6 +1290,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时57分]"
+        },
+        {
+          "title": "怎么看 GCC 正式拒绝所有 AI 代码，基于 AI 代码人改的都不行？",
+          "url": "https://www.zhihu.com/question/2066611104294482895",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "美两家AI巨头承认自家大模型“失控”",
@@ -1116,12 +1323,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "OpenAI的10项数学突破含金量多高",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%9A%8410%E9%A1%B9%E6%95%B0%E5%AD%A6%E7%AA%81%E7%A0%B4%E5%90%AB%E9%87%91%E9%87%8F%E5%A4%9A%E9%AB%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
     {
       "keyword_group": "阿里 腾讯 拼多多 小米 美团 泡泡玛特 兆易创新",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "蔡崇信宣布离婚，不涉及出售阿里股份",
@@ -1144,19 +1362,30 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时56分 ~ 10时04分]"
+          "appearance_count": 10,
+          "time_info": "[01时56分 ~ 13时50分]"
         },
         {
           "title": "小米多款手机今起正式涨价",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E4%BB%8A%E8%B5%B7%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
+          "url": "https://www.douyin.com/hot/2594149",
+          "source": "抖音",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "13时50分"
+        },
+        {
+          "title": "7 月，零跑交付超 10 万台，小鹏交付 3.8 万台，理想、小米、极氪超 3 万台，如何评价各家表现？",
+          "url": "https://www.zhihu.com/question/2066920261631451637",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "小米多款手机今起正式涨价",
@@ -1165,9 +1394,21 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "小米多款手机今起正式涨价",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E4%BB%8A%E8%B5%B7%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时50分]"
         },
         {
           "title": "阿里巴巴集团主席蔡崇信离婚：无出售阿里股份计划，职务不受影响",
@@ -1175,57 +1416,82 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 10时04分]"
+          "appearance_count": 3,
+          "time_info": "[06时47分 ~ 13时50分]"
+        },
+        {
+          "title": "雷军说晚安被指营销 小米高管回应",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E8%AF%B4%E6%99%9A%E5%AE%89%E8%A2%AB%E6%8C%87%E8%90%A5%E9%94%80+%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
     {
-      "keyword_group": "医药 医疗",
-      "match_count": 3,
+      "keyword_group": "半导体 芯片 算力",
+      "match_count": 4,
       "titles": [
         {
-          "title": "新规落地，医药代表站在转型十字路口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33684657",
+          "title": "国产人工心脏公司被举报未经申报更换控制芯片，江苏省药监局：违法行为轻微并及时改正，不予行政处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33689079",
           "source": "澎湃新闻",
           "ranks": [
-            1,
-            2
+            13,
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时54分 ~ 07时52分]"
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时04分]"
         },
         {
-          "title": "殷勇在北京经开区调研医药健康产业发展工作，要求持续完善产业支持政策",
-          "url": "https://flash.jin10.com/detail/20260802095844970800",
-          "source": "金十数据",
+          "title": "利润最高涨700倍 半导体产业全线爆发",
+          "url": "https://www.toutiao.com/trending/7668166509122355243/",
+          "source": "今日头条",
           "ranks": [
-            1
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "13时50分"
         },
         {
-          "title": "中国第三批埃博拉抗疫医疗专家组抵达刚果（金）",
-          "url": "https://wallstreetcn.com/livenews/3143637",
-          "source": "华尔街见闻-快讯",
+          "title": "拆解2纳米芯片",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A32%E7%BA%B3%E7%B1%B3%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "13时50分"
+        },
+        {
+          "title": "存储芯片利好来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时52分 ~ 10时04分]"
         }
       ]
     },
     {
       "keyword_group": "消费",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "三大运营商停止第三方互联网渠道号卡办理，低价大流量卡将集体退场，出于哪些考量？对普通消费者有什么影响？",
@@ -1269,6 +1535,59 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时54分 ~ 10时04分]"
+        },
+        {
+          "title": "Mikimoto以珍珠美学联结中国消费者",
+          "url": "https://s.weibo.com/weibo?q=%23Mikimoto%E4%BB%A5%E7%8F%8D%E7%8F%A0%E7%BE%8E%E5%AD%A6%E8%81%94%E7%BB%93%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "医药 医疗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "新规落地，医药代表站在转型十字路口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684657",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 07时52分]"
+        },
+        {
+          "title": "殷勇在北京经开区调研医药健康产业发展工作，要求持续完善产业支持政策",
+          "url": "https://flash.jin10.com/detail/20260802095844970800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时50分]"
+        },
+        {
+          "title": "中国第三批埃博拉抗疫医疗专家组抵达刚果（金）",
+          "url": "https://wallstreetcn.com/livenews/3143637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时50分]"
         }
       ]
     },
@@ -1285,50 +1604,50 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 10时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 13时50分]"
         },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
           "url": "https://wallstreetcn.com/articles/3778494",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时50分]"
         }
       ]
     },
     {
-      "keyword_group": "半导体 芯片 算力",
+      "keyword_group": "A股 上证 深证 创业板 科创",
       "match_count": 2,
       "titles": [
         {
-          "title": "国产人工心脏公司被举报未经申报更换控制芯片，江苏省药监局：违法行为轻微并及时改正，不予行政处罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33689079",
-          "source": "澎湃新闻",
+          "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2443284",
+          "source": "财联社热门",
           "ranks": [
-            13,
-            14,
-            16
+            7,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 10时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 13时50分]"
         },
         {
-          "title": "存储芯片利好来了",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "A股“追光者”一月亏光336万",
+          "url": "https://www.toutiao.com/trending/7668209151550816275/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            19
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 10时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
@@ -1343,30 +1662,12 @@
           "ranks": [
             5,
             7,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 10时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 上证 深证 创业板 科创",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2443284",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 10时04分]"
+          "appearance_count": 9,
+          "time_info": "[00时54分 ~ 13时50分]"
         }
       ]
     },
@@ -1379,11 +1680,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356702&amp;topic_name=%E7%95%A5%E6%83%8A%E6%82%9A%21%E7%BE%8E%E4%BC%81%E5%BC%80%E5%8F%91%E5%8D%8A%E4%BA%BA%E9%A9%AC%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 10时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 13时50分]"
         }
       ]
     },
@@ -1396,11 +1698,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%BC%80%E4%BA%865%E5%B9%B4+%E7%94%B5%E6%B1%A0%E5%BA%94%E8%AF%A5%E5%9C%A8%E5%95%A5%E6%B0%B4%E5%B9%B3",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 13时50分]"
         }
       ]
     }
