@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-08-04T20:00:40.341355+08:00",
-  "total_titles_processed": 1352,
-  "failed_sources": [
-    "douyin"
-  ],
+  "generated_at": "2026-08-04T22:15:19.300836+08:00",
+  "total_titles_processed": 1499,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 伊朗",
-      "match_count": 87,
+      "match_count": 102,
       "titles": [
         {
           "title": "美国制裁洽洽瓜子、思念水饺、七匹狼男装",
@@ -45,17 +43,6 @@
           "time_info": "[00时17分 ~ 08时02分]"
         },
         {
-          "title": "美国硅谷富豪回应“克隆自己”争议",
-          "url": "https://news.ifeng.com/c/8vICc9Xnzq9",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 08时02分]"
-        },
-        {
           "title": "Palantir大涨！美国商业收入超预期飙升149%，上调全年营收指引｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3778613",
           "source": "华尔街见闻",
@@ -66,8 +53,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 20时00分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 22时15分]"
+        },
+        {
+          "title": "美国硅谷富豪回应“克隆自己”争议",
+          "url": "https://news.ifeng.com/c/8vICc9Xnzq9",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 08时02分]"
         },
         {
           "title": "美国7月ISM制造业PMI超预期升至四年最高，需求、生产与就业同步改善",
@@ -80,8 +78,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 20时00分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 22时15分]"
         },
         {
           "title": "美国制裁洽洽瓜子思念水饺七匹狼男装",
@@ -121,6 +119,18 @@
           "time_info": "[17时36分 ~ 20时00分]"
         },
         {
+          "title": "美国拉响感染警报：罕见病毒首现纽约",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%8B%89%E5%93%8D%E6%84%9F%E6%9F%93%E8%AD%A6%E6%8A%A5%EF%BC%9A%E7%BD%95%E8%A7%81%E7%97%85%E6%AF%92%E9%A6%96%E7%8E%B0%E7%BA%BD%E7%BA%A6",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 22时15分]"
+        },
+        {
           "title": "印度泄密如何影响美国",
           "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E6%B3%84%E5%AF%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%BE%8E%E5%9B%BD",
           "source": "bilibili 热搜",
@@ -138,9 +148,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
+        },
+        {
+          "title": "美国成品油期货跌至盘中低点；汽油期货跌5.2%，柴油期货跌5%。",
+          "url": "https://flash.jin10.com/detail/20260804221403640800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "佩泽希齐扬：伊朗将捍卫领土但不寻求继续或扩大战争",
@@ -160,7 +181,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -176,13 +197,24 @@
           "time_info": "00时17分"
         },
         {
+          "title": "提醒：北京时间22:00，将公布美国6月工厂订单、美国6月耐用品订单终值。",
+          "url": "https://wallstreetcn.com/livenews/3144802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "美国财长贝森特：基础通胀数据非常温和。核心通胀正在放缓。",
           "url": "https://flash.jin10.com/detail/20260804195544706800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -193,9 +225,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（8月3日）担保隔夜融资利率（SOFR）报3.65%，之前一天报3.66%。 上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
+          "url": "https://wallstreetcn.com/livenews/3144801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "美财长透露与伊朗达成协议的时间",
+          "url": "https://news.ifeng.com/c/8vJy6Up6oyy",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "美国财长贝森特：美联储必须着眼于未来9个月、12个月、18个月的情况。",
@@ -204,7 +258,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -226,20 +280,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
-        },
-        {
-          "title": "美国拉响感染警报：罕见病毒首现纽约",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%8B%89%E5%93%8D%E6%84%9F%E6%9F%93%E8%AD%A6%E6%8A%A5%EF%BC%9A%E7%BD%95%E8%A7%81%E7%97%85%E6%AF%92%E9%A6%96%E7%8E%B0%E7%BA%BD%E7%BA%A6",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时00分]"
         },
         {
           "title": "美国制裁洽洽瓜子思念水饺 网友调侃",
@@ -277,6 +320,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "鲁比奥：与伊朗就重开海峡的谈判取得进展 但尚未敲定结果",
+          "url": "https://flash.jin10.com/detail/20260804220350833800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "美国至8月3日6个月国债竞拍-得标利率配置百分比 65.4%，前值36.13%。",
           "url": "https://flash.jin10.com/detail/20260803233333021800",
           "source": "金十数据",
@@ -294,7 +348,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -319,6 +373,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
+        },
+        {
+          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
+          "url": "https://www.cls.cn/detail/2445217",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 22时15分]"
+        },
+        {
+          "title": "日本多次交涉，美国不删",
+          "url": "https://news.ifeng.com/c/8vJuG3GuLfs",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 22时15分]"
         },
         {
           "title": "美国原油期货收跌超5%",
@@ -372,7 +450,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -412,6 +490,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "美国6月扣除国防的工厂订单月率 -0.4%，前值-1.2%。",
+          "url": "https://flash.jin10.com/detail/20260804220017581800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "美国财政部拍卖三个月期国债，得标利率3.750%，投标倍数2.61。 拍卖六个月期国债，得标利率3.855%，投标倍数2.98。",
           "url": "https://wallstreetcn.com/livenews/3144253",
           "source": "华尔街见闻-快讯",
@@ -421,6 +510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "布伦特原油跌破80美元/桶，自7月中旬以来首次，日内跌幅达4.5%，报79.86美元/桶，美国财长贝森特4日称可能“今天或明天”达成协议开放霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3144789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "伊朗：乌克兰道歉了",
@@ -481,28 +581,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时17分 ~ 02时46分]"
-        },
-        {
-          "title": "日本多次交涉，美国不删",
-          "url": "https://news.ifeng.com/c/8vJuG3GuLfs",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时00分]"
-        },
-        {
-          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
-          "url": "https://www.cls.cn/detail/2445217",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时00分]"
         },
         {
           "title": "乌袭击伊朗船只 战争扩大化风险增加",
@@ -569,9 +647,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
+        },
+        {
+          "title": "美国6月耐用品订单月率终值 0.5%，前值0.30%。",
+          "url": "https://flash.jin10.com/detail/20260804220011048800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "美国财长贝森特：干预可以传递市场信号，但政策才是关键。 不会预先判断日本央行应该做什么。 相信日本央行行长会采取必要行动。 干预需要政策跟进作为配合。 对日本将采取政策跟进高度有信心。",
@@ -580,7 +669,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -624,9 +713,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
+        },
+        {
+          "title": "美国6月扣除运输的工厂订单月率 -0.4%，前值由1.90%修正为2%。",
+          "url": "https://flash.jin10.com/detail/20260804220011024800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "美国至8月3日3个月国债竞拍-得标利率 3.75%，前值3.82%。",
@@ -646,9 +746,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
+        },
+        {
+          "title": "美国6月JOLTs职位空缺 735.9万人，预期740万人，前值由759.4万人修正为753.7万人。",
+          "url": "https://flash.jin10.com/detail/20260804220004530800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "【伊朗高级官员：不允许美在霍尔木兹海峡开辟非伊朗航线】伊朗最高领袖军事顾问穆赫辛·雷扎伊在接受媒体采访时表示，伊朗决不允许美国在霍尔木兹海峡开辟任何非伊朗的航线，即使美国在霍尔木兹海峡的非法航线上部署军舰，伊朗也会将其作为目标。雷扎伊还表示，伊朗此前已准备好攻击乌克兰的三个地点，但是由于乌克兰道歉，伊朗取消了攻击。（央视）",
@@ -673,15 +784,37 @@
           "time_info": "12时02分"
         },
         {
+          "title": "美国6月工厂订单月率 -0.3%，预期0.2%，前值由-1.30%修正为-1.1%。",
+          "url": "https://flash.jin10.com/detail/20260804220002417800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "美国财长贝森特：与日本的片山皋月有良好的工作关系。 一直与日本保持密切联系。 日本正在努力遏制日元被低估。 稳定的日元对美国以及整个亚洲地区都很重要。 很荣幸能与日本站在一起，帮助稳定局势。",
           "url": "https://wallstreetcn.com/livenews/3144721",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
+        },
+        {
+          "title": "美国拟禁止进口中国新型数据中心设备，我使馆：敦促美停止抹黑中企并威胁制裁",
+          "url": "https://flash.jin10.com/detail/20260804215921831800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "伊朗经济部长：我们已制定至少为期两年的经济韧性计划，有关我们无法保障预算资金的说法纯属不实。",
@@ -695,13 +828,24 @@
           "time_info": "02时46分"
         },
         {
+          "title": "福特美国7月汽车总销量为169,951辆，同比下降10.2%；7月电动汽车销量为2,065辆，同比下降74.9%。",
+          "url": "https://wallstreetcn.com/livenews/3144784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "美国财长贝森特：每次会议都应是实时的，与会者应自行做出判断。",
           "url": "https://flash.jin10.com/detail/20260804194923743800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -717,13 +861,24 @@
           "time_info": "04时22分"
         },
         {
+          "title": "伊朗德黑兰省发生燃料储罐爆炸事故致18人受伤",
+          "url": "https://wallstreetcn.com/livenews/3144783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "贝莱德：即便美联储按兵不动 美国国债收益率仍将走高",
           "url": "https://wallstreetcn.com/livenews/3144717",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -734,7 +889,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -767,7 +922,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -778,9 +933,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
+        },
+        {
+          "title": "美国6月JOLTs职位空缺、工厂订单月率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260804215000001800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "伊朗公布所袭船只画面指其错信美国",
@@ -844,7 +1010,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -866,7 +1032,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -899,7 +1065,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -995,7 +1161,7 @@
     },
     {
       "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -1042,22 +1208,35 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 20时00分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 22时15分]"
         },
         {
           "title": "伊朗总统回应辞职传闻",
           "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时00分]"
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 22时15分]"
+        },
+        {
+          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
+          "url": "https://wallstreetcn.com/articles/3778597",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 22时15分]"
         },
         {
           "title": "格鲁吉亚总理：中国在这方面堪称典范",
@@ -1084,6 +1263,20 @@
           "time_info": "[12时02分 ~ 14时31分]"
         },
         {
+          "title": "美媒：因凡蒂诺向特朗普求助",
+          "url": "https://www.douyin.com/hot/2596620",
+          "source": "抖音",
+          "ranks": [
+            8,
+            10,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 22时15分]"
+        },
+        {
           "title": "霍尔木兹马上开放？特朗普多次遭伊朗“打脸”，仍坚称美伊正谈判！",
           "url": "https://www.cls.cn/detail/2444694",
           "source": "财联社热门",
@@ -1106,30 +1299,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 14时31分]"
-        },
-        {
-          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
-          "url": "https://wallstreetcn.com/articles/3778597",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时36分 ~ 20时00分]"
-        },
-        {
-          "title": "美媒：因凡蒂诺向特朗普求助",
-          "url": "https://www.douyin.com/hot/2596620",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 19时59分]"
         },
         {
           "title": "特朗普：美伊“正在”谈判 这是伊朗达成协议的“最后机会”",
@@ -1221,6 +1390,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "前以色列总理贝内特：内塔尼亚胡放弃了击败哈马斯的目标，把加沙的钥匙交给了卡塔尔人。",
+          "url": "https://flash.jin10.com/detail/20260804221253025800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "特朗普：与伊朗的谈判已开始，后续会谈也已提上日程",
           "url": "https://wallstreetcn.com/livenews/3144262",
           "source": "华尔街见闻-快讯",
@@ -1296,6 +1476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "流亡前总理哈西娜将在印度发表视频讲话？孟加拉国回应",
+          "url": "https://news.ifeng.com/c/8vJs3MQSvYe",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "美国总统特朗普：无核化谈判将需要一段时间。",
@@ -1528,7 +1719,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -1561,7 +1752,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -1707,6 +1898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "曝国际足联主席求助特朗普",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E4%B8%BB%E5%B8%AD%E6%B1%82%E5%8A%A9%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我认为特朗普的考量是，他不想看到全球经济崩溃。",
@@ -1855,7 +2057,7 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "我用AI创造虚拟世界 弹幕即神谕",
@@ -1880,11 +2082,26 @@
             13,
             15,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 20时00分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 22时15分]"
+        },
+        {
+          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
+          "url": "https://www.zhihu.com/question/2066578072997049748",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 22时15分]"
         },
         {
           "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
@@ -1910,20 +2127,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 06时02分]"
-        },
-        {
-          "title": "如何看待 24 岁华尔街 AI 天才掌管 450 亿美元、以 4 倍杠杆极致梭哈 AI 硬件，最终遭华尔街「围猎」爆仓？",
-          "url": "https://www.zhihu.com/question/2066578072997049748",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 20时00分]"
         },
         {
           "title": "中金：AI之外还有什么值得买",
@@ -1964,6 +2167,18 @@
           "time_info": "[00时17分 ~ 14时31分]"
         },
         {
+          "title": "AI做题吊打日本名校状元",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 22时15分]"
+        },
+        {
           "title": "北美“四朵云”联袂上涨！AI行情从“卖铲人”切换到“用铲人” 有哪些逻辑支撑？",
           "url": "https://www.cls.cn/detail/2444783",
           "source": "财联社热门",
@@ -1990,15 +2205,56 @@
           "time_info": "[08时02分 ~ 14时31分]"
         },
         {
-          "title": "AI做题吊打日本名校状元",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356770&amp;topic_name=AI%E5%81%9A%E9%A2%98%E5%90%8A%E6%89%93%E6%97%A5%E6%9C%AC%E5%90%8D%E6%A0%A1%E7%8A%B6%E5%85%83",
-          "source": "贴吧",
+          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
+          "url": "https://wallstreetcn.com/articles/3778632",
+          "source": "华尔街见闻",
           "ranks": [
+            6,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时36分 ~ 20时00分]"
+          "time_info": "[19时59分 ~ 22时15分]"
+        },
+        {
+          "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
+          "url": "https://www.zhihu.com/question/2067576901791638083",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 22时15分]"
+        },
+        {
+          "title": "禁止将本书用于人工智能训练",
+          "url": "https://s.weibo.com/weibo?q=%E7%A6%81%E6%AD%A2%E5%B0%86%E6%9C%AC%E4%B9%A6%E7%94%A8%E4%BA%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%AE%AD%E7%BB%83&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 22时15分]"
+        },
+        {
+          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
+          "url": "https://www.cls.cn/detail/2445244",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 22时15分]"
         },
         {
           "title": "阿里云：Qwen-Image-3.0正式上线千问AI平台，权威榜单国内第一",
@@ -2018,20 +2274,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
-        },
-        {
-          "title": "AI投资的逻辑变了：云厂进入收租时代，基础设施产业链承压",
-          "url": "https://wallstreetcn.com/articles/3778632",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时00分]"
         },
         {
           "title": "创业板指涨超6%，算力硬件、半导体芯片、AI应用、医药生物等方向涨幅居前，全市场上涨个股超3700只。",
@@ -2056,6 +2301,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "营收近翻倍、业绩超预期，Palantir靠“AI主权”讲出新增长故事",
+          "url": "https://flash.jin10.com/detail/20260804221014356800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "对话xAI前推理团队负责人盛颖",
           "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E8%AF%9DxAI%E5%89%8D%E6%8E%A8%E7%90%86%E5%9B%A2%E9%98%9F%E8%B4%9F%E8%B4%A3%E4%BA%BA%E7%9B%9B%E9%A2%96",
           "source": "bilibili 热搜",
@@ -2078,31 +2334,6 @@
           "time_info": "00时17分"
         },
         {
-          "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
-          "url": "https://www.zhihu.com/question/2067576901791638083",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 20时00分]"
-        },
-        {
-          "title": "禁止将本书用于人工智能训练",
-          "url": "https://s.weibo.com/weibo?q=%E7%A6%81%E6%AD%A2%E5%B0%86%E6%9C%AC%E4%B9%A6%E7%94%A8%E4%BA%8E%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%AE%AD%E7%BB%83&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时36分 ~ 20时00分]"
-        },
-        {
           "title": "谁来管管AI漫剧女主的穿搭",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%9D%A5%E7%AE%A1%E7%AE%A1AI%E6%BC%AB%E5%89%A7%E5%A5%B3%E4%B8%BB%E7%9A%84%E7%A9%BF%E6%90%AD%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -2121,7 +2352,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -2135,18 +2366,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "【每日收评】创业板指高开高走涨超5%，AI应用持续活跃，算力硬件卷土重来",
-          "url": "https://www.cls.cn/detail/2445244",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时36分 ~ 20时00分]"
         },
         {
           "title": "AI前沿日报-8月4日",
@@ -2197,6 +2416,17 @@
           "time_info": "[02时45分 ~ 08时02分]"
         },
         {
+          "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33711893",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 22时15分]"
+        },
+        {
           "title": "用AI造谣抹黑小米 两人被处罚",
           "url": "https://www.baidu.com/s?wd=%E7%94%A8AI%E9%80%A0%E8%B0%A3%E6%8A%B9%E9%BB%91%E5%B0%8F%E7%B1%B3+%E4%B8%A4%E4%BA%BA%E8%A2%AB%E5%A4%84%E7%BD%9A",
           "source": "百度热搜",
@@ -2206,17 +2436,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 14时31分]"
-        },
-        {
-          "title": "活力中国调研行｜之江实验室王坚院士：人工智能应该像纸一样便宜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711893",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时00分]"
         },
         {
           "title": "2人用AI造谣小米车祸视频被罚",
@@ -2318,6 +2537,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "Canva可画完成与Kimi、WorkBuddy、QoderWorkCN等本土AI智能体应用生态对接",
+          "url": "https://wallstreetcn.com/livenews/3144780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "OpenAI等巨头大幅降价对标DeepSeek",
           "url": "https://www.baidu.com/s?wd=OpenAI%E7%AD%89%E5%B7%A8%E5%A4%B4%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%AF%B9%E6%A0%87DeepSeek",
           "source": "百度热搜",
@@ -2338,6 +2568,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "字节跳动启动2027校园招聘，持续加码AI人才",
+          "url": "https://wallstreetcn.com/livenews/3144778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "英伟达、思科和CrowdStrike正在起草安全AI指南。",
+          "url": "https://wallstreetcn.com/livenews/3144775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "软银：预计人工智能与云业务在2027财年前实现30%的年增长。",
@@ -2371,12 +2623,490 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "UP主用AI证伪经典数学猜想",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E8%AF%81%E4%BC%AA%E7%BB%8F%E5%85%B8%E6%95%B0%E5%AD%A6%E7%8C%9C%E6%83%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 道琼斯 纳斯达克 标普500",
+      "match_count": 41,
+      "titles": [
+        {
+          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时02分 ~ 22时15分]"
+        },
+        {
+          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2444462",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 08时02分]"
+        },
+        {
+          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 04时22分]"
+        },
+        {
+          "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
+          "url": "https://www.cls.cn/detail/2444684",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 14时31分]"
+        },
+        {
+          "title": "美股收盘：三大指数全线走高纳指涨逾2% 美伊局势缓和提振风险偏好",
+          "url": "https://www.cls.cn/detail/2444660",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 14时31分]"
+        },
+        {
+          "title": "纳斯达克100指数涨超2%，创7月15日以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3144803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨0.6%。 热门中概股里，大全新能源初步收涨13.3%，金山云涨7%，阿里巴巴、日月光半导体涨4.1%，晶科能源涨3.9%，腾讯、拼多多、百度涨超1%，小米跌2.5%，理想跌3.7%，小鹏跌4.5%。 ETF中，KWEB涨0.9%，CQQQ跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3144343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "城堡证券：美股牛市驱动因素依然稳固，散户杠杆押注降温",
+          "url": "https://wallstreetcn.com/livenews/3144393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "“沉睡巨人”正在苏醒：30万亿美债市场暗流涌动，美股还能撑多久？",
+          "url": "https://flash.jin10.com/detail/20260804113530933800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "标普500指数初步收涨1.4%，电信板块涨4.4%，可选消费板块涨2.7%，工业、科技、原材料板块涨超1%，能源板块跌1.2%。 纳斯达克100指数初步收涨1.7%，成分股中，CoreWeave初步收涨19.5%，Nebius涨11.4%，Lumentum涨9.3%，Meta涨6.1%，苹果跌1.9%，Diamondback Energy跌2.1%，恩智浦、德州仪器、西部数据、希捷科技至多跌3.6%，万豪国际跌6.8%。",
+          "url": "https://wallstreetcn.com/livenews/3144341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "美股三大指数集体收涨 纳指涨逾2%",
+          "url": "https://www.toutiao.com/trending/7669943981744066086/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美股为何跌不下去？“大空头”找到了背后的机器丨大空头手记",
+          "url": "https://flash.jin10.com/detail/20260804141314341800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
+        },
+        {
+          "title": "美股半导体指数低开高走闪迪大涨超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80%E9%AB%98%E8%B5%B0%E9%97%AA%E8%BF%AA%E5%A4%A7%E6%B6%A8%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "美国财长贝森特：霍尔木兹海峡的协议可能在周二或周三达成。国际油价走低，WTI原油日内跌幅达2.5%，报78.29美元/桶。美股期货持续上涨，道琼斯指数期货涨1.02%，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3144729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时00分"
+        },
+        {
+          "title": "Snap(SNAP.N)美股盘后涨超9%。",
+          "url": "https://flash.jin10.com/detail/20260804041150987800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 06时02分]"
+        },
+        {
+          "title": "周一（8月3日）纽约尾盘，现货黄金涨0.21%，报4054.95美元/盎司，亚太盘初高开至4080.87美元刷新日高，随后震荡下行、21:38刷新日低至4019.30美元。 COMEX黄金期货涨0.15%，报4113美元/盎司。 现货白银涨1.01%，报58.18美元/盎司，美股盘初也曾刷新日低至56.5694美元。 COMEX白银期货涨1.08%，报58.400美元/盎司。 COMEX铜期货涨0.65%，报6.5490美元/磅。 现货铂金跌1%，现货钯金跌1.30%。",
+          "url": "https://wallstreetcn.com/livenews/3144358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "标普500指数上涨0.5%，有望创下6月以来的首个纪录新高。",
+          "url": "https://wallstreetcn.com/livenews/3144794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "Palantir(PLTR.N)美股盘后拉升7%。",
+          "url": "https://flash.jin10.com/detail/20260804040640366800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 06时02分]"
+        },
+        {
+          "title": "周一（8月3日）纽约尾盘，标普500股指期货最终涨1.52%，道指期货涨1.45%，纳斯达克100股指期货涨1.87%。 罗素2000股指期货涨1.83%。",
+          "url": "https://wallstreetcn.com/livenews/3144361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 08时02分]"
+        },
+        {
+          "title": "金十图示：2026年08月03日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260804040540550800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 06时02分]"
+        },
+        {
+          "title": "道琼斯指数8月3日（周一）收盘上涨693.38点，涨幅1.32%，报53178.41点；<br/>标普500指数8月3日（周一）收盘上涨110.78点，涨幅1.48%，报7600.50点；<br/>纳斯达克综合指数8月3日（周一）收盘上涨540.04点，涨幅2.13%，报25913.90点。",
+          "url": "https://flash.jin10.com/detail/20260804040526513800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 06时02分]"
+        },
+        {
+          "title": "金十图示：2026年08月03日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260804040524441800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 06时02分]"
+        },
+        {
+          "title": "美股收盘：道指创收盘新高 纳指涨超2%",
+          "url": "https://flash.jin10.com/detail/20260804040116965800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时22分 ~ 06时02分]"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至2%，美国总统特朗普宣称，正在讨论明天开放霍尔木兹海峡的问题。谈判第一阶段是重新开放海峡。霍尔木兹海峡可能最迟明天就会重新开放。",
+          "url": "https://wallstreetcn.com/livenews/3144305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "美股三大股指集体高开，道指涨1.17%，标普500指数涨0.4%，纳指涨0.78%。卡特彼勒上涨12%，创2022年10月以来最大单日涨幅。Palantir涨超14%，公司大幅上调全年收入预期。光通信股持续走高，Lumentum涨超8%，Coherent涨超11%。",
+          "url": "https://wallstreetcn.com/livenews/3144788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收涨，纳指ETF、小盘股指ETF涨超1.7%，布油基金跌5%",
+          "url": "https://wallstreetcn.com/livenews/3144355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "标普500指数高开30.12点，涨幅0.40%，报7630.62点； 道琼斯工业平均指数高开462.80点，涨幅0.87%，报53641.21点； 纳斯达克综合指数高开174.15点，涨幅0.67%，报26088.04点。",
+          "url": "https://wallstreetcn.com/livenews/3144787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "Snap二季度营收16亿美元，分析师预期15.4亿美元。 二季度日活用户数4.93亿，分析师预期4.8838亿。 二季度调整后EBITDA为2.5亿美元，分析师预期1.923亿美元。 预计三季度营收17亿-17.4亿美元，分析师预期17亿美元。 预计三季度调整后EBITDA为3亿-3.5亿美元，分析师预期3.276亿美元。 Snap美股盘后涨11%。",
+          "url": "https://wallstreetcn.com/livenews/3144353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "道指、标普500指数开盘刷新历史新高",
+          "url": "https://www.baidu.com/s?wd=%E9%81%93%E6%8C%87%E3%80%81%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E5%BC%80%E7%9B%98%E5%88%B7%E6%96%B0%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "标普500指数的11个板块中，电信服务板块收涨4.3%——成分股Meta、谷歌A领跑，可选消费板块涨2.68%，信息技术/科技板块涨1.62%，能源板块则收跌1.23%。",
+          "url": "https://wallstreetcn.com/livenews/3144352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美股三大指数集体高开",
+          "url": "https://www.douyin.com/hot/2596417",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "周一（8月3日），美股行业ETF多数收涨，全球航空业ETF涨4.44%，网络股指数ETF涨2.93%，可选消费ETF、科技行业ETF、全球科技股指数ETF至少涨1.36%，能源业ETF跌1.28%。",
+          "url": "https://wallstreetcn.com/livenews/3144351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "美股收盘：谷歌涨超4%总市值超过苹果",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B0%B7%E6%AD%8C%E6%B6%A8%E8%B6%854%25%E6%80%BB%E5%B8%82%E5%80%BC%E8%B6%85%E8%BF%87%E8%8B%B9%E6%9E%9C",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "Palantir二季度调整后每股收益（EPS）为0.41美元，分析师预期0.35美元。 二季度营收19.4亿美元，分析师预期18.1亿美元。 预计全年营收81.5亿-81.6亿美元，公司原本预计76.5亿-76.6亿美元。 预计全年调整后运营利润48.9亿-49亿美元，分析师预期45.1亿美元。 Palantir美股盘后涨7%。",
+          "url": "https://wallstreetcn.com/livenews/3144349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "城堡证券：推动美股创新高的力量依然稳固",
+          "url": "https://flash.jin10.com/detail/20260804034718869800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "纳斯达克100指数涨超2%，创7月15日以来新高。",
+          "url": "https://flash.jin10.com/detail/20260804215207255800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "美股科技巨头迎来强劲买盘",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%BF%8E%E6%9D%A5%E5%BC%BA%E5%8A%B2%E4%B9%B0%E7%9B%98%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美股期货走高，纳斯达克100指数期货上涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3144458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3144773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
+          "title": "麦当劳第二季度营收71.0亿美元，预估71.2亿美元。 第二季度调整后每股收益3.38美元，预估3.32美元。 第二季度每股收益3.32美元，上年同期3.14美元。 第二季度美国同店销售增长0.8％，预估增长0.93％。 麦当劳美股盘前涨约1%。",
+          "url": "https://wallstreetcn.com/livenews/3144701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时00分"
         }
       ]
     },
     {
       "keyword_group": "A股 上证 深证 创业板 科创",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "科创50跌超5%，半导体再跌、兆易创新跌停，核电掀涨停潮，恒科指涨1%，阿里大涨超7%",
@@ -2438,6 +3168,30 @@
           "time_info": "[00时17分 ~ 02时46分]"
         },
         {
+          "title": "创业板暴涨超5.6%，算力硬件全线反攻、光通信\"满屏涨停\"，医药股爆发、药明康德涨停，半导体强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3778628",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 22时15分]"
+        },
+        {
+          "title": "【焦点复盘】科创50涨超4%终结五连阴，TMT产业链全线反攻，“易中天”三巨头均涨超13%",
+          "url": "https://www.cls.cn/detail/2445284",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 22时15分]"
+        },
+        {
           "title": "A股MLCC概念震荡拉升，博迁新材午后涨停，洁美科技、斯迪克、三环集团、商络电子、火炬电子、风华高科均涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3144561",
           "source": "华尔街见闻-快讯",
@@ -2460,17 +3214,6 @@
           "time_info": "17时36分"
         },
         {
-          "title": "创业板暴涨超5.6%，算力硬件全线反攻、光通信\"满屏涨停\"，医药股爆发、药明康德涨停，半导体强劲反弹",
-          "url": "https://wallstreetcn.com/articles/3778628",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时00分]"
-        },
-        {
           "title": "A股CPO板块持续冲高，联讯仪器20CM涨停，协创数据、鼎通科技、长光华芯、天孚通信、仕佳光子跟涨。",
           "url": "https://flash.jin10.com/detail/20260804141408701800",
           "source": "金十数据",
@@ -2485,17 +3228,6 @@
           "title": "创业板暴涨5% A股市场真的企稳了吗",
           "url": "https://www.toutiao.com/trending/7670109594571509291/",
           "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时00分]"
-        },
-        {
-          "title": "【焦点复盘】科创50涨超4%终结五连阴，TMT产业链全线反攻，“易中天”三巨头均涨超13%",
-          "url": "https://www.cls.cn/detail/2445284",
-          "source": "财联社热门",
           "ranks": [
             9
           ],
@@ -2627,6 +3359,17 @@
           "time_info": "[06时02分 ~ 08时02分]"
         },
         {
+          "title": "专家：A股市场出现积极信号",
+          "url": "https://www.toutiao.com/trending/7670146907557891603/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
+        {
           "title": "A股科技股大反弹",
           "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E5%8F%8D%E5%BC%B9",
           "source": "百度热搜",
@@ -2721,7 +3464,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -2768,385 +3511,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 道琼斯 纳斯达克 标普500",
-      "match_count": 33,
-      "titles": [
-        {
-          "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时02分 ~ 20时00分]"
-        },
-        {
-          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2444462",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 08时02分]"
-        },
-        {
-          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 04时22分]"
-        },
-        {
-          "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
-          "url": "https://www.cls.cn/detail/2444684",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 14时31分]"
-        },
-        {
-          "title": "美股收盘：三大指数全线走高纳指涨逾2% 美伊局势缓和提振风险偏好",
-          "url": "https://www.cls.cn/detail/2444660",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 14时31分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收涨0.6%。 热门中概股里，大全新能源初步收涨13.3%，金山云涨7%，阿里巴巴、日月光半导体涨4.1%，晶科能源涨3.9%，腾讯、拼多多、百度涨超1%，小米跌2.5%，理想跌3.7%，小鹏跌4.5%。 ETF中，KWEB涨0.9%，CQQQ跌0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3144343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "城堡证券：美股牛市驱动因素依然稳固，散户杠杆押注降温",
-          "url": "https://wallstreetcn.com/livenews/3144393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "“沉睡巨人”正在苏醒：30万亿美债市场暗流涌动，美股还能撑多久？",
-          "url": "https://flash.jin10.com/detail/20260804113530933800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "标普500指数初步收涨1.4%，电信板块涨4.4%，可选消费板块涨2.7%，工业、科技、原材料板块涨超1%，能源板块跌1.2%。 纳斯达克100指数初步收涨1.7%，成分股中，CoreWeave初步收涨19.5%，Nebius涨11.4%，Lumentum涨9.3%，Meta涨6.1%，苹果跌1.9%，Diamondback Energy跌2.1%，恩智浦、德州仪器、西部数据、希捷科技至多跌3.6%，万豪国际跌6.8%。",
-          "url": "https://wallstreetcn.com/livenews/3144341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "美股三大指数集体收涨 纳指涨逾2%",
-          "url": "https://www.toutiao.com/trending/7669943981744066086/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "美股为何跌不下去？“大空头”找到了背后的机器丨大空头手记",
-          "url": "https://flash.jin10.com/detail/20260804141314341800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "美股半导体指数低开高走闪迪大涨超6%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80%E9%AB%98%E8%B5%B0%E9%97%AA%E8%BF%AA%E5%A4%A7%E6%B6%A8%E8%B6%856%25",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "美国财长贝森特：霍尔木兹海峡的协议可能在周二或周三达成。国际油价走低，WTI原油日内跌幅达2.5%，报78.29美元/桶。美股期货持续上涨，道琼斯指数期货涨1.02%，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3144729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时00分"
-        },
-        {
-          "title": "Snap(SNAP.N)美股盘后涨超9%。",
-          "url": "https://flash.jin10.com/detail/20260804041150987800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 06时02分]"
-        },
-        {
-          "title": "周一（8月3日）纽约尾盘，现货黄金涨0.21%，报4054.95美元/盎司，亚太盘初高开至4080.87美元刷新日高，随后震荡下行、21:38刷新日低至4019.30美元。 COMEX黄金期货涨0.15%，报4113美元/盎司。 现货白银涨1.01%，报58.18美元/盎司，美股盘初也曾刷新日低至56.5694美元。 COMEX白银期货涨1.08%，报58.400美元/盎司。 COMEX铜期货涨0.65%，报6.5490美元/磅。 现货铂金跌1%，现货钯金跌1.30%。",
-          "url": "https://wallstreetcn.com/livenews/3144358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "Palantir(PLTR.N)美股盘后拉升7%。",
-          "url": "https://flash.jin10.com/detail/20260804040640366800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 06时02分]"
-        },
-        {
-          "title": "周一（8月3日）纽约尾盘，标普500股指期货最终涨1.52%，道指期货涨1.45%，纳斯达克100股指期货涨1.87%。 罗素2000股指期货涨1.83%。",
-          "url": "https://wallstreetcn.com/livenews/3144361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 08时02分]"
-        },
-        {
-          "title": "金十图示：2026年08月03日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260804040540550800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 06时02分]"
-        },
-        {
-          "title": "道琼斯指数8月3日（周一）收盘上涨693.38点，涨幅1.32%，报53178.41点；<br/>标普500指数8月3日（周一）收盘上涨110.78点，涨幅1.48%，报7600.50点；<br/>纳斯达克综合指数8月3日（周一）收盘上涨540.04点，涨幅2.13%，报25913.90点。",
-          "url": "https://flash.jin10.com/detail/20260804040526513800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 06时02分]"
-        },
-        {
-          "title": "金十图示：2026年08月03日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260804040524441800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 06时02分]"
-        },
-        {
-          "title": "美股收盘：道指创收盘新高 纳指涨超2%",
-          "url": "https://flash.jin10.com/detail/20260804040116965800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 06时02分]"
-        },
-        {
-          "title": "纳斯达克100指数涨幅扩大至2%，美国总统特朗普宣称，正在讨论明天开放霍尔木兹海峡的问题。谈判第一阶段是重新开放海峡。霍尔木兹海峡可能最迟明天就会重新开放。",
-          "url": "https://wallstreetcn.com/livenews/3144305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时46分"
-        },
-        {
-          "title": "美股大类资产类ETF多数收涨，纳指ETF、小盘股指ETF涨超1.7%，布油基金跌5%",
-          "url": "https://wallstreetcn.com/livenews/3144355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "Snap二季度营收16亿美元，分析师预期15.4亿美元。 二季度日活用户数4.93亿，分析师预期4.8838亿。 二季度调整后EBITDA为2.5亿美元，分析师预期1.923亿美元。 预计三季度营收17亿-17.4亿美元，分析师预期17亿美元。 预计三季度调整后EBITDA为3亿-3.5亿美元，分析师预期3.276亿美元。 Snap美股盘后涨11%。",
-          "url": "https://wallstreetcn.com/livenews/3144353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "标普500指数的11个板块中，电信服务板块收涨4.3%——成分股Meta、谷歌A领跑，可选消费板块涨2.68%，信息技术/科技板块涨1.62%，能源板块则收跌1.23%。",
-          "url": "https://wallstreetcn.com/livenews/3144352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "美股三大指数集体高开",
-          "url": "https://www.douyin.com/hot/2596417",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
-        },
-        {
-          "title": "周一（8月3日），美股行业ETF多数收涨，全球航空业ETF涨4.44%，网络股指数ETF涨2.93%，可选消费ETF、科技行业ETF、全球科技股指数ETF至少涨1.36%，能源业ETF跌1.28%。",
-          "url": "https://wallstreetcn.com/livenews/3144351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "美股收盘：谷歌涨超4%总市值超过苹果",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B0%B7%E6%AD%8C%E6%B6%A8%E8%B6%854%25%E6%80%BB%E5%B8%82%E5%80%BC%E8%B6%85%E8%BF%87%E8%8B%B9%E6%9E%9C",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "Palantir二季度调整后每股收益（EPS）为0.41美元，分析师预期0.35美元。 二季度营收19.4亿美元，分析师预期18.1亿美元。 预计全年营收81.5亿-81.6亿美元，公司原本预计76.5亿-76.6亿美元。 预计全年调整后运营利润48.9亿-49亿美元，分析师预期45.1亿美元。 Palantir美股盘后涨7%。",
-          "url": "https://wallstreetcn.com/livenews/3144349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "城堡证券：推动美股创新高的力量依然稳固",
-          "url": "https://flash.jin10.com/detail/20260804034718869800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "美股科技巨头迎来强劲买盘",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%BF%8E%E6%9D%A5%E5%BC%BA%E5%8A%B2%E4%B9%B0%E7%9B%98%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "美股期货走高，纳斯达克100指数期货上涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3144458",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时02分"
-        },
-        {
-          "title": "麦当劳第二季度营收71.0亿美元，预估71.2亿美元。 第二季度调整后每股收益3.38美元，预估3.32美元。 第二季度每股收益3.32美元，上年同期3.14美元。 第二季度美国同店销售增长0.8％，预估增长0.93％。 麦当劳美股盘前涨约1%。",
-          "url": "https://wallstreetcn.com/livenews/3144701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时00分"
         }
       ]
     },
@@ -3324,7 +3688,7 @@
     },
     {
       "keyword_group": "半导体 芯片 算力",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "“降温”措施见效？韩国半导体杠杆ETF的交易量明显萎缩",
@@ -3332,11 +3696,23 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时36分 ~ 20时00分]"
+          "appearance_count": 4,
+          "time_info": "[17时36分 ~ 22时15分]"
+        },
+        {
+          "title": "费城半导体指数涨超5%，闪迪涨约8%，SK海力士涨约7%，美光科技涨约7%，西部数据涨约5%。",
+          "url": "https://wallstreetcn.com/livenews/3144800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "金十图示：2026年08月04日（周二）富时中国A50指数成分股午盘收盘行情一览：银行股飘绿，半导体走强",
@@ -3366,11 +3742,12 @@
           "url": "https://www.cls.cn/detail/2445039",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时00分]"
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 22时15分]"
         },
         {
           "title": "存储芯片超级周期走到十字路口？",
@@ -3445,7 +3822,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         },
@@ -3456,7 +3833,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时00分"
         }
@@ -3476,8 +3853,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 20时00分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 22时15分]"
         },
         {
           "title": "地缘风险溢价消退，原油重挫7%破80美元，道指刷新历史新高，亚马逊市值突破三万亿",
@@ -3549,8 +3926,20 @@
     },
     {
       "keyword_group": "自动驾驶",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "L3、L4级自动驾驶“强标”明年7月实施 明确安全主体责任、接管机制",
+          "url": "https://www.cls.cn/detail/2445436",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 22时15分]"
+        },
         {
           "title": "工信部：加强对道路机动车辆产品“激进式”创新设计风险隐患甄别和测试验证 加强组合驾驶辅助和自动驾驶功能安全评估",
           "url": "https://wallstreetcn.com/livenews/3144649",
@@ -3563,15 +3952,15 @@
           "time_info": "17时36分"
         },
         {
-          "title": "L3、L4级自动驾驶“强标”明年7月实施 明确安全主体责任、接管机制",
-          "url": "https://www.cls.cn/detail/2445436",
-          "source": "财联社热门",
+          "title": "《智能网联汽车 自动驾驶系统安全要求》强制性国家标准正式发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33713556",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            19
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时59分 ~ 20时00分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "工信部：自动驾驶系统安全水平应至少达到正在承担动态驾驶任务的合格且专注驾驶人的水平",
@@ -3760,6 +4149,21 @@
           "time_info": "[00时17分 ~ 08时02分]"
         },
         {
+          "title": "如何看待单亲妈妈扛沙养家，孩子给同学买榴莲还训斥妈妈？面对孩子的超支消费家长该怎么沟通才能避免冲突？",
+          "url": "https://www.zhihu.com/question/2067653827646289644",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14,
+            12,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 22时15分]"
+        },
+        {
           "title": "全国海洋旅游消费潜力持续释放",
           "url": "https://www.toutiao.com/trending/7669753214568398884/",
           "source": "今日头条",
@@ -3769,56 +4173,24 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 14时31分]"
-        },
-        {
-          "title": "如何看待单亲妈妈扛沙养家，孩子给同学买榴莲还训斥妈妈？面对孩子的超支消费家长该怎么沟通才能避免冲突？",
-          "url": "https://www.zhihu.com/question/2067653827646289644",
-          "source": "知乎",
-          "ranks": [
-            20,
-            14,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 20时00分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
-          "url": "https://wallstreetcn.com/articles/3778620",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时31分 ~ 20时00分]"
-        },
-        {
-          "title": "花旗：日本捍卫日元不必抛售逾1.1万亿美元的美债持仓",
-          "url": "https://wallstreetcn.com/livenews/3144528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "北美科技软件股指数ETF涨2.9%，刷新6月4日以来盘中高位至100.23美元，7月24日以来持续反弹。",
+          "url": "https://wallstreetcn.com/livenews/3144798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
+        },
         {
           "title": "周一（8月3日）纽约尾盘，ICE美元指数大致持平，报99.906点，日内交投区间为99.418-100.017点，亚太早盘低开低走、北京时间08:45刷新日低，之后持续震荡上扬。 彭博美元指数跌0.06%，报1206.06点，日内交投区间为1201.22-1207.21点。",
           "url": "https://wallstreetcn.com/livenews/3144332",
@@ -3842,6 +4214,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 06时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
+          "url": "https://wallstreetcn.com/articles/3778620",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 22时15分]"
+        },
+        {
+          "title": "花旗：日本捍卫日元不必抛售逾1.1万亿美元的美债持仓",
+          "url": "https://wallstreetcn.com/livenews/3144528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时31分"
         }
       ]
     },
