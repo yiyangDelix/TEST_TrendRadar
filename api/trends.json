@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T16:51:16.677007+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2026-08-07T18:45:49.554103+08:00",
+  "total_titles_processed": 1074,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "“存储三巨头”2027产能已售罄？消息人士：一些AI公司已在“跪求芯片”",
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             7,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时30分 ~ 16时51分]"
+          "appearance_count": 7,
+          "time_info": "[13时30分 ~ 18时45分]"
         },
         {
           "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
@@ -103,17 +104,6 @@
           "time_info": "08时38分"
         },
         {
-          "title": "中国人能飞AI版vs实拍版",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 16时51分]"
-        },
-        {
           "title": "英伟达急寻中国AI基站供应商，明后年启动端侧算力组网",
           "url": "https://wallstreetcn.com/articles/3778824",
           "source": "华尔街见闻",
@@ -123,6 +113,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时30分 ~ 13时31分]"
+        },
+        {
+          "title": "中国AI偶像能飞",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时03分 ~ 18时45分]"
+        },
+        {
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "中国人能飞AI版vs实拍版",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9EAI%E7%89%88vs%E5%AE%9E%E6%8B%8D%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时45分]"
         },
         {
           "title": "美科研团队利用AI设计出可复制的新型噬菌体",
@@ -160,16 +186,15 @@
           "time_info": "[13时30分 ~ 15时04分]"
         },
         {
-          "title": "中国AI偶像能飞",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E5%81%B6%E5%83%8F%E8%83%BD%E9%A3%9E",
-          "source": "bilibili 热搜",
+          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
+          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
+          "source": "凤凰网",
           "ranks": [
-            29,
-            27
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时03分 ~ 16时51分]"
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时45分]"
         },
         {
           "title": "美国科学家首次用AI设计出病毒",
@@ -189,17 +214,6 @@
           "source": "财联社热门",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 16时51分]"
-        },
-        {
-          "title": "备战年底“九合一”选举，国民党推出AI发言人“郑小文”",
-          "url": "https://news.ifeng.com/c/8vOWIhxIp5b",
-          "source": "凤凰网",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -228,13 +242,24 @@
           "time_info": "08时38分"
         },
         {
+          "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
+          "url": "https://www.cls.cn/detail/2448537",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "谷歌将人工智能管理重心迁至加州 全力迎战Anthropic与OpenAI",
           "url": "https://wallstreetcn.com/livenews/3146580",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -259,6 +284,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
+        },
+        {
+          "title": "福兮祸兮？美国科学家首次用AI设计出新型病毒……",
+          "url": "https://www.cls.cn/detail/2448228",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "AI复原文人笔下的立秋",
@@ -336,12 +372,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
+        },
+        {
+          "title": "特朗普（谈AI）：它可能比石油还要重要。 谁赢了AI，谁就赢得一切。就这么重要。",
+          "url": "https://wallstreetcn.com/livenews/3146612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         }
       ]
     },
     {
       "keyword_group": "美国 伊朗",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "中国5招齐出，“要打疼美国，也要让美国学会掂量分寸”",
@@ -391,8 +438,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时03分 ~ 16时51分]"
+          "appearance_count": 5,
+          "time_info": "[15时03分 ~ 18时45分]"
         },
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -402,8 +449,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 16时51分]"
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时45分]"
+        },
+        {
+          "title": "沈逸：美国生物战从未真正停止",
+          "url": "https://www.douyin.com/hot/2601012",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时45分]"
         },
         {
           "title": "金十整理：机构前瞻美国7月平均每小时工资增速",
@@ -415,17 +473,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
-        },
-        {
-          "title": "沈逸：美国生物战从未真正停止",
-          "url": "https://www.douyin.com/hot/2601012",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 16时51分]"
         },
         {
           "title": "美媒称美国想用战术核武器对抗中俄",
@@ -450,6 +497,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时45分 ~ 13时31分]"
+        },
+        {
+          "title": "美国生物战为何从未停止",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%94%9F%E7%89%A9%E6%88%98%E4%B8%BA%E4%BD%95%E4%BB%8E%E6%9C%AA%E5%81%9C%E6%AD%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "高盛认为美国挺日元不会损及美元主要储备货币的地位",
@@ -542,6 +600,17 @@
           "time_info": "08时38分"
         },
         {
+          "title": "据美国证交会（SEC）文件显示，Alphabet持有SpaceX5.512亿股A类股票。",
+          "url": "https://wallstreetcn.com/livenews/3146629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "金十整理：机构前瞻美国7月失业率（前值：+4.2%）",
           "url": "https://flash.jin10.com/detail/20260807143721189800",
           "source": "金十数据",
@@ -551,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        },
+        {
+          "title": "美国建筑商Dream Finders已同意以每股33.50美元收购建筑公司Beazer Homes。",
+          "url": "https://wallstreetcn.com/livenews/3146621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "小鹿美国往事纽约篇更新",
@@ -584,12 +664,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
+        },
+        {
+          "title": "美国证交会（SEC）文件显示，Alphabet(GOOG.O)报告持有SpaceX(SPCX.O)5.512亿股A类股票。",
+          "url": "https://flash.jin10.com/detail/20260807180333856800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         }
       ]
     },
     {
       "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -600,8 +691,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时38分 ~ 16时51分]"
+          "appearance_count": 9,
+          "time_info": "[08时38分 ~ 18时45分]"
         },
         {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
@@ -614,6 +705,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时38分 ~ 16时51分]"
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 18时45分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -638,20 +743,6 @@
           "time_info": "[08时38分 ~ 15时04分]"
         },
         {
-          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
-          "url": "https://wallstreetcn.com/articles/3778896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 16时51分]"
-        },
-        {
           "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
           "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
           "source": "凤凰网",
@@ -660,8 +751,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时03分 ~ 16时51分]"
+          "appearance_count": 5,
+          "time_info": "[15时03分 ~ 18时45分]"
         },
         {
           "title": "特朗普言论意味着对台政策重大转变？美著名“中国通”解读",
@@ -671,8 +762,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 16时51分]"
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时45分]"
+        },
+        {
+          "title": "匈牙利总理毛焦尔：帕克斯核电站的情况仍然困难。",
+          "url": "https://flash.jin10.com/detail/20260807182608796800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "特朗普将与矿企高管开会",
+          "url": "https://wallstreetcn.com/livenews/3146650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
@@ -685,6 +798,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时45分 ~ 15时04分]"
+        },
+        {
+          "title": "据克里姆林宫消息，俄罗斯总统普京与安全委员会常任成员举行会议，讨论了加强基础设施反恐安全的额外措施。",
+          "url": "https://flash.jin10.com/detail/20260807181957573800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "马科斯遭学生起哄辱骂，菲总统府呼吁“重拾体面”",
+          "url": "https://news.ifeng.com/c/8vOjjxBjfsL",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "匈牙利总理毛焦尔：由于奥地利降雨，预计多瑙河水位将暂时上升。",
+          "url": "https://flash.jin10.com/detail/20260807181931051800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "从批评鲍威尔到频繁致电沃什 特朗普对美联储影响力再受关注",
@@ -786,6 +932,17 @@
           "time_info": "08时38分"
         },
         {
+          "title": "俄罗斯总统普京与阿联酋总统通电话，讨论中东事务。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3146619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "特朗普再称对伊朗战争将很快结束",
           "url": "https://wallstreetcn.com/livenews/3146368",
           "source": "华尔街见闻-快讯",
@@ -800,7 +957,7 @@
     },
     {
       "keyword_group": "A股 上证 深证 创业板 科创",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "A股午评：创业板指涨1.75% 稀土永磁、PCB板块走强",
@@ -864,7 +1021,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -915,6 +1072,17 @@
           "time_info": "[11时45分 ~ 13时31分]"
         },
         {
+          "title": "中国铝业：2025年度A股每股派发现金红利0.147元",
+          "url": "https://flash.jin10.com/detail/20260807181007961800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "A股黄金概念股震荡走高，招金黄金午后涨停，盛达资源、豫光金铅、兴业银锡、中金黄金、湖南白银等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3146474",
           "source": "华尔街见闻-快讯",
@@ -962,8 +1130,19 @@
     },
     {
       "keyword_group": "机器人",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "宇树科技回应机器人销售禁令：不会影响现有主要产品销售",
+          "url": "https://flash.jin10.com/detail/20260807182450064800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
         {
           "title": "宇树科技王兴兴：人形机器人会为人类生活带来更多的创新创业机会",
           "url": "https://wallstreetcn.com/livenews/3146591",
@@ -971,9 +1150,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "宇树科技回应机器人销售禁令：不会影响现有主要产品销售",
+          "url": "https://wallstreetcn.com/livenews/3146652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "王兴兴：登陆资本市场是全新的起点，积极探索人形机器人、机甲等更多产品形态",
@@ -993,7 +1183,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -1004,7 +1194,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -1015,7 +1205,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -1026,7 +1216,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -1037,7 +1227,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -1055,6 +1245,106 @@
       ]
     },
     {
+      "keyword_group": "消费",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2069020073851983605",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时30分 ~ 18时45分]"
+        },
+        {
+          "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33736078",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时30分 ~ 18时45分]"
+        },
+        {
+          "title": "泸溪河牙冠事件消费者已致歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B8%E6%BA%AA%E6%B2%B3%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9%E8%80%85%E5%B7%B2%E8%87%B4%E6%AD%89%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时45分 ~ 16时51分]"
+        },
+        {
+          "title": "专家建议落实双休、增加假期，称「剪头发看电影等消费需要时间」，如何看待此建议？增加假期能带动消费吗？",
+          "url": "https://www.zhihu.com/question/2068732573711329057",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 18时45分]"
+        },
+        {
+          "title": "匈牙利总理毛焦尔：电力消费无需自愿削减，能源供应稳定。",
+          "url": "https://flash.jin10.com/detail/20260807182015294800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "瑞士7月消费者信心指数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260807145000001800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
+          "title": "泰国财政部长：计划降低泰国汽车生产的消费税。",
+          "url": "https://flash.jin10.com/detail/20260807144937307800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
+          "title": "日本家庭支出连降七月 通胀持续压制消费信心",
+          "url": "https://flash.jin10.com/detail/20260807074454064800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "阿里 腾讯 拼多多 小米 美团 泡泡玛特 兆易创新",
       "match_count": 8,
       "titles": [
@@ -1067,8 +1357,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时38分 ~ 16时51分]"
+          "appearance_count": 9,
+          "time_info": "[08时38分 ~ 18时45分]"
         },
         {
           "title": "多家手机品牌回应将大规模涨价，OPPO 、荣耀、小米等部分机型已上调价格，如何看待此次手机涨价潮？",
@@ -1079,11 +1369,12 @@
             7,
             12,
             9,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时38分 ~ 16时51分]"
+          "appearance_count": 9,
+          "time_info": "[08时38分 ~ 18时45分]"
         },
         {
           "title": "葛卫东，增持兆易创新",
@@ -1094,8 +1385,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时03分 ~ 16时51分]"
+          "appearance_count": 5,
+          "time_info": "[15时03分 ~ 18时45分]"
         },
         {
           "title": "腾讯阿里“易中天”押注 NPO明年迈向商用 先进光互联“多路线竞速”",
@@ -1156,169 +1447,8 @@
       ]
     },
     {
-      "keyword_group": "消费",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2069020073851983605",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时30分 ~ 16时51分]"
-        },
-        {
-          "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33736078",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时30分 ~ 16时51分]"
-        },
-        {
-          "title": "泸溪河牙冠事件消费者已致歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B8%E6%BA%AA%E6%B2%B3%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9%E8%80%85%E5%B7%B2%E8%87%B4%E6%AD%89%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 16时51分]"
-        },
-        {
-          "title": "专家建议落实双休、增加假期，称「剪头发看电影等消费需要时间」，如何看待此建议？增加假期能带动消费吗？",
-          "url": "https://www.zhihu.com/question/2068732573711329057",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 16时51分]"
-        },
-        {
-          "title": "瑞士7月消费者信心指数将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260807145000001800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时04分"
-        },
-        {
-          "title": "泰国财政部长：计划降低泰国汽车生产的消费税。",
-          "url": "https://flash.jin10.com/detail/20260807144937307800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时04分"
-        },
-        {
-          "title": "日本家庭支出连降七月 通胀持续压制消费信心",
-          "url": "https://flash.jin10.com/detail/20260807074454064800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股 道琼斯 纳斯达克 标普500",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
-          "url": "https://wallstreetcn.com/articles/3778821",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时38分 ~ 16时51分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
-          "url": "https://www.cls.cn/detail/2447905",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时38分 ~ 15时04分]"
-        },
-        {
-          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
-          "url": "https://www.cls.cn/detail/2448354",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 16时51分]"
-        },
-        {
-          "title": "KOSPI下跌引发美股淘金热，韩国散户加速转投华尔街",
-          "url": "https://flash.jin10.com/detail/20260807163047609800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        },
-        {
-          "title": "美股三大指数集体收跌 西数跌超13%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E8%A5%BF%E6%95%B0%E8%B7%8C%E8%B6%8513%25",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时38分"
-        },
-        {
-          "title": "美股盘前，存储概念股小幅走高，闪迪、西部数据涨超2%，光通信概念股走高，Coherent涨近5%，Lumentum涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3146560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特斯拉 微软 Meta 英伟达 亚马逊",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "报道：英伟达拟下调Rubin Ultra的HBM配置，应对高端HBM短缺",
@@ -1330,8 +1460,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时45分 ~ 16时51分]"
+          "appearance_count": 8,
+          "time_info": "[11时45分 ~ 18时45分]"
         },
         {
           "title": "加速进入电信运营商市场，寻找中国基站厂商合作？英伟达否认",
@@ -1340,7 +1470,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -1351,7 +1481,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -1366,6 +1496,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时45分 ~ 13时31分]"
+        },
+        {
+          "title": "中国贸促会副会长林红红会见美国特斯拉公司副总裁陶琳",
+          "url": "https://wallstreetcn.com/livenews/3146634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "英伟达Jetson大幅涨价 理工雷科推出“山海”智算模组提供国产替代方案",
@@ -1392,6 +1533,80 @@
       ]
     },
     {
+      "keyword_group": "美股 道琼斯 纳斯达克 标普500",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时38分 ~ 18时45分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
+          "url": "https://www.cls.cn/detail/2447905",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时38分 ~ 15时04分]"
+        },
+        {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时45分]"
+        },
+        {
+          "title": "KOSPI下跌引发美股淘金热，韩国散户加速转投华尔街",
+          "url": "https://flash.jin10.com/detail/20260807163047609800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        },
+        {
+          "title": "美股三大指数集体收跌 西数跌超13%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E8%A5%BF%E6%95%B0%E8%B7%8C%E8%B6%8513%25",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时38分"
+        },
+        {
+          "title": "美股盘前，存储概念股小幅走高，闪迪、西部数据涨超2%，光通信概念股走高，Coherent涨近5%，Lumentum涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3146560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "半导体 芯片 算力",
       "match_count": 6,
       "titles": [
@@ -1411,6 +1626,17 @@
           "time_info": "[08时38分 ~ 16时51分]"
         },
         {
+          "title": "中国7月出口同比增23.9%，半导体出口按价值计算同比近乎翻番，进口同比增27.5%",
+          "url": "https://wallstreetcn.com/articles/3778914",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时50分 ~ 18时45分]"
+        },
+        {
           "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728067",
           "source": "澎湃新闻",
@@ -1420,17 +1646,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时38分"
-        },
-        {
-          "title": "中国7月出口同比增23.9%，半导体出口按价值计算同比近乎翻番，进口同比增27.5%",
-          "url": "https://wallstreetcn.com/articles/3778914",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时50分 ~ 16时51分]"
         },
         {
           "title": "国家能源局：加大关键电力装备自主研发 推动电力芯片、特高压组部件等关键技术突破",
@@ -1470,7 +1685,7 @@
     },
     {
       "keyword_group": "锂 锂矿 电池 三元 磷酸铁锂",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
@@ -1507,6 +1722,17 @@
           "time_info": "13时31分"
         },
         {
+          "title": "国城矿业：控股子公司签署十年期碳酸锂长期合作协议",
+          "url": "https://flash.jin10.com/detail/20260807180942582800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报141800元/吨，较上日16:30价格持平。",
           "url": "https://wallstreetcn.com/livenews/3146392",
           "source": "华尔街见闻-快讯",
@@ -1530,7 +1756,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         }
