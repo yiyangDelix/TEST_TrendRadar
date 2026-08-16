@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T17:21:58.837143+08:00",
-  "total_titles_processed": 741,
+  "generated_at": "2026-08-16T20:25:04.285941+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国 伊朗",
-      "match_count": 42,
+      "match_count": 48,
       "titles": [
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -20,6 +20,18 @@
           "time_info": "[07时14分 ~ 17时21分]"
         },
         {
+          "title": "伊朗三大权力机构负责人举行会晤",
+          "url": "https://news.ifeng.com/c/8vd393ITLzT",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 20时25分]"
+        },
+        {
           "title": "伊朗外长称无意延长停火协议",
           "url": "https://news.ifeng.com/c/8vc12jNNZER",
           "source": "凤凰网",
@@ -31,15 +43,29 @@
           "time_info": "[07时14分 ~ 08时54分]"
         },
         {
-          "title": "伊朗三大权力机构负责人举行会晤",
-          "url": "https://news.ifeng.com/c/8vd393ITLzT",
+          "title": "伊朗高层换血，革命卫队更强势了？",
+          "url": "https://news.ifeng.com/c/8vdiSOXc8hN",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时21分]"
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "美国老师气哭,高三生纯文盲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357613&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%80%81%E5%B8%88%E6%B0%94%E5%93%AD%2C%E9%AB%98%E4%B8%89%E7%94%9F%E7%BA%AF%E6%96%87%E7%9B%B2",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            20,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 20时25分]"
         },
         {
           "title": "大疆被美国移除“黑名单”，有戏？",
@@ -87,18 +113,6 @@
           "time_info": "[07时14分 ~ 08时54分]"
         },
         {
-          "title": "伊朗外交部强烈谴责以色列对黎袭击",
-          "url": "https://wallstreetcn.com/livenews/3150039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时21分]"
-        },
-        {
           "title": "伊朗战事延宕 美航母部署时长恐将再刷纪录",
           "url": "https://wallstreetcn.com/livenews/3150003",
           "source": "华尔街见闻-快讯",
@@ -123,15 +137,39 @@
           "time_info": "[07时14分 ~ 08时54分]"
         },
         {
+          "title": "伊朗外交部强烈谴责以色列对黎袭击",
+          "url": "https://wallstreetcn.com/livenews/3150039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时26分 ~ 20时25分]"
+        },
+        {
           "title": "据伊朗媒体Fars News：伊朗梅赫兰市市长称，几分钟前在梅赫兰听到的爆炸声是由于在伊拉克境内销毁战争遗留弹药的操作所致。",
           "url": "https://flash.jin10.com/detail/20260816165308429800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "伊朗称逮捕或消灭美军者将获奖励",
+          "url": "https://wallstreetcn.com/livenews/3150063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美国弗吉尼亚州立大学枪击事件致5人受伤",
@@ -146,17 +184,15 @@
           "time_info": "[07时14分 ~ 08时54分]"
         },
         {
-          "title": "美国老师气哭,高三生纯文盲",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357613&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%80%81%E5%B8%88%E6%B0%94%E5%93%AD%2C%E9%AB%98%E4%B8%89%E7%94%9F%E7%BA%AF%E6%96%87%E7%9B%B2",
-          "source": "贴吧",
+          "title": "伊朗陆军总司令：俘获或击毙美军可获3万美元悬赏",
+          "url": "https://flash.jin10.com/detail/20260816190924554800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            20,
-            22
+            6
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 17时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "伊朗商会会长：伊朗经济已走出战争冲击",
@@ -165,7 +201,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -240,6 +276,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 17时21分]"
+        },
+        {
+          "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33790363",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时53分 ~ 20时25分]"
         },
         {
           "title": "美国中央司令部：美国中央司令部司令于8月15日结束了对中东为期10天的访问，期间他访问了六个国家，并视察了在阿拉伯海执勤的一艘美国海军航空母舰。",
@@ -349,17 +397,6 @@
           "time_info": "[07时14分 ~ 08时54分]"
         },
         {
-          "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33790363",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 08时54分]"
-        },
-        {
           "title": "伊朗称三名飞行员被卡塔尔活捉",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%B8%89%E5%90%8D%E9%A3%9E%E8%A1%8C%E5%91%98%E8%A2%AB%E5%8D%A1%E5%A1%94%E5%B0%94%E6%B4%BB%E6%8D%89%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -370,6 +407,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 17时21分]"
+        },
+        {
+          "title": "美国一女子骑车摔入桥下被吸入涵洞",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%A5%B3%E5%AD%90%E9%AA%91%E8%BD%A6%E6%91%94%E5%85%A5%E6%A1%A5%E4%B8%8B%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B6%B5%E6%B4%9E",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡航运路线图达成一致 谈判仍在进行中",
@@ -384,6 +432,17 @@
           "time_info": "[07时14分 ~ 08时54分]"
         },
         {
+          "title": "美国女子怀孕八个月却每天吸食芬太尼",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E6%80%80%E5%AD%95%E5%85%AB%E4%B8%AA%E6%9C%88%E5%8D%B4%E6%AF%8F%E5%A4%A9%E5%90%B8%E9%A3%9F%E8%8A%AC%E5%A4%AA%E5%B0%BC%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
           "title": "伊朗称3名飞行员遭卡塔尔扣押 卡塔尔否认",
           "url": "https://flash.jin10.com/detail/20260816123659202800",
           "source": "金十数据",
@@ -393,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "伊朗革命卫队：科威特在关于四名被拘留的伊朗人命运方面向德黑兰隐瞒了信息。",
+          "url": "https://flash.jin10.com/detail/20260816174041507800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "美国斡旋的停火协议，实则赋予了以色列“不受惩罚”地攻击黎巴嫩的权力",
@@ -497,21 +567,8 @@
     },
     {
       "keyword_group": "人工智能 AI",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
-        {
-          "title": "博通一夜跌6%：AI的下一道坎，是融资成本",
-          "url": "https://wallstreetcn.com/articles/3779512",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 17时21分]"
-        },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
           "url": "https://www.cls.cn/detail/2455147",
@@ -520,6 +577,19 @@
             6,
             4,
             3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 20时25分]"
+        },
+        {
+          "title": "博通一夜跌6%：AI的下一道坎，是融资成本",
+          "url": "https://wallstreetcn.com/articles/3779512",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -537,6 +607,53 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时14分 ~ 17时21分]"
+        },
+        {
+          "title": "中国医生用AI解决数学圈22年难题",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 20时25分]"
+        },
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 20时25分]"
+        },
+        {
+          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
+          "url": "https://wallstreetcn.com/articles/3779518",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 20时25分]"
+        },
+        {
+          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
+          "url": "https://wallstreetcn.com/articles/3779526",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 20时25分]"
         },
         {
           "title": "a16z史上最大投资！All in Uber创始人，下注工业AI“从比特到原子”",
@@ -564,6 +681,20 @@
           "time_info": "[07时14分 ~ 08时54分]"
         },
         {
+          "title": "大爷手搓AI长片赛博英雄传",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            20,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时14分 ~ 20时25分]"
+        },
+        {
           "title": "“AI版金融创新”：英伟达的“5000亿美元大算盘”",
           "url": "https://wallstreetcn.com/articles/3779503",
           "source": "华尔街见闻",
@@ -574,29 +705,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时14分 ~ 08时54分]"
-        },
-        {
-          "title": "中国医生用AI解决数学圈22年难题",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E7%94%A8AI%E8%A7%A3%E5%86%B3%E6%95%B0%E5%AD%A6%E5%9C%8822%E5%B9%B4%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时21分]"
-        },
-        {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时21分]"
         },
         {
           "title": "60岁AI动画赛道新人",
@@ -611,15 +719,16 @@
           "time_info": "[07时14分 ~ 08时54分]"
         },
         {
-          "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
-          "url": "https://wallstreetcn.com/articles/3779518",
-          "source": "华尔街见闻",
+          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
+          "source": "澎湃新闻",
           "ranks": [
+            11,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 20时25分]"
         },
         {
           "title": "美国大模型帮日本对AI进行投毒",
@@ -631,17 +740,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
-          "url": "https://wallstreetcn.com/articles/3779526",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时21分]"
         },
         {
           "title": "福建：完善AI基础设施建设，加快构建全省一体化算力网",
@@ -664,19 +762,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时53分 ~ 08时54分]"
-        },
-        {
-          "title": "大爷手搓AI长片赛博英雄传",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%88%B7%E6%89%8B%E6%90%93AI%E9%95%BF%E7%89%87%E8%B5%9B%E5%8D%9A%E8%8B%B1%E9%9B%84%E4%BC%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时14分 ~ 15时26分]"
         },
         {
           "title": "法巴银行：欧洲汽车股被低估，AI受益逻辑需等待市场共识形成",
@@ -703,6 +788,19 @@
           "time_info": "[08时54分 ~ 15时26分]"
         },
         {
+          "title": "王祖贤：我们是用AI不是被AI用",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E7%94%A8AI%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 20时25分]"
+        },
+        {
           "title": "固德威与深算院达成战略合作 共建AI+智慧能源联合创新中心",
           "url": "https://flash.jin10.com/detail/20260816142707893800",
           "source": "金十数据",
@@ -713,6 +811,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 17时21分]"
+        },
+        {
+          "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
+          "url": "https://www.cls.cn/detail/2455252",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 20时25分]"
         },
         {
           "title": "我和闺蜜联手掀翻AI穿书剧本",
@@ -736,17 +845,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时14分 ~ 08时54分]"
-        },
-        {
-          "title": "民盟河南省委会通报：收到的一些社情民意信息存在明显AI生成痕迹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33791922",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时21分]"
         },
         {
           "title": "机构：AI“芯片通胀”正冲击英国经济",
@@ -808,18 +906,6 @@
           "time_info": "[15时26分 ~ 17时21分]"
         },
         {
-          "title": "王祖贤：我们是用AI不是被AI用",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E7%A5%96%E8%B4%A4%EF%BC%9A%E6%88%91%E4%BB%AC%E6%98%AF%E7%94%A8AI%E4%B8%8D%E6%98%AF%E8%A2%ABAI%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时21分]"
-        },
-        {
           "title": "美国大模型帮日本对AI进行投毒",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%B8%AE%E6%97%A5%E6%9C%AC%E5%AF%B9AI%E8%BF%9B%E8%A1%8C%E6%8A%95%E6%AF%92%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -831,6 +917,17 @@
           "time_info": "[08时53分 ~ 08时54分]"
         },
         {
+          "title": "首个被AI老板开除的人类员工",
+          "url": "https://www.baidu.com/s?wd=%E9%A6%96%E4%B8%AA%E8%A2%ABAI%E8%80%81%E6%9D%BF%E5%BC%80%E9%99%A4%E7%9A%84%E4%BA%BA%E7%B1%BB%E5%91%98%E5%B7%A5",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
           "title": "美国大模型帮日本对AI进行投毒",
           "url": "https://www.toutiao.com/trending/7673727363703639571/",
           "source": "今日头条",
@@ -840,17 +937,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时53分 ~ 08时54分]"
-        },
-        {
-          "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
-          "url": "https://www.cls.cn/detail/2455252",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "纯数学研究者未来会被 AI 取代吗？",
@@ -889,7 +975,7 @@
     },
     {
       "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
@@ -899,8 +985,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 17时21分]"
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 20时25分]"
         },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -908,11 +994,24 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 20时25分]"
+        },
+        {
+          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
+          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
+          "source": "凤凰网",
+          "ranks": [
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 20时25分]"
         },
         {
           "title": "特朗普誓言美航母重回锅气时代",
@@ -926,15 +1025,15 @@
           "time_info": "[08时53分 ~ 08时54分]"
         },
         {
-          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
-          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
-          "source": "凤凰网",
+          "title": "据以色列i24News：以色列总理内塔尼亚胡明天将在以色列会见美国特使库什纳和高级和平委员会官员。",
+          "url": "https://flash.jin10.com/detail/20260816200840819800",
+          "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "乌克兰总统泽连斯基：欧洲的拦截弹不能被困在仓库中。",
@@ -943,7 +1042,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -965,7 +1064,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -1110,6 +1209,39 @@
           "time_info": "07时14分"
         },
         {
+          "title": "美伊谈判内幕遭美媒曝光 特朗普政府曾绕过伊朗谈判代表接触革命卫队",
+          "url": "https://flash.jin10.com/detail/20260816182514064800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-16）",
+          "url": "https://flash.jin10.com/detail/20260816180839464800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "特朗普再促参议院通过全年采用夏令时法案",
+          "url": "https://wallstreetcn.com/livenews/3150053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美媒：应特朗普要求，美国海军正研究重新设计战舰",
           "url": "https://flash.jin10.com/detail/20260816130111375800",
           "source": "金十数据",
@@ -1132,6 +1264,17 @@
           "time_info": "15时26分"
         },
         {
+          "title": "据沙特媒体哈达斯（Alhadath）：消息人士称，特朗普特使库什纳将与哈马斯代表会面，届时将有埃及、土耳其和卡塔尔的调解人出席，库什纳与哈马斯的会晤旨在防止加沙协议的崩溃。",
+          "url": "https://flash.jin10.com/detail/20260816172332854800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "黎总理：以色列升级行动极其危险 破坏了稳定南部地区的努力",
           "url": "https://wallstreetcn.com/livenews/3149976",
           "source": "华尔街见闻-快讯",
@@ -1145,73 +1288,8 @@
       ]
     },
     {
-      "keyword_group": "半导体 芯片 算力",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "国产算力迎扩张浪潮：大厂“超预期”加码投资 产业链多环节开启扩产",
-          "url": "https://www.cls.cn/detail/2455214",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 17时21分]"
-        },
-        {
-          "title": "【早报】中行落地全国首个算力“Token贷”；贵州茅台、生益科技发布半年报；美存储板块走强",
-          "url": "https://www.cls.cn/detail/2455045",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 17时21分]"
-        },
-        {
-          "title": "SK 集团崔泰源警告 2027 年大概率会是存储芯片供应缺口最大的一年，内存、硬盘还要持续涨价吗？",
-          "url": "https://www.zhihu.com/question/2071746265390506374",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 08时54分]"
-        },
-        {
-          "title": "盛科通信：签订超1亿元以太网交换芯片销售合同",
-          "url": "https://flash.jin10.com/detail/20260816155301812800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
-          "url": "https://www.cls.cn/detail/2454822",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 08时54分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "A股 上证 深证 创业板 科创",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "4家A股公司公告：终止资产重组事项",
@@ -1237,15 +1315,60 @@
           "time_info": "[07时14分 ~ 08时54分]"
         },
         {
-          "title": "频准激光：将于8月18日科创板上市",
-          "url": "https://wallstreetcn.com/livenews/3150042",
+          "title": "中信建投：当前算力产业链需求仍具韧性 A股科技修复尚未结束",
+          "url": "https://flash.jin10.com/detail/20260816193746805800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
+          "url": "https://wallstreetcn.com/livenews/3150060",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "20时25分"
+        },
+        {
+          "title": "频准激光：将于8月18日科创板上市",
+          "url": "https://wallstreetcn.com/livenews/3150042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 20时25分]"
+        },
+        {
+          "title": "A股反弹还能走多远",
+          "url": "https://www.toutiao.com/trending/7674559573931331126/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
+        },
+        {
+          "title": "A股又见大肉签",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%8F%88%E8%A7%81%E5%A4%A7%E8%82%89%E7%AD%BE",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "年内最贵新股频准激光：将于8月18日科创板上市",
@@ -1254,15 +1377,91 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         }
       ]
     },
     {
+      "keyword_group": "半导体 芯片 算力",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "国产算力迎扩张浪潮：大厂“超预期”加码投资 产业链多环节开启扩产",
+          "url": "https://www.cls.cn/detail/2455214",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 20时25分]"
+        },
+        {
+          "title": "【早报】中行落地全国首个算力“Token贷”；贵州茅台、生益科技发布半年报；美存储板块走强",
+          "url": "https://www.cls.cn/detail/2455045",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 20时25分]"
+        },
+        {
+          "title": "SK 集团崔泰源警告 2027 年大概率会是存储芯片供应缺口最大的一年，内存、硬盘还要持续涨价吗？",
+          "url": "https://www.zhihu.com/question/2071746265390506374",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 08时54分]"
+        },
+        {
+          "title": "多家银行竞推“算力贷”",
+          "url": "https://wallstreetcn.com/livenews/3150065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "盛科通信：签订超1亿元以太网交换芯片销售合同",
+          "url": "https://flash.jin10.com/detail/20260816155301812800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
+          "url": "https://www.cls.cn/detail/2454822",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 08时54分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "消费",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "于东来打卡小饭店消费380硬要付600",
@@ -1285,6 +1484,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        },
+        {
+          "title": "存储超级周期下半场：长协封顶消费承压 2027或现分水岭",
+          "url": "https://www.cls.cn/detail/2455354",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "国家叫停「速成车」，新国标落地将如何影响消费者购车？",
@@ -1314,7 +1524,7 @@
     },
     {
       "keyword_group": "美股 道琼斯 纳斯达克 标普500",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
@@ -1325,8 +1535,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 17时21分]"
+          "appearance_count": 7,
+          "time_info": "[07时14分 ~ 20时25分]"
         },
         {
           "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
@@ -1338,6 +1548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "纳斯达克一天交易23小时，抢的是谁的生意？",
+          "url": "https://wallstreetcn.com/articles/3779540",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时24分 ~ 20时25分]"
         },
         {
           "title": "高瓴旗下HHLR披露最新美股持仓 二季度增持英伟达",
@@ -1354,90 +1575,20 @@
       ]
     },
     {
-      "keyword_group": "特斯拉 微软 Meta 英伟达 亚马逊",
-      "match_count": 3,
+      "keyword_group": "阿里 腾讯 拼多多 小米 美团 泡泡玛特 兆易创新",
+      "match_count": 4,
       "titles": [
         {
-          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
-          "url": "https://wallstreetcn.com/articles/3779527",
+          "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
+          "url": "https://wallstreetcn.com/articles/3779445",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时21分]"
+          "time_info": "[20时24分 ~ 20时25分]"
         },
-        {
-          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
-          "url": "https://wallstreetcn.com/livenews/3150029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时21分]"
-        },
-        {
-          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
-          "url": "https://flash.jin10.com/detail/20260816122604848800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "锂 锂矿 电池 三元 磷酸铁锂",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "华联控股：收到加拿大FIRES通知函 阿根廷锂盐湖项目投资可能触发审查",
-          "url": "https://wallstreetcn.com/livenews/3150047",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "华联控股：收到加拿大FIRES对锂盐湖项目投资审查通知",
-          "url": "https://flash.jin10.com/detail/20260816161839442800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "小米澎程：电池热失控后不起火、爆炸",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%EF%BC%9A%E7%94%B5%E6%B1%A0%E7%83%AD%E5%A4%B1%E6%8E%A7%E5%90%8E%E4%B8%8D%E8%B5%B7%E7%81%AB%E3%80%81%E7%88%86%E7%82%B8",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里 腾讯 拼多多 小米 美团 泡泡玛特 兆易创新",
-      "match_count": 3,
-      "titles": [
         {
           "title": "雷军晒图：15年前的今天小米手机发布",
           "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E6%99%92%E5%9B%BE%EF%BC%9A15%E5%B9%B4%E5%89%8D%E7%9A%84%E4%BB%8A%E5%A4%A9%E5%B0%8F%E7%B1%B3%E6%89%8B%E6%9C%BA%E5%8F%91%E5%B8%83",
@@ -1475,6 +1626,89 @@
       ]
     },
     {
+      "keyword_group": "特斯拉 微软 Meta 英伟达 亚马逊",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 20时25分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/livenews/3150029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 17时21分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://flash.jin10.com/detail/20260816122604848800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "锂 锂矿 电池 三元 磷酸铁锂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "华联控股：收到加拿大FIRES对锂盐湖项目投资审查通知",
+          "url": "https://flash.jin10.com/detail/20260816161839442800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "华联控股：收到加拿大FIRES通知函 阿根廷锂盐湖项目投资可能触发审查",
+          "url": "https://wallstreetcn.com/livenews/3150047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 20时25分]"
+        },
+        {
+          "title": "小米澎程：电池热失控后不起火、爆炸",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8B%EF%BC%9A%E7%94%B5%E6%B1%A0%E7%83%AD%E5%A4%B1%E6%8E%A7%E5%90%8E%E4%B8%8D%E8%B5%B7%E7%81%AB%E3%80%81%E7%88%86%E7%82%B8",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时26分 ~ 17时21分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "医药 医疗",
       "match_count": 2,
       "titles": [
@@ -1496,9 +1730,37 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "恒生 恒生科技",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中信证券：恒生科技指数的调整具有显著事件效应",
+          "url": "https://flash.jin10.com/detail/20260816184629113800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
+          "title": "中信证券：恒生科技指数的调整具有显著事件效应",
+          "url": "https://wallstreetcn.com/livenews/3150056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
