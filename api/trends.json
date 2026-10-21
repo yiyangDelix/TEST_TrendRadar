@@ -1,11 +1,638 @@
 {
-  "generated_at": "2026-10-22T03:52:14.813375+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-22T06:58:21.041432+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "人工智能 AI",
+      "match_count": 30,
+      "titles": [
+        {
+          "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
+          "url": "https://www.cls.cn/detail/2511348",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "低价共享AI付费权益靠谱吗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BD%8E%E4%BB%B7%E5%85%B1%E4%BA%ABAI%E4%BB%98%E8%B4%B9%E6%9D%83%E7%9B%8A%E9%9D%A0%E8%B0%B1%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
+          "url": "https://wallstreetcn.com/articles/3784116",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "英伟达GTC柏林：电信基站有望变身AI算力节点，黄仁勋力推欧洲全行业拥抱AI",
+          "url": "https://wallstreetcn.com/articles/3784122",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "【焦点复盘】创指失守2700点续创年内新低，“宁王”市值单日“蒸发”近1500亿，端侧AI概念活跃依旧",
+          "url": "https://www.cls.cn/detail/2511149",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "超微电脑业绩远超预期，“AI交易”应声反弹，“服务器巨头”戴尔、慧与科技大涨",
+          "url": "https://wallstreetcn.com/articles/3784079",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784066",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 03时52分]"
+        },
+        {
+          "title": "沃尔玛将启动针对AI购物者控制的agent。 相关工具将支持消费者通过APPs和agents购物。 将支持消费者对AI agents设置开支额度的限制。",
+          "url": "https://wallstreetcn.com/livenews/3182934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "Meta个人AI智能体Muse上线一个月用户突破1000万",
+          "url": "https://flash.jin10.com/detail/20261022063620351800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "OpenAI：OpenAI模型即将登陆Google Cloud。我们将把前沿模型和Codex智能代理工作流带到Google Cloud的Model Garden，让企业能够在已开展业务的平台上使用我们的技术。",
+          "url": "https://flash.jin10.com/detail/20261022032437809800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "OpenAI的模型即将登陆谷歌云",
+          "url": "https://wallstreetcn.com/livenews/3182931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "张益唐的数学难题被AI化为习题",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E7%9B%8A%E5%94%90%E7%9A%84%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E8%A2%ABAI%E5%8C%96%E4%B8%BA%E4%B9%A0%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 03时52分]"
+        },
+        {
+          "title": "据美国财经媒体Semafor：Meta Platforms(META.O)最早可能于周三在发布季度财报的同时正式宣布无投票权股票计划，旨在为AI投资融资。此举不稀释扎克伯格的控制权。",
+          "url": "https://flash.jin10.com/detail/20261022032021675800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "连英伟达都承认消费级显卡已超出其控制，AI 显卡内存涨价狂潮何时结束?",
+          "url": "https://www.zhihu.com/question/2095674841978488596",
+          "source": "知乎",
+          "ranks": [
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "AI基建扩张加速，光通信锁定高增长预期",
+          "url": "https://wallstreetcn.com/livenews/3183007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？",
+          "url": "https://www.zhihu.com/question/2095844033167716971",
+          "source": "知乎",
+          "ranks": [
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "吴越等人被AI盗用带货，经济日报：识别AI仿冒平台需担起责任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34296636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "陶哲轩和邓煜的对谈《数学与 AI 究竟是什么关系？》，如何理解他们各自的观点？",
+          "url": "https://www.zhihu.com/question/2095840244973004152",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "外网评最烂AI命名榜,DS夺冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367763&amp;topic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "OpenAI：发布赋能网络防御方的蓝图，该文件基于此前的网络安全行动计划与前沿安全蓝图制定。 OpenAI呼吁加强前沿人工智能安全保障。",
+          "url": "https://wallstreetcn.com/livenews/3182923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "微软：2026年9月，黑客组织Storm-0940使用人工智能框架Artex对全球数百家组织发起自动化攻击。 Storm-0940 Artex驱动的攻击在多个实例中不到3小时就获得了特权云访问权限。 评估认为，Storm-0940 是最近披露的多租户应用程序 Connectwise 供应链攻击事件的幕后黑手。 Storm-0940“密码喷洒攻击行动”在10月10日至14日期间，针对8家机构的327个账号发起攻击。",
+          "url": "https://wallstreetcn.com/livenews/3182921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "OpenAI：更新我们的使用政策，自11月20日起生效，以明确安全模型开发和人工智能敏感用途的相关规则。 正在努力引入安全ID，客户可以提供该ID，以帮助我们在调查中区分各个最终用户。",
+          "url": "https://wallstreetcn.com/livenews/3182998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "OpenAI：更新后的使用政策要求，模型路由器和AI网关在提供访问权限前，必须获得OpenAI的审核和批准。",
+          "url": "https://flash.jin10.com/detail/20261022055300050800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "OpenAI：正致力于推出安全识别码（Safety IDs），用户可在调查过程中提供该识别码，以帮助区分不同的终端用户。",
+          "url": "https://flash.jin10.com/detail/20261022055128917800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "OpenAI：将于2026年11月20日起更新使用政策，以明确安全模型开发和敏感人工智能应用的相关规则。",
+          "url": "https://flash.jin10.com/detail/20261022055023306800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "华尔街大佬：AI确定已是大泡沫",
+          "url": "https://www.toutiao.com/trending/7699032278101397028/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "UP主自制AI丧尸剧余波",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6AI%E4%B8%A7%E5%B0%B8%E5%89%A7%E4%BD%99%E6%B3%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "Anthropic推出全天候AI智能体Claude Duet",
+          "url": "https://flash.jin10.com/detail/20261022054352077800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "MetaPlatforms的CEO扎克伯格表示：Muse——以及他将“个人超级智能”作为 Meta 战略北极星愿景——实际上已有数十年的酝酿。 这与我们在公司过去二十多年里一直从事的工作方向一致：赋能个体，让人们拥有发声渠道，并提供工具，让他们以自己想要的方式建立连接。 当我们把这一理念延伸到如今的 AI 工作时，我们认为，为下一代技术打造的最重要的东西，本质上就是把这项技术的能力交到每个人手中。 这些都是长期押注，从长远来看，只要我们继续保持良好的执行力，业务自然会水到渠成。",
+          "url": "https://wallstreetcn.com/livenews/3182986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "Meta首席财务官：相信随着时间的推移，人工智能将成为收入多元化的重要来源，对此我们充满信心。 预计新的人工智能业务将从2027年开始贡献增量收入。",
+          "url": "https://wallstreetcn.com/livenews/3182983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特斯拉 微软 Meta 英伟达 亚马逊",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "人民日报评特斯拉能飞：不必妄自菲薄",
+          "url": "https://www.toutiao.com/trending/7698981088210849318/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "SpaceX电话会：马斯克称明年ARR上看1万亿，已设委员会探索合并特斯拉",
+          "url": "https://wallstreetcn.com/articles/3784071",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "扎克伯格承诺留驻美国加州八年，作为Meta新设C类股安排的一部分。",
+          "url": "https://wallstreetcn.com/livenews/3183011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "Meta Platforms(META.O)涨幅迅速收窄至0.85%，此前一度涨2.71%。",
+          "url": "https://flash.jin10.com/detail/20261022032327155800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "扎克伯格与Meta签署八年居住协议，应对加州拟议财富税",
+          "url": "https://flash.jin10.com/detail/20261022062737752800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "特斯拉高管们被问及Optimus当前面临的最大问题，马斯克称：手。 （最大的问题在于）手指和手掌。 人类有自我修复能力，机器人没有。人的手指是柔软的，皮肤里还布满大量传感器。",
+          "url": "https://wallstreetcn.com/livenews/3183009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "纳指期货跌幅扩大至0.5%，特斯拉(TSLA.O)跌2.3%，美光科技(MU.O)、闪迪(SNDK.O)和SK海力士(SKHY.O)跌约1%。特斯拉透露其将把将年度资本开支目标从超过250亿美元下调至200亿美元。",
+          "url": "https://flash.jin10.com/detail/20261022062548299800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "报道：Meta打算引入新的无投票权股票",
+          "url": "https://wallstreetcn.com/livenews/3182928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时52分"
+        },
+        {
+          "title": "Motley Fool高级投资分析师：特斯拉公司现阶段增速“让人感到失望”。",
+          "url": "https://wallstreetcn.com/livenews/3183003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "如何看待人民锐评发表文章「特斯拉能飞，我们就被甩开了？」，中国汽车行业未来该如何发展？",
+          "url": "https://www.zhihu.com/question/2096169041811478462",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "人民锐评：特斯拉“能飞”，我们就被甩开了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34297031",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "特斯拉Roadster是怎么飞起来的",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89Roadster%E6%98%AF%E6%80%8E%E4%B9%88%E9%A3%9E%E8%B5%B7%E6%9D%A5%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 03时52分]"
+        },
+        {
+          "title": "Meta向扎克伯格发行新股，以免地方财富税迫使其出售投票权股份",
+          "url": "https://wallstreetcn.com/livenews/3183002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)高管：公司正为FSD自建地图。",
+          "url": "https://flash.jin10.com/detail/20261022060454540800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)高管：下月将在达拉斯推出Cybercab。",
+          "url": "https://flash.jin10.com/detail/20261022055547637800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "特斯拉：将年度资本开支目标从超过250亿美元下调至200亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3182997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "特斯拉CFO：数据中心对Megapack的需求“极其强劲”。",
+          "url": "https://wallstreetcn.com/livenews/3182996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)首席财务官：能源业务毛利率从20.4%升至33.1%，主要得益于关税退款和保修费用调整。",
+          "url": "https://flash.jin10.com/detail/20261022055114905800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "马斯克：不会针对特斯拉与SpaceX（潜在的）合并事宜透露更多信息。",
+          "url": "https://wallstreetcn.com/livenews/3182992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)首席财务官：特斯拉最大的需求驱动力是自动驾驶能力。",
+          "url": "https://flash.jin10.com/detail/20261022054924643800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "马斯克：预计到2027年年底将化解与Optimus相关的那些问题。 特斯拉已经在美国加州Fremont工厂高产生产线启动Optimus的“早期产品”（的生产活动）。",
+          "url": "https://wallstreetcn.com/livenews/3182991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)首席财务官：将今年资本支出指引上调至200亿美元。",
+          "url": "https://flash.jin10.com/detail/20261022054921707800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "特斯拉CEO马斯克在分析师电话会议上表示：目标是到2030年左右每年生产大约500万辆汽车。 特斯拉储能需求强劲，2027年所有Megapacks几乎售罄。",
+          "url": "https://wallstreetcn.com/livenews/3182989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "提醒：Meta Platforms分析师电话会议结束。",
+          "url": "https://wallstreetcn.com/livenews/3182987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)CEO马斯克：关于与SpaceX(SPCX.O)的潜在合并，我认为昨天该说的都已经说了。",
+          "url": "https://flash.jin10.com/detail/20261022054322684800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美国 伊朗",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "WTI原油短线走低0.5美元，美国国务院下令仅限在沙特的非紧急美国政府雇员及其家属撤离。",
@@ -14,7 +641,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -25,7 +652,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -36,9 +663,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "美国增兵1万人、以色列酝酿新一轮打击、伊朗发出战争警告，中东火药桶一触即发？",
+          "url": "https://wallstreetcn.com/articles/3784121",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "美怀疑以军诱伊朗开火 数十架以军战机曾逼近伊朗边境",
@@ -47,9 +685,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "伊朗指责美国在军事行动中使用进攻性太空能力",
+          "url": "https://flash.jin10.com/detail/20261022061230479800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "美国芝加哥商业交易所集团（CME Group）CEO Terry Duffy：地缘政治紧张局势对（美国）通胀“有太大的影响”。（彭博电视）",
@@ -58,7 +707,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -80,9 +729,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "伊朗已有超 3 万名女性忍者，熟练使用弓、剑、飞镖等武器等训练画面走热，背后是怎样的社会文化环境？",
+          "url": "https://www.zhihu.com/question/2095115972684112468",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "现货白银向下触及57美元/盎司，日内跌1.74%。现货黄金15分钟走低逾美元，现报4107美元/盎司。消息称，美国国务院正准备下令海湾地区各美国大使馆的部分人员及家属撤离。",
@@ -91,7 +751,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -102,7 +762,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -113,7 +773,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -124,7 +784,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -135,7 +795,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -146,7 +806,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -157,7 +817,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -168,7 +828,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -179,9 +839,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "美国下令驻沙特“非紧急”政府雇员及家属撤离",
+          "url": "https://wallstreetcn.com/livenews/3182990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "美国大使馆就胡塞武装袭击沙特阿拉伯一事发布安全警报。",
@@ -190,7 +861,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -201,9 +872,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "伊朗外长：面对任何侵略，伊朗都将坚决捍卫国家主权",
+          "url": "https://flash.jin10.com/detail/20261022053925211800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "SpaceX为员工提供20%的额外薪酬，来协助其美国孟菲斯超级计算机投入运行。（Business Insider）",
@@ -212,7 +894,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -223,222 +905,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能 AI",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "低价共享AI付费权益靠谱吗",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BD%8E%E4%BB%B7%E5%85%B1%E4%BA%ABAI%E4%BB%98%E8%B4%B9%E6%9D%83%E7%9B%8A%E9%9D%A0%E8%B0%B1%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
-          "url": "https://www.cls.cn/detail/2511348",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3784066",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "连英伟达都承认消费级显卡已超出其控制，AI 显卡内存涨价狂潮何时结束?",
-          "url": "https://www.zhihu.com/question/2095674841978488596",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "沃尔玛将启动针对AI购物者控制的agent。 相关工具将支持消费者通过APPs和agents购物。 将支持消费者对AI agents设置开支额度的限制。",
-          "url": "https://wallstreetcn.com/livenews/3182934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
-          "url": "https://wallstreetcn.com/articles/3784116",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "【焦点复盘】创指失守2700点续创年内新低，“宁王”市值单日“蒸发”近1500亿，端侧AI概念活跃依旧",
-          "url": "https://www.cls.cn/detail/2511149",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "英伟达GTC柏林：电信基站有望变身AI算力节点，黄仁勋力推欧洲全行业拥抱AI",
-          "url": "https://wallstreetcn.com/articles/3784122",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "OpenAI：OpenAI模型即将登陆Google Cloud。我们将把前沿模型和Codex智能代理工作流带到Google Cloud的Model Garden，让企业能够在已开展业务的平台上使用我们的技术。",
-          "url": "https://flash.jin10.com/detail/20261022032437809800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "OpenAI的模型即将登陆谷歌云",
-          "url": "https://wallstreetcn.com/livenews/3182931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "超微电脑业绩远超预期，“AI交易”应声反弹，“服务器巨头”戴尔、慧与科技大涨",
-          "url": "https://wallstreetcn.com/articles/3784079",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "张益唐的数学难题被AI化为习题",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BC%A0%E7%9B%8A%E5%94%90%E7%9A%84%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98%E8%A2%ABAI%E5%8C%96%E4%B8%BA%E4%B9%A0%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "据美国财经媒体Semafor：Meta Platforms(META.O)最早可能于周三在发布季度财报的同时正式宣布无投票权股票计划，旨在为AI投资融资。此举不稀释扎克伯格的控制权。",
-          "url": "https://flash.jin10.com/detail/20261022032021675800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "吴越等人被AI盗用带货，经济日报：识别AI仿冒平台需担起责任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34296636",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "网友高铁偶遇自称 114 岁老人，能熟练使用智能手机，年龄真实性如何？横跨民国到 AI 时代的人生会是怎样的？",
-          "url": "https://www.zhihu.com/question/2095844033167716971",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "陶哲轩和邓煜的对谈《数学与 AI 究竟是什么关系？》，如何理解他们各自的观点？",
-          "url": "https://www.zhihu.com/question/2095840244973004152",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "外网评最烂AI命名榜,DS夺冠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367763&amp;topic_name=%E5%A4%96%E7%BD%91%E8%AF%84%E6%9C%80%E7%83%82AI%E5%91%BD%E5%90%8D%E6%A6%9C%2CDS%E5%A4%BA%E5%86%A0",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "OpenAI：发布赋能网络防御方的蓝图，该文件基于此前的网络安全行动计划与前沿安全蓝图制定。 OpenAI呼吁加强前沿人工智能安全保障。",
-          "url": "https://wallstreetcn.com/livenews/3182923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "微软：2026年9月，黑客组织Storm-0940使用人工智能框架Artex对全球数百家组织发起自动化攻击。 Storm-0940 Artex驱动的攻击在多个实例中不到3小时就获得了特权云访问权限。 评估认为，Storm-0940 是最近披露的多租户应用程序 Connectwise 供应链攻击事件的幕后黑手。 Storm-0940“密码喷洒攻击行动”在10月10日至14日期间，针对8家机构的327个账号发起攻击。",
-          "url": "https://wallstreetcn.com/livenews/3182921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "03时52分"
         }
@@ -446,7 +913,7 @@
     },
     {
       "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "泽连斯基和特朗普，彻底决裂了？",
@@ -456,8 +923,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
         },
         {
           "title": "街头在燃烧，“总统在舞蹈”",
@@ -467,8 +934,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
         },
         {
           "title": "黄仁勋直接对德国总理说：欧洲都没这个技术，谈什么监管？",
@@ -478,8 +945,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
         },
         {
           "title": "美国总统特朗普：距离解决俄乌冲突越来越近了。",
@@ -488,7 +955,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -499,9 +966,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
+        },
+        {
+          "title": "据NewsNation：特朗普已抵达南卡罗来纳州。",
+          "url": "https://flash.jin10.com/detail/20261022061709840800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "美国总统特朗普：更加接近解决俄罗斯与乌克兰的冲突。 现在可能是我们距离结束冲突最近的一次。 （关于哈伯德从俄罗斯获释）我们没有做出任何交换。",
@@ -510,7 +988,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -521,7 +999,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -532,7 +1010,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -543,7 +1021,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -554,7 +1032,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
         },
@@ -565,109 +1043,27 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特斯拉 微软 Meta 英伟达 亚马逊",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "人民日报评特斯拉能飞：不必妄自菲薄",
-          "url": "https://www.toutiao.com/trending/7698981088210849318/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "SpaceX电话会：马斯克称明年ARR上看1万亿，已设委员会探索合并特斯拉",
-          "url": "https://wallstreetcn.com/articles/3784071",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "Meta Platforms(META.O)涨幅迅速收窄至0.85%，此前一度涨2.71%。",
-          "url": "https://flash.jin10.com/detail/20261022032327155800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "报道：Meta打算引入新的无投票权股票",
-          "url": "https://wallstreetcn.com/livenews/3182928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时52分"
-        },
-        {
-          "title": "如何看待人民锐评发表文章「特斯拉能飞，我们就被甩开了？」，中国汽车行业未来该如何发展？",
-          "url": "https://www.zhihu.com/question/2096169041811478462",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "人民锐评：特斯拉“能飞”，我们就被甩开了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34297031",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "特斯拉Roadster是怎么飞起来的",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89Roadster%E6%98%AF%E6%80%8E%E4%B9%88%E9%A3%9E%E8%B5%B7%E6%9D%A5%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
         }
       ]
     },
     {
       "keyword_group": "A股 上证 深证 创业板 科创",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "创业板跌超1%，宁德时代跌12%创历史最大单日跌幅，光通信、存储芯片反弹，恒科指跌破4000点，权重科网股普跌",
           "url": "https://wallstreetcn.com/articles/3784091",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落跌1.62%，数据要素概念逆势走强，宁德时代重挫12%",
@@ -677,8 +1073,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "A股上市公司三季报披露进入加速期，绩优股获青睐",
+          "url": "https://wallstreetcn.com/livenews/3183008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         },
         {
           "title": "A股又一次冲高回落究竟谁在砸盘",
@@ -695,7 +1102,7 @@
     },
     {
       "keyword_group": "半导体 芯片 算力",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "一图看懂 | 半导体产业链三季报“炸场”：已有20家公司净利翻倍，最高预增超30倍",
@@ -705,19 +1112,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
         },
         {
           "title": "Anthropic招股书：上半年营收163亿、亏损807亿，二季度转盈，算力开支或达7500亿",
           "url": "https://wallstreetcn.com/articles/3784062",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
         },
         {
           "title": "黄仁勋“开团”！事关CPO、基板、半导体封装 “达链”扩产潮或启动",
@@ -729,6 +1137,97 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时51分 ~ 03时52分]"
+        },
+        {
+          "title": "马斯克：预计明年6月前推出测试芯片，2028年三季度前实现量产。",
+          "url": "https://wallstreetcn.com/livenews/3182993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股 道琼斯 纳斯达克 标普500",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
+          "url": "https://www.cls.cn/detail/2511618",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "周四亚太盘初，纳斯达克100股指期货跌0.3%，标普股指期货跌0.1%。 科技股中，特斯拉美股盘后跌幅扩大至2.8%，该公司下调资本开支目标。IBM跌2.5%，Nebius Group NV跌1.4%，英特尔、博通、AMD、SK海力士ADR至多跌0.9%，西部数据涨0.3%，Meta涨2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3183001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "纳指ETF收涨1%，与可转债ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3182984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "锂 锂矿 电池 三元 磷酸铁锂",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "问界回应“陕西神木一车辆碰撞起火”：事发时处于人驾状态，电池爆燃等传闻不实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34299917",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "宁德时代 A 股盘中跌超 10％，本轮大跌有哪些诱因？动力电池行业增长逻辑要变了吗？",
+          "url": "https://www.zhihu.com/question/2096182082548523173",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
+        },
+        {
+          "title": "问界辟谣网传电池爆燃智驾撞击",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8C%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E7%94%B5%E6%B1%A0%E7%88%86%E7%87%83%E6%99%BA%E9%A9%BE%E6%92%9E%E5%87%BB%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         }
       ]
     },
@@ -741,50 +1240,53 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E5%8A%9F%E5%A4%AB%E4%BC%A0%E5%A5%87%E6%9C%BA%E5%99%A8%E4%BA%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
         },
         {
           "title": "揭秘机器人数据采集行业内幕",
           "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
         }
       ]
     },
     {
-      "keyword_group": "锂 锂矿 电池 三元 磷酸铁锂",
+      "keyword_group": "阿里 腾讯 拼多多 小米 美团 泡泡玛特 兆易创新",
       "match_count": 2,
       "titles": [
         {
-          "title": "问界回应“陕西神木一车辆碰撞起火”：事发时处于人驾状态，电池爆燃等传闻不实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34299917",
-          "source": "澎湃新闻",
+          "title": "腾讯姚顺雨想把DeepSeek卷到加班",
+          "url": "https://www.toutiao.com/trending/7697961005829668883/",
+          "source": "今日头条",
           "ranks": [
-            6
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
         },
         {
-          "title": "宁德时代 A 股盘中跌超 10％，本轮大跌有哪些诱因？动力电池行业增长逻辑要变了吗？",
-          "url": "https://www.zhihu.com/question/2096182082548523173",
-          "source": "知乎",
+          "title": "泡泡玛特五连跌 段永平：还会再买",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E4%BA%94%E8%BF%9E%E8%B7%8C+%E6%AE%B5%E6%B0%B8%E5%B9%B3%EF%BC%9A%E8%BF%98%E4%BC%9A%E5%86%8D%E4%B9%B0",
+          "source": "百度热搜",
           "ranks": [
-            13
+            28
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时58分"
         }
       ]
     },
@@ -800,8 +1302,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
         }
       ]
     },
@@ -814,11 +1316,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_34297764",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 06时58分]"
         }
       ]
     },
@@ -833,26 +1336,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "阿里 腾讯 拼多多 小米 美团 泡泡玛特 兆易创新",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "腾讯姚顺雨想把DeepSeek卷到加班",
-          "url": "https://www.toutiao.com/trending/7697961005829668883/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
         }
       ]
     }
