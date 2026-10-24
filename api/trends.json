@@ -1,11 +1,551 @@
 {
-  "generated_at": "2026-10-25T02:41:11.950792+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-10-25T05:23:10.504262+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普 总统 主席 总理",
+      "match_count": 30,
+      "titles": [
+        {
+          "title": "特朗普：结束伊朗战事后，顺道解决古巴",
+          "url": "https://news.ifeng.com/c/8xU7eotOY7u",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
+        },
+        {
+          "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
+          "url": "https://www.cls.cn/detail/2514121",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
+        },
+        {
+          "title": "特朗普脸上出现神秘新淤青，在社交平台发布隐晦消息(图)",
+          "url": "https://news.ifeng.com/c/8xUG1Vp70iY",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：如果你们希望确保以色列国家的生存、防止其遭到毁灭，就请投票支持我。",
+          "url": "https://flash.jin10.com/detail/20261025020643807800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美国官员：预计特朗普将宣布，奥迪将在美国佐治亚州新建一座工厂，年产20万辆SUV。",
+          "url": "https://flash.jin10.com/detail/20261025045933853800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：我的叔叔约翰·特朗普（John Trump）发明了雷达，你们能相信吗？然后我现在摧毁了伊朗的雷达，他可能会对我有点生气。",
+          "url": "https://flash.jin10.com/detail/20261025045533668800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：10月27日的以色列选举为一场关乎以色列存亡的较量，继续领导以色列对于应对伊朗威胁至关重要。",
+          "url": "https://flash.jin10.com/detail/20261025015636760800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗有259架战斗机，我把它们全都摧毁了。伊朗还有259艘船。它们都沉到海底了。",
+          "url": "https://flash.jin10.com/detail/20261025045404823800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：如果我不干预，伊朗早晚会找到办法制造核弹。",
+          "url": "https://flash.jin10.com/detail/20261025045139654800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：伊朗已重启核计划，并企图在不久的将来消灭以色列。",
+          "url": "https://flash.jin10.com/detail/20261025015508342800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗方面希望达成协议，但问题在于，他们能否遵守协议？",
+          "url": "https://flash.jin10.com/detail/20261025045129980800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：克林顿不算差，但他有不少丑闻。要不是这些丑闻，他本会是一位不错的总统。",
+          "url": "https://flash.jin10.com/detail/20261025044518490800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：许多伊朗民众正面临获取食物的困难，呼吁结束当前“不战不和”的局面。",
+          "url": "https://flash.jin10.com/detail/20261025012850708800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "特朗普：可能再次打击伊朗 也可能达成协议",
+          "url": "https://flash.jin10.com/detail/20261025043858772800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "特朗普怒喷詹姆斯不尊重美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
+        },
+        {
+          "title": "特朗普在Truth Social上评论白宫新闻发布室：可能会将新闻（发布会）移至另一地点。",
+          "url": "https://wallstreetcn.com/livenews/3185142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时23分]"
+        },
+        {
+          "title": "美国总统特朗普：我刚进入政坛时，共和党要弱得多，规模更小，然后我参选并赢了。",
+          "url": "https://flash.jin10.com/detail/20261025043647573800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：我正在考虑对伊朗发动袭击，可能明天就会采取行动，但我不会透露任何潜在军事行动的具体时间。也有可能与伊朗达成一项重大且有利的协议。",
+          "url": "https://flash.jin10.com/detail/20261025043255713800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗方面希望达成协议。",
+          "url": "https://flash.jin10.com/detail/20261025042903116800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：我有可能对伊朗发动袭击。",
+          "url": "https://flash.jin10.com/detail/20261025042754862800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：接连不断的竞选集会让我嗓子吃不消。",
+          "url": "https://flash.jin10.com/detail/20261025042555088800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：我可能不得不彻底解决伊朗问题，也可能与伊朗达成协议。无论哪种方式，我们都会赢。",
+          "url": "https://flash.jin10.com/detail/20261025042421381800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国白宫发布特朗普海报，并配文“让美国再次安全”。",
+          "url": "https://flash.jin10.com/detail/20261025004301977800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美国总统特朗普：一旦俄罗斯与乌克兰达成协议，美国就能够与两国开展商业往来。",
+          "url": "https://flash.jin10.com/detail/20261025042308280800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：（关于星链）我已与马斯克通话。",
+          "url": "https://flash.jin10.com/detail/20261025042016496800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "鲁比奥：特朗普总统富有远见",
+          "url": "https://flash.jin10.com/detail/20261025040907410800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "伊朗革命卫队发言人穆赫比：特朗普夸张的言论和威胁都是无稽之谈。",
+          "url": "https://flash.jin10.com/detail/20261025002000384800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "伊朗议会国家安全委员会主席：敌人要清楚，如果采取任何危及伊朗安全和国家利益的行动，我们将在不到一小时内使被占领领土不适宜居住。",
+          "url": "https://flash.jin10.com/detail/20261025040210408800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国前总统奥巴马：对伊朗的战争爆发7个月以来，已有数百名美国人伤亡，美国的导弹库存也正接近耗尽。",
+          "url": "https://flash.jin10.com/detail/20261025034511701800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国前总统奥巴马：特朗普已将白宫改造成一个虚浮、奢华的场所。",
+          "url": "https://flash.jin10.com/detail/20261025034454052800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国 伊朗",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "美国女孩来华上学,英语考倒一",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368007&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%A9%E6%9D%A5%E5%8D%8E%E4%B8%8A%E5%AD%A6%2C%E8%8B%B1%E8%AF%AD%E8%80%83%E5%80%92%E4%B8%80",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
+        },
+        {
+          "title": "美削减中东多国使馆人员，防伊朗威胁",
+          "url": "https://news.ifeng.com/c/8xU7l9ERVqX",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
+        },
+        {
+          "title": "内塔尼亚胡称美国“已经变了”",
+          "url": "https://news.ifeng.com/c/8xU7eotOXua",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
+        },
+        {
+          "title": "奥巴马：伊朗掌握霍尔木兹海峡通行否决权",
+          "url": "https://flash.jin10.com/detail/20261025050919612800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "伊朗驻印度大使馆：伊朗议会议长兼伊方谈判代表团团长卡利巴夫因“某些不可预见的情况”，将不出席在新德里举行的金砖国家成员国议长会议。",
+          "url": "https://flash.jin10.com/detail/20261025015552118800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：英国、法国、德国和欧盟在与德黑兰的谈判中缺乏严肃性和独立性。他们追随美国的胁迫政策，在外交进程中扮演了破坏性角色。呼吁欧洲国家尊重国际法，放弃对伊朗的制裁和胁迫措施，以展现其对外交的承诺。",
+          "url": "https://flash.jin10.com/detail/20261025044015385800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国务院新闻顾问上任不到1天就辞职",
+          "url": "https://news.ifeng.com/c/8xU7um0MsZP",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
+        },
+        {
+          "title": "美国稀土大项目黄了",
+          "url": "https://www.toutiao.com/trending/7699419492510072875/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
+        },
+        {
+          "title": "八国外长“史无前例”齐聚土耳其，反对对伊朗采取军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34325583",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 05时23分]"
+        },
+        {
+          "title": "美国寻求加大参与打击墨西哥贩毒集团的行动。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3185124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时23分]"
+        },
+        {
+          "title": "专家：美国民主党无力阻止俄罗斯柴油进口协议",
+          "url": "https://flash.jin10.com/detail/20261025004941284800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美国国务院发言人表示：美国谴责发生在约旦卡拉克省哈穆德地区圣乔治希腊东正教堂葬礼上的骇人袭击事件。我们向遇难者家属致以最深切的慰问，并祈愿伤者早日康复。",
+          "url": "https://flash.jin10.com/detail/20261025003512306800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗司法总监与最高领袖穆杰塔巴表示，必须就美以方面犯罪行为造成的物质和精神损害寻求赔偿。",
+          "url": "https://flash.jin10.com/detail/20261025003454691800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "伊朗驳斥沙特媒体报道：未向巴基斯坦提出任何新提议",
+          "url": "https://flash.jin10.com/detail/20261025041848330800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗司法总监与最高领袖穆杰塔巴举行会晤。",
+          "url": "https://flash.jin10.com/detail/20261025003418492800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "伊朗革命卫队发言人穆赫比：这场冲突可能产生的影响不仅会波及伊朗境内，还可能影响到其他国家的命运。",
+          "url": "https://flash.jin10.com/detail/20261025002039910800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "市场消息：大众汽车将在美国佐治亚州为旗下豪华品牌奥迪新建一座工厂，并扩建位于南卡罗来纳州的现有工厂。",
+          "url": "https://flash.jin10.com/detail/20261025040542460800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊拉克关闭与伊朗的边境口岸，无异于对自身实施制裁。",
+          "url": "https://flash.jin10.com/detail/20261025034900435800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能 AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
@@ -15,19 +555,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
-        },
-        {
-          "title": "国务院办公厅称要「有效减缓人工智能应用就业替代影响」，释放出什么信号？可能带来哪些实际影响？",
-          "url": "https://www.zhihu.com/question/2097043375547536464",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
         },
         {
           "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
@@ -37,8 +566,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
         },
         {
           "title": "B站肥鱼成灾,AI评论泛滥",
@@ -48,41 +577,56 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
+        },
+        {
+          "title": "国务院办公厅称要「有效减缓人工智能应用就业替代影响」，释放出什么信号？可能带来哪些实际影响？",
+          "url": "https://www.zhihu.com/question/2097043375547536464",
+          "source": "知乎",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
         },
         {
           "title": "亚马逊CEO：AI业务年化收入超250亿美元，增速是AWS初期的数百倍，砸2200亿美元仍无法满足需求",
           "url": "https://wallstreetcn.com/articles/3784391",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
         },
         {
           "title": "当AI开始写代码，还需要什么样的程序员？",
           "url": "https://m.thepaper.cn/newsDetail_forward_34225156",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
         },
         {
           "title": "“共识交易”的瓦解和新共识的诞生！高盛解答：为何机构当下都在大幅减仓AI",
           "url": "https://wallstreetcn.com/articles/3784388",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
         },
         {
           "title": "“黑色十月”席卷全球互联网！AI正彻底掀翻网络安全牌桌？",
@@ -92,19 +636,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
         },
         {
           "title": "警告“下调评级”数据中心，标普要给AI债务危机“火上浇油”",
           "url": "https://wallstreetcn.com/articles/3784379",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
         },
         {
           "title": "《AIGC时代互联网广告治理蓝皮书》发布，倡导“以AI治AI”",
@@ -113,9 +658,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时23分]"
+        },
+        {
+          "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
+          "url": "https://wallstreetcn.com/articles/3784381",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 05时23分]"
         },
         {
           "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
@@ -125,8 +681,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
         },
         {
           "title": "“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”",
@@ -136,8 +692,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
+        },
+        {
+          "title": "字节AI应用再整合：小云雀并入即梦",
+          "url": "https://wallstreetcn.com/livenews/3185128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "time_info": "[02时41分 ~ 05时23分]"
         },
         {
           "title": "AI泡沫或在2028年初破裂",
@@ -149,282 +716,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时40分 ~ 02时41分]"
-        },
-        {
-          "title": "字节AI应用再整合：小云雀并入即梦",
-          "url": "https://wallstreetcn.com/livenews/3185128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美国 伊朗",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "美国女孩来华上学,英语考倒一",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368007&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%A9%E6%9D%A5%E5%8D%8E%E4%B8%8A%E5%AD%A6%2C%E8%8B%B1%E8%AF%AD%E8%80%83%E5%80%92%E4%B8%80",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
-        },
-        {
-          "title": "美削减中东多国使馆人员，防伊朗威胁",
-          "url": "https://news.ifeng.com/c/8xU7l9ERVqX",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
-        },
-        {
-          "title": "内塔尼亚胡称美国“已经变了”",
-          "url": "https://news.ifeng.com/c/8xU7eotOXua",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
-        },
-        {
-          "title": "伊朗驻印度大使馆：伊朗议会议长兼伊方谈判代表团团长卡利巴夫因“某些不可预见的情况”，将不出席在新德里举行的金砖国家成员国议长会议。",
-          "url": "https://flash.jin10.com/detail/20261025015552118800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "美国务院新闻顾问上任不到1天就辞职",
-          "url": "https://news.ifeng.com/c/8xU7um0MsZP",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
-        },
-        {
-          "title": "美国稀土大项目黄了",
-          "url": "https://www.toutiao.com/trending/7699419492510072875/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
-        },
-        {
-          "title": "专家：美国民主党无力阻止俄罗斯柴油进口协议",
-          "url": "https://flash.jin10.com/detail/20261025004941284800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "美国国务院发言人表示：美国谴责发生在约旦卡拉克省哈穆德地区圣乔治希腊东正教堂葬礼上的骇人袭击事件。我们向遇难者家属致以最深切的慰问，并祈愿伤者早日康复。",
-          "url": "https://flash.jin10.com/detail/20261025003512306800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "据伊朗媒体：伊朗司法总监与最高领袖穆杰塔巴表示，必须就美以方面犯罪行为造成的物质和精神损害寻求赔偿。",
-          "url": "https://flash.jin10.com/detail/20261025003454691800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "据伊朗媒体：伊朗司法总监与最高领袖穆杰塔巴举行会晤。",
-          "url": "https://flash.jin10.com/detail/20261025003418492800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "伊朗革命卫队发言人穆赫比：这场冲突可能产生的影响不仅会波及伊朗境内，还可能影响到其他国家的命运。",
-          "url": "https://flash.jin10.com/detail/20261025002039910800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "美国寻求加大参与打击墨西哥贩毒集团的行动。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3185124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普 总统 主席 总理",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "特朗普：结束伊朗战事后，顺道解决古巴",
-          "url": "https://news.ifeng.com/c/8xU7eotOY7u",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：如果你们希望确保以色列国家的生存、防止其遭到毁灭，就请投票支持我。",
-          "url": "https://flash.jin10.com/detail/20261025020643807800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
-          "url": "https://www.cls.cn/detail/2514121",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：10月27日的以色列选举为一场关乎以色列存亡的较量，继续领导以色列对于应对伊朗威胁至关重要。",
-          "url": "https://flash.jin10.com/detail/20261025015636760800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "特朗普脸上出现神秘新淤青，在社交平台发布隐晦消息(图)",
-          "url": "https://news.ifeng.com/c/8xUG1Vp70iY",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：伊朗已重启核计划，并企图在不久的将来消灭以色列。",
-          "url": "https://flash.jin10.com/detail/20261025015508342800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：许多伊朗民众正面临获取食物的困难，呼吁结束当前“不战不和”的局面。",
-          "url": "https://flash.jin10.com/detail/20261025012850708800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "特朗普怒喷詹姆斯不尊重美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
-        },
-        {
-          "title": "特朗普在Truth Social上评论白宫新闻发布室：可能会将新闻（发布会）移至另一地点。",
-          "url": "https://wallstreetcn.com/livenews/3185142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "美国白宫发布特朗普海报，并配文“让美国再次安全”。",
-          "url": "https://flash.jin10.com/detail/20261025004301977800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "伊朗革命卫队发言人穆赫比：特朗普夸张的言论和威胁都是无稽之谈。",
-          "url": "https://flash.jin10.com/detail/20261025002000384800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
         }
       ]
     },
@@ -437,22 +728,24 @@
           "url": "https://www.cls.cn/detail/2514147",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
         },
         {
           "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
           "url": "https://www.cls.cn/detail/2514116",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
         },
         {
           "title": "华福证券陈兴：A股估值已充分消化谨慎预期，权益资产配置价值逐步凸显",
@@ -461,9 +754,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时23分]"
         },
         {
           "title": "当前A股如何形成新合力？六大券商首席发声",
@@ -473,8 +766,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
         }
       ]
     },
@@ -490,19 +783,49 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
         },
         {
           "title": "美股收盘：油价暴涨压制市场情绪 三大指数集体收低",
           "url": "https://www.cls.cn/detail/2514112",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "宇树机器人侧空翻表演时甩断腿，问题可能出在哪里？出现这种情况正常吗？",
+          "url": "https://www.zhihu.com/question/2097252062257832354",
+          "source": "知乎",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
+        },
+        {
+          "title": "智元机器人创造吉尼斯世界纪录",
+          "url": "https://www.baidu.com/s?wd=%E6%99%BA%E5%85%83%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%9B%E9%80%A0%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "time_info": "[05时22分 ~ 05时23分]"
         }
       ]
     },
@@ -517,9 +840,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时23分]"
         },
         {
           "title": "亿纬锂能：公司四季度排产预计环比增长 产能已确定订满",
@@ -528,9 +851,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时23分]"
         }
       ]
     },
@@ -546,8 +869,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
         },
         {
           "title": "CEIC2026消费电子创新大会发布《消费电子十大趋势》",
@@ -556,9 +879,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时23分]"
         }
       ]
     },
@@ -571,11 +894,12 @@
           "url": "https://www.zhihu.com/question/1926924740225922646",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
         },
         {
           "title": "腾讯WorkBuddy接入模型Kimi-K3.1-Pro",
@@ -584,9 +908,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 05时23分]"
         }
       ]
     },
@@ -599,11 +923,12 @@
           "url": "https://www.baidu.com/s?wd=%E6%B0%B4%E5%BA%93%E5%8F%91%E7%8E%B0%E8%A2%AB%E6%8E%A9%E5%9F%8B%E5%8C%BB%E7%96%97%E5%9E%83%E5%9C%BE+%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
         }
       ]
     },
@@ -616,28 +941,12 @@
           "url": "https://www.cls.cn/detail/2514219",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "宇树机器人侧空翻表演时甩断腿，问题可能出在哪里？出现这种情况正常吗？",
-          "url": "https://www.zhihu.com/question/2097252062257832354",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 05时23分]"
         }
       ]
     }
